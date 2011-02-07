@@ -1,0 +1,22 @@
+<h1>Phase 1 Root Concept</h1>
+
+<h2>Vision</h2>
+<p>
+    A game recorder will be have an intuitive, efficient, and quick interface to
+    update remote fans on live game changes via the web.
+</p>
+
+<h2>Basic Rationale</h2>
+<p>
+    Basketball are very fast paced. The recorder must be able to keep up with the
+    pace of the game or information will not be conveyed to the fans in a timely
+    manner. The interface can help by eliminating repetitive tasks, removing 
+    complicated tasks, aiding accuracy, and updating a lot of different data with
+    simple actions.
+</p>
+
+<h2>Arival at our Rationale</h2>
+<p>
+    We looked at what kind of information needed to be recorded, how the speed of
+    the game influences the client's interaction with the system, and 
+</p>
