@@ -19,7 +19,10 @@
 <p>
     We looked at what kind of information needed to be recorded, how the speed of
     the game influences the client's interaction with the system, and also the
-    information the fans would like to see. 
+    information the fans would like to see. We identified some key properties that
+    our system must have: speed, intuitiveness, and accuracy. These properties will
+    ensure that fans have a good picture of what is going on in the game while not
+    being able to view the game directly.
 </p>
 
 <h2>Other Concepts</h2>
