@@ -1,5 +1,5 @@
 <h1>Home Page for phase 1</h1>
 
 <ul>
-<li><a href="Phase1RootConcept.wiki">Root Concept Page</a></li>
+<li>Phase1RootConcept</li>
 </ul>
