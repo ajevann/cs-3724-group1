@@ -19,3 +19,5 @@ This is the data that was collected from the survey:
 <h3>Current Interfaces</h3>
 
 This is an image of a current basketball game tracking interface:
+
+[Image:current_interface.png]
