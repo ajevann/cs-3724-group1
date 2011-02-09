@@ -4,8 +4,8 @@
 <li>Phase1RootConcept</li>
 </ul>
 <ul>
-<li>Field Studies and Artifacts</li>
+<li>Phase1FieldStudiesandArtifacts</li>
 </ul>
 <ul>
-<li>Summaries</li>
+<li>Phase1Summaries</li>
 </ul>
