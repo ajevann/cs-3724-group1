@@ -21,3 +21,5 @@ This is the data that was collected from the survey:
 This is an image of a current basketball game tracking interface:
 
 <a href = "http://cs-3724-group1.googlecode.com/files/current_interface.png">Paper Interface</a>
+
+{Image: current_interface.png}
