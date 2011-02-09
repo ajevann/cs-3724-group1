@@ -3,3 +3,19 @@
 <h2>Interview Transcript</h2>
 
 This is an interview with our client. He currently keeps track of play by play events at basketball games for personal use. The full transcript of the interview follows:
+
+[Insert transcript text here]
+
+<h2>Survey Questions</h2>
+
+These are the questions that were included in a survey that was distributed online:
+
+<h2>Survey Results</h2>
+
+This is the data that was collected from the survey:
+
+<h2>Artifacts</h2>
+
+<h3>Current Interfaces</h3>
+
+This is an image of a current basketball game tracking interface:
