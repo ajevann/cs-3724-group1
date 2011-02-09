@@ -1,6 +1,6 @@
-<html>
+
 <h1>Summaries Page</h1>
-<body>
+
 
 
 <h2>
@@ -128,7 +128,7 @@ The aim of the questionnaire was primarily to learn exactly what types of statis
 Our questionnaire resulted in a list of events or statistics that we could sort into high, medium, and low priority events. High priority events included two-point shots, three-point shots, layups, fouls, assists, possession changes ,and timeouts. 
 Medium priority events included steals, misses, blocks, dunks, and highlight events (i.e. windmill dunks). Low priority events included passes, and rebounds.
 </p>
-[Questionnaire Link]
+Questionnaire Link goes here
 
 <h2>Client Interview Summary:</h2>
 <p>
@@ -140,7 +140,4 @@ attention or thought as both are in high demand while trying to record the event
 <p>
 Also of concern was the method of input, our client has extensive training and practice in keyboard use and that currently is what he feels most comfortable with, along with touch devices. 
 </p>
-[Interview Link]
-
-</body>
-</html>
+Interview Link goes here
