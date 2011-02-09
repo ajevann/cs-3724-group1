@@ -20,4 +20,4 @@ This is the data that was collected from the survey:
 
 This is an image of a current basketball game tracking interface:
 
-[img: current_interface.png]
+current_interface.png
