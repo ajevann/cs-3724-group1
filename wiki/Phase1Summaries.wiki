@@ -1,0 +1,146 @@
+<html>
+<h1>Summaries Page</h1>
+<body>
+
+
+<h2>
+Stakeholder Profiles:
+</h2>
+
+<table border="1">
+<tr>
+<th>Stakeholder</th>
+<th>Characteristics</th>
+</tr>
+<tr>
+<td>End User</td>
+<td>
+
+<u>Background:</u> 
+<p>
+Typically basketball fans, with a particular interest in the team they support. Medium to low computer knowledge.
+</p>
+
+<u>Expectations:</u> 
+<p>The system should accurately update them on the game in a timely fashion. Including updates of all the events they are interested in. 
+Also expect to feel immersed in the action of the game.
+</p>
+
+<u>Preferences:</u> 
+<p>
+Preference for browser driven applications, comfortable on Windows and Mac platforms, as well as Android and iOS mobile platforms.
+</p>
+
+</td>
+</tr>
+<tr>
+<td>Recorder</td>
+<td>
+
+<u>Background:</u>
+<p> 
+Experienced Basketball statistician with a high level of basketball knowledge. Focused on getting the event recorded correctly, especially the first time. 
+Familiar with Windows, Android, and iOS device platforms. Has a background using keyboard, mouse, and touch screen input methods with extensive training in keyboard use.
+</p>
+
+<u>Expectations:</u>
+<p> The interface should be primarily reliable and responsive. The interface should also be simple and clean, not distracting from the game. 
+Should provide the ability to quickly and easily modify previous entries. Additionally it should be portable, allowing the user to move freely. Ability to pass control to another user.
+</p>
+
+<u>Preferences:</u>
+<p>
+Prefer mobile platforms such as a tablet or laptop. Wants the ability to support passing control to another user. Most comfortable with keyboard input device and touch screens. 
+</p>
+
+</td>
+</tr>
+<tr>
+<td>Team</td>
+<td>
+
+<u>Background:</u>
+<p>
+ Familiar with various record keeping systems, employer of recorder.
+</p>
+
+<u>Expectations:</u>
+<p>
+The system should reliably update their fans in such a manner that is entertaining enough to make them feel involved with the game and the team. Additionally the system should automate as much as possible. 
+Should require as few operators as possible. The system should not be over taxing for their employees to use. 
+</p>
+
+<u>Preferences:</u>
+<p>
+The system should be small and discrete, not taking up a lot of space in the arena or be distracting for fans, staff, or players in the arena.
+</p>
+
+</td>
+</tr>
+</table> 
+
+
+
+
+<br><br>
+<h2>Task analysis:</h2>
+
+<h3>Create a new record</h3>
+<dl>
+  <dt>1.0 Identify</dt>
+  <dd>1.1 Decide event type</dd>
+  <dd>1.2 Identify players involved</dd>
+  <dd>1.3 Decided location on court</dd>
+	
+	<dt>2.0 Input</dt>
+	<dd>2.1 Indicate event type</dd>
+	<dd>2.2 Select any involved player(s)</dd>
+	<dd>2.3 Indicate court location</dd>
+	<dd>2.4 Confirm entry</dd>
+	
+	<dt>3.0 Review</dt>
+	<dd>3.1 Review record created</dd>
+	<dd>3.2 Modify record if needed</dd>
+</dl>
+
+<h3>Modify a record</h3>
+<dl>
+  <dt>1.0 Review</dt>
+  <dd>1.1 Look through record list</dd>
+  <dd>1.2 Find incorrect record.</dd>
+	
+	<dt>2.0 Remove</dt>
+	<dd>2.1 Select record</dd>
+	<dd>2.2 Replace/Remove record</dd>
+	<dd>2.3 Create new record</dd>
+	<dd>2.4 Position in list if needed</dd>
+
+</dl>
+
+
+
+
+
+<br><br>
+<h2>Questionnaire Summary:</h2>
+<p>
+The aim of the questionnaire was primarily to learn exactly what types of statistics and events the end users expected from the system. Secondarily it was to investigate what types of computing systems people in general prefer.
+Our questionnaire resulted in a list of events or statistics that we could sort into high, medium, and low priority events. High priority events included two-point shots, three-point shots, layups, fouls, assists, possession changes ,and timeouts. 
+Medium priority events included steals, misses, blocks, dunks, and highlight events (i.e. windmill dunks). Low priority events included passes, and rebounds.
+</p>
+[Questionnaire Link]
+
+<h2>Client Interview Summary:</h2>
+<p>
+Our interview with the client gave us a good deal of information about that major issues that effect basketball recordings. 
+Primarily of concern was the speed of the game and how that influences the recorder's ability to remedy any mistakes made. Our client talked about how it greatly irritated him to have to go back and fix any mistakes he might have 
+made during the game, and how he can only really do that during timeouts or penalty shots. The client stressed the need for a system that could not only create but also easily manipulate events quickly and without much 
+attention or thought as both are in high demand while trying to record the events of a game.
+</p>
+<p>
+Also of concern was the method of input, our client has extensive training and practice in keyboard use and that currently is what he feels most comfortable with, along with touch devices. 
+</p>
+[Interview Link]
+
+</body>
+</html>
