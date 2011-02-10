@@ -14,6 +14,7 @@
 <li>Takes longer to log individual events</li>
 </ul>
 </li>
+<hr>
 <li>
 <h3>Crez's CREZScorer will provide an online game feed</h3>
 <ul><h4>Pros</h4>
@@ -27,6 +28,7 @@
 <li>Transmission delay </li>
 </ul>
 </li>
+<hr>
 <li>
 <h3>Crez's CREZScorer requires training</h3>
 <ul><h4>Pros</h4>
@@ -39,6 +41,7 @@
 <li>Time and resources must be dedicated to training</li>
 </ul>
 </li>
+<hr>
 <li>
 <h3>The system processes a great deal of information from the basketball game</h3>
 <ul><h4>Pros</h4>
@@ -50,6 +53,7 @@
 <li>Too much information may burden the user's experience, users may want a more streamlined version</li>
 </ul>
 </li>
+<hr>
 <li>
 <h3>The reporter types the game's events by hand in a text box.</h3>
 <ul><h4>Pros</h4>
@@ -64,6 +68,7 @@
 <li>Finding, fixing and updating changes could be problematic </li>
 </ul> 
 </li>
+<hr>
 <li>
 <h3>CREZScorer has an edit event</h3>
 <ul><h4>Pros</h4>
