@@ -3,7 +3,7 @@
 <h2>Vision</h2>
 <p>
     A game recorder interface for professional basketball that will be have an intuitive, efficient, and quick interface to
-    update remote fans on live game changes via the web.
+    update remote fans on play by play game changes via the web.
 </p>
 
 <h2>Basic Rationale</h2>
