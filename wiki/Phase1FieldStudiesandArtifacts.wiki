@@ -1,11 +1,91 @@
 <h1>Field Studies and Artifacts</h1>
-
+<br>
 <h2>Interview Transcript</h2>
 
 This is an interview with our client. He currently keeps track of play by play events at basketball games for personal use. The full transcript of the interview follows:
+<br><br>
+<p>
+Q: When you are recording a game, how costly are mistakes?
 
-[Insert transcript text here]
+They are very costly. It would also piss off a ton of people who are watching or looking up that kind of
+information online as well.
 
+Q: If you could easily retract that mistake, do you think that would be a lot better?
+
+Yeah if I could delete it I would definitely edit it if I could. If I made a mistake I would definitely want to
+correct it.
+
+Q: During basketball games, do you think that there are times of pauses that would let you fix your
+mistakes?
+
+Yes. During foul shots, there is usually enough time to correct any mistakes. Time outs and commercial
+breaks are even better for this because they last longer.
+
+Q: And how often do these things happen in games?
+
+Like every other sport broadcast on TV, this happens quite often. The action is very intermittent.
+
+Q: How does the speed of the game affect your ability to accurately record?
+
+Basketball is very quick. You have to be very fast to respond to what is happening. Possessions can
+change and switch in an instant. They have a lot of fast breaks and the distance from one end of the
+court to the other is very short. It only takes a few seconds to move across. It’s very quick.
+
+Q: Has your ability to record the game ever been slowed down by the interface?
+
+The answer is no, not at all. I only say that because I took a typing class and know how to type. I don’t
+need to look at the keys while I’m typing. I can look at the keys and watch the game at the same time. I
+only need to go over and check what I typed and fix typos. This can get annoying though because when I
+am looking over what I have written my eyes are not on the game. I can only do this during a break.
+
+Q: Even though a lot of things can happen within a short period of time, you can still keep up with the
+typing?
+
+The thing that you have to realize is that I do this in grammatically incorrect sentences. I write down the
+shortest amount just to get the point across. It’s very to the point.
+
+Q: How hard do you think it is to recover from a mistake or a lag?
+
+This depends on many factors. It varies based on the play that is happening. There are a lot of times
+in the game when pauses are made. Then, I can catch up to the point. When I’m behind 2 seconds, a
+simple foul can really help me out.
+
+Q: On a scale of 1 to 10, how stressful do you think it is to keep up with live updates?
+
+Well, if 10 is the equivalent of pulling your hair out, I’d say it’s around 6 or 7. That’s because you have to
+write down a lot of information for four quarters consecutively. That’s a lot of writing for about 2 or 2.5
+hours. Also, you need to constantly pay attention for the entire time.
+
+Q: Do you think it would be helpful to swap someone out? Would it be nice to have 2 people switching
+off?
+
+If you can have shifts, then I would absolutely think so.
+
+Q: What computing platforms are you most familiar with?
+
+I am most familiar with Windows and Blackberry. I also have a lot of experience using Android and iOS
+tablets.
+
+Q: What computing device do you most prefer?
+
+I would prefer a laptop or a tablet just because they are very mobile.
+
+Q: What methods of input do you have most experience with?
+
+I have the most experience with keyboards and touch screens.
+
+Q: What kind of distractions do you come across during a game?
+
+Obviously the audience is a pretty big distraction. The referees and players can be distractions as well.
+This depends mostly on where I am situated. It makes a difference if I am sitting on the floor or sitting
+up on a balcony. A lot of it deals with perception.
+
+Q: How do these distractions affect your job?
+
+If I can’t see the players clearly or if I can’t tell what’s going on, then the information that the online
+audience is going to see is going to be inaccurate or incomplete. I need a good first person view of the
+game.
+</p>
 
 
 <br><br>
