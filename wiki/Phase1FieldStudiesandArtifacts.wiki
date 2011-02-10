@@ -167,6 +167,13 @@ This is the data that was collected from the survey:
  * Magazine or other print media: 0 ( 0%)	
  * other: 1 ( 3%)	
 
+* On a scale of 1-5, how irritated would you be by a mistake in the play  by play information (1 is not very irritated, 5 is mad as hell)?
+ * 1: 2 ( 7%)	
+ * 2: 8 (27%)	
+ * 3: 9 (30%)	
+ * 4: 8 (27%)	
+ * 5: 3 (10%)	
+
 <br><br>
 <h2>Artifacts:</h2>
 
