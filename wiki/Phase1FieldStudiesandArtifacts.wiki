@@ -137,8 +137,8 @@ These are the questions that were included in a survey that was distributed onli
 This is the data that was collected from the survey:
 
 * Do you usually go online to view live scores if you can't make it to the actual game? 
- * Yes: 24	 (80%)	
- * No: 6	 (20%)	
+ * Yes: 24<t>(80%)	
+ * No: 6<t>(20%)	
 
 <br><br>
 <h2>Artifacts:</h2>
