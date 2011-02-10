@@ -140,6 +140,18 @@ This is the data that was collected from the survey:
  * Yes: 24 (80%)	
  * No: 6 (20%)	
 
+* Which of these of the following player events should be updated live? For example, if you select "passing", that means you would like to have live updates such as "player A passed to player B".
+
+ * Passing: 3 (10%)	
+ * Stealing: 14 (47%)	
+ * Fouls: 26 (87%)	
+ * Assists: 16 (53%)	
+ * Blocks: 18 (60%)	
+ * Rebounds: 19 (63%)	
+ * Scoring: 29 (97%)	
+ * Scoring attempts: 17 (57%)	
+ * other: 3 (10%)	
+
 <br><br>
 <h2>Artifacts:</h2>
 
