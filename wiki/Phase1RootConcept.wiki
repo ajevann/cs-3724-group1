@@ -2,7 +2,7 @@
 
 <h2>Vision</h2>
 <p>
-    A game recorder will be have an intuitive, efficient, and quick interface to
+    A game recorder interface for professional basketball that will be have an intuitive, efficient, and quick interface to
     update remote fans on live game changes via the web.
 </p>
 
