@@ -5,4 +5,5 @@
 <li>Phase1FieldStudiesandArtifacts</li>
 <li>Phase1Summaries</li>
 <li>Phase1ProblemScenarios</li>
+<li>Phase1Claims</li>
 </ul>
