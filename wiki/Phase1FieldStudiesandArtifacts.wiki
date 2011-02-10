@@ -107,8 +107,14 @@ These are the questions that were included in a survey that was distributed onli
  * Scoring
  * Scoring attempts
  * other
-
-
+* What kind of device would you view this play by play information on?
+ * Tablet
+ * Laptop
+ * Desktop
+ * Mobile phone
+ * Podcast
+ * Magazine or other print media
+ * other
 
 <br><br>
 <h2>Survey Results:</h2>
