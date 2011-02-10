@@ -15,7 +15,7 @@
     simple actions.
 </p>
 
-<h2>Other Concepts</h2>
+<h2>Other Concepts Considered</h2>
 <ul>
 <li>
     Providing a very in depth interface with the greatest possible number of choices
