@@ -16,8 +16,7 @@
         </ul>
     </li>
     <hr>
-    <li>
-        <h3>Crez's CREZScorer will provide an online game feed</h3>
+    <li><h3>Crez's CREZScorer provides an online game feed</h3>
         <h4>Pros</h4>
         <ul>
             <li>Users can see the game feed in real time from anywhere</li>
@@ -32,8 +31,7 @@
         </ul>
     </li>
     <hr>
-    <li>
-        <h3>Crez's CREZScorer requires training</h3>
+    <li><h3>Crez's CREZScorer requires training</h3>
         <h4>Pros</h4>
         <ul>
             <li>Whoever is using the software will be expeirenced</li>
@@ -47,8 +45,7 @@
         </ul>
     </li>
     <hr>
-    <li>
-        <h3>The system processes a great deal of information from the basketball game</h3>
+    <li><h3>The system processes a great deal of information from the basketball game</h3>
         <h4>Pros</h4>
         <ul>
             <li>The system will be able to provide more detailed statistics</li>
@@ -61,8 +58,7 @@
         </ul>
     </li>
     <hr>
-    <li>
-        <h3>The reporter types the game's events by hand in a text box.</h3>
+    <li><h3>The reporter types the game's events by hand in a text box.</h3>
         <h4>Pros</h4>
         <ul>
             <li>Infinite possibilities of events</li>
@@ -78,8 +74,7 @@
         </ul> 
     </li>
     <hr>
-    <li>
-        <h3>CREZScorer has an edit event</h3>
+    <li><h3>CREZScorer has an edit event</h3>
         <h4>Pros</h4>
         <ul>
             <li>Changes can be made after the fact if the reporter made a mistake</li>
