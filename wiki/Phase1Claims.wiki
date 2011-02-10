@@ -13,7 +13,8 @@
 - Takes longer to log individual events
 </p>
 </li>
-<li>Crez's CREZScorer will provide an online game feed
+<li>
+<h3>Crez's CREZScorer will provide an online game feed</h3>
 <p>
 + Users can see the game feed in real time from anywhere
 + Users will get chronological updates and close to the full expeirence
@@ -25,7 +26,8 @@
 - Transmission delay 
 </p>
 </li>
-<li>Crez's CREZScorer requires training
+<li>
+<h3>Crez's CREZScorer requires training</h3>
 <p>
 + Whoever is using the software will be expeirenced
 + The user will be able to take advantage of more advanced features
@@ -36,7 +38,8 @@
 - Time and resources must be dedicated to training
 </p>
 </li>
-<li>The system processes a great deal of information from the basketball game
+<li>
+<h3>The system processes a great deal of information from the basketball game</h3>
 <p>
 + The system will be able to provide more detailed statistics
 + More detail provides a more immersive online user expeirence
@@ -47,7 +50,8 @@
               more streamlined version
 </p>
 </li>
-<li>The reporter types the game's events by hand in a text box.
+<li>
+<h3>The reporter types the game's events by hand in a text box.</h3>
 <p>
 + Infinite possibilities of events
 + No restrictions of input
@@ -60,7 +64,8 @@
 - Finding, fixing and updating changes could be problematic 
 </p> 
 </li>
-<li>CREZScorer has an edit event
+<li>
+<h3>CREZScorer has an edit event</h3>
 <p>
 + Changes can be made after the fact if the reporter made a mistake
 + Changes made will remain in the proper order, it wont add the change to the end of the list
