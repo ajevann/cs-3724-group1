@@ -3,27 +3,49 @@
 <ul>
     <li>Crez's CREZScorer has a great deal of options.
         <p>
-           + An option for every play
-           + More detailed statistics
+            + An option for every play
+            + More detailed statistics
         </p>
         <p>
-           - Clutter
-           - Steep learning curve
-           - Easy to make mistakes 
-           - Takes longer to log individual events
+            - Clutter
+            - Steep learning curve
+            - Easy to make mistakes 
+            - Takes longer to log individual events
         </p>
     </li>
-    <li>Crez' CREZScorer will provide an online game feed
+    <li>Crez's CREZScorer will provide an online game feed
         <p>
-           + Users can see the game feed in real time from anywhere
-           + Users will get chronological updates and close to the full expeirence
+            + Users can see the game feed in real time from anywhere
+            + Users will get chronological updates and close to the full expeirence
         </p>
         <p>
-           - Doesn't support certain unpredictable events
-           - Lacks detail on the events
-           - Requires an active internet connection
-           - Transmission delay 
+            - Doesn't support certain unpredictable events
+            - Lacks detail on the events
+            - Requires an active internet connection
+            - Transmission delay 
         </p>
     </li>
+    <li>Crez's CREZScorer requires training
+        <p>
+            + Whoever is using the software will be expeirenced
+            + The user will be able to take advantage of more advanced features
+            + Troubleshooting will be easier after training
+        </p>
+        <p>
+            - Replacements are hard to find
+            - Time and resources must be dedicated to training
+        </p>
+    </li>
+    <li>The system processes a great deal of information from the basketball game
+        <p>
+            + The system will be able to provide more detailed statistics
+            + More detail provides a more immersive online user expeirence
+        </p>
+        <p>
+            - More oppurtunities for error from the statistician
+            - Too much information may burden the user's experience, users may want a
+              more streamlined version
+        </p>
+     </li>
  </ul>
 
