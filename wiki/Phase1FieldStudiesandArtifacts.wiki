@@ -141,7 +141,6 @@ This is the data that was collected from the survey:
  * No: 6 (20%)	
 
 * Which of these of the following player events should be updated live? For example, if you select "passing", that means you would like to have live updates such as "player A passed to player B".
-
  * Passing: 3 (10%)	
  * Stealing: 14 (47%)	
  * Fouls: 26 (87%)	
