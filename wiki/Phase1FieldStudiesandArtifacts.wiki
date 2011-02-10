@@ -93,6 +93,7 @@ game.
 
 These are the questions that were included in a survey that was distributed online:
 
+<li>
 * Do you usually go online to view live scores if you can't make it to the actual game? 
 ** Yes
 ** No
@@ -106,6 +107,7 @@ These are the questions that were included in a survey that was distributed onli
 **Scoring
 **Scoring attempts
 **other
+</li>
 
 
 
