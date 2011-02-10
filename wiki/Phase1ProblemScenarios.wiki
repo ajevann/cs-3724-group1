@@ -18,6 +18,11 @@ Kenneth’s expulsion. Kenneth never realizes his mistakes and goes home after t
 never a bigger smile on his face.
 </p>
 
+<h3>Quick Summary</h3>
+<p>
+The scenario came about after thinking how reporting software should be intuitive enough that someone with little experience will still be able to work the software. Learning from field data, we found that some of the software that exists today is complicated enough that one needs to be trained in the software. Training users to use particular software can cost money and time. If the software were intuitive enough, one could easily get the hang of the program in no time. The scenario is useful because it shows how an untrained or user unfamiliar with the product might mistakenly input data and not realize their errors.
+</p>
+
 <h2>Leo</h2>
 <p>
 Coach Frank Rossitano has started his season strong with the Maroney University
@@ -37,4 +42,9 @@ confused as to whom to trust since both are displaying conflicting information. 
 pure craziness, Tracy throws off his shirt and rushes the field reciting Dr. Suess’s, “Green Eggs
 and Ham” while crab walking across the basketball court. The moment of confusion allows Leo
 to correct his mistakes.
+</p>
+
+<h3>Quick Summary</h3>
+<p>
+The idea for this scenario came about after hearing the different types of input methods there existed with score reporting software. Learning more about typing inputs, we learned about how difficult and tedious it is to type information constantly and how easy it is to make a simple mistake. The scenario is useful because it shows how someone reporting the information can be overwhelmed with all the incoming data and then lose track or slip up. 
 </p>
