@@ -6,20 +6,37 @@ This is an interview with our client. He currently keeps track of play by play e
 
 [Insert transcript text here]
 
+
+
+
 <h2>Survey Questions</h2>
 
 These are the questions that were included in a survey that was distributed online:
+
+
+
 
 <h2>Survey Results</h2>
 
 This is the data that was collected from the survey:
 
+
+
+
 <h2>Artifacts</h2>
 
-<h3>Current Interfaces</h3>
+<h3>Paper Record Sheet</h3>
 
-This is an image of a current basketball game tracking interface:
+This is an image of a paper basketball game tracking interface:
 
 <a href = "http://cs-3724-group1.googlecode.com/files/current_interface.png">Paper Interface</a>
 
 <img src="http://cs-3724-group1.googlecode.com/files/current_interface.png"></img>
+
+<h3>Digital Record Keeping Software Interface</h3>
+
+An example of a current digital interface.
+
+<a href = "http://cs-3724-group1.googlecode.com/files/digital_interface.png">Digital Interface</a>
+
+<img src="http://cs-3724-group1.googlecode.com/files/digital_interface.png"></img>
