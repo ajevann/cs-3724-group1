@@ -37,6 +37,6 @@ This is an image of a paper basketball game tracking interface:
 
 An example of a current digital interface.
 
-<a href = "http://cs-3724-group1.googlecode.com/files/digital_interface.gif">Digital Interface</a>
+<a href = "http://cs-3724-group1.googlecode.com/files/digital_interface.GIF">Digital Interface</a>
 
-<img src="http://cs-3724-group1.googlecode.com/files/digital_interface.gif"></img>
+<img src="http://cs-3724-group1.googlecode.com/files/digital_interface.GIF"></img>
