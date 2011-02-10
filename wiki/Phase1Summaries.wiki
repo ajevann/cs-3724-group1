@@ -118,7 +118,6 @@ The system should be small and discrete, not taking up a lot of space in the are
 
 
 
-
 <br><br>
 <h2>Artifact Analysis</h2>
 
@@ -150,7 +149,7 @@ The system should be small and discrete, not taking up a lot of space in the are
 <u>Information:</u>
 <p>
 
-</p
+</p>
 
 <u>Procedures:</u>
 <p>
@@ -160,6 +159,7 @@ The system should be small and discrete, not taking up a lot of space in the are
 </td>
 </tr>
 </table> 
+
 
 
 
