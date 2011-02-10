@@ -123,8 +123,8 @@ The system should be small and discrete, not taking up a lot of space in the are
 
 <table border="1">
 <tr>
-<th>Stakeholder</th>
-<th>Characteristics</th>
+<th>Artifact</th>
+<th>Implied Information</th>
 </tr>
 <tr>
 <td>Paper Record Sheet</td>
