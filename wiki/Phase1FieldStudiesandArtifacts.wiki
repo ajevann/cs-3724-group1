@@ -93,21 +93,19 @@ game.
 
 These are the questions that were included in a survey that was distributed online:
 
-<li>
 * Do you usually go online to view live scores if you can't make it to the actual game? 
  * Yes
  * No
 * Which of these of the following player events should be updated live? For example, if you select "passing", that means you would like to have live updates such as "player A passed to player B".
-**Passing	
-**Stealing
-**Fouls
-**Assists
-**Blocks
-**Rebounds
-**Scoring
-**Scoring attempts
-**other
-</li>
+ * Passing	
+ * Stealing
+ * Fouls
+ * Assists
+ * Blocks
+ * Rebounds
+ * Scoring
+ * Scoring attempts
+ * other
 
 
 
