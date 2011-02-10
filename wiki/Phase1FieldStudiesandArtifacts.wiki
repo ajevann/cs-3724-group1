@@ -2,7 +2,8 @@
 <br>
 <h2>Interview Transcript:</h2>
 
-This is an interview with our client. He currently keeps track of play by play events at basketball games for personal use. The full transcript of the interview follows:
+This is an interview with our client. He currently keeps track of play by play events at basketball games for personal use. We did two separate interviews. The information from the first interview was recorded while the information from the second was written down. The full transcript of the second interview follows. Below that, there is a link to the audio of the first interview. 
+
 <br><br>
 <p>
 Q: When you are recording a game, how costly are mistakes?
