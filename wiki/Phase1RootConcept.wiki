@@ -36,15 +36,7 @@
 
 <h2>Arival at our Rationale</h2>
 <p>
-    When coming up with the root concept, we looked at and analyzed several different factors of recording basketball games. The 
-first and most important is the amount of information that needs to be logged. In order to give the online viewer a full 
-experience, every event that occurs during the basketball game should be reported. A play by play breakdown is probably
-necessary for those who cannot watch the game on the television. The reporter is tasked with tracking each of these events. 
-Given the vast number of possibly exciting things that can happen in a single game of basketball, it is very tempting to 
-simply let the reporter type up each event. This, however, is very tedious and the reporter would undoubtably get tired 
-after typing for an entire game. Also, the reporter would have to repeatedly type in the names of the player who is performing 
-the action; this is a mindless task that could be easily automated by software. In addition, this method will not be effective
-since basketball games are very fast paced and it would be difficult for even the most skilled typers to keep up with the
+    When coming up with the root concept, we looked at and analyzed several different factors of recording basketball games. The first and most important is the amount of information that needs to be logged. In order to give the online viewer a full experience, every event that occurs during the basketball game should be reported. A play by play breakdown is probably necessary for those who cannot watch the game on the television. The reporter is tasked with tracking each of these events. Given the vast number of possibly exciting things that can happen in a single game of basketball, it is very tempting to simply let the reporter type up each event. This, however, is very tedious and the reporter would undoubtably get tired after typing for an entire game. Also, the reporter would have to repeatedly type in the names of the player who is performing the action; this is a mindless task that could be easily automated by software. In addition, this method will not be effective since basketball games are very fast paced and it would be difficult for even the most skilled typers to keep up with the
 action.
 
 The action packed nature of basketball means that many significant events can happen in the time frame of several seconds. This
