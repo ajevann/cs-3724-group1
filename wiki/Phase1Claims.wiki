@@ -1,3 +1,16 @@
 <h1>Claims</h1>
 
-Claims go here.
+<ul>
+    <li>Crez's CREZScorer has a great deal of options.
+        <p>+ An option for every play </br>
+           + More detailed statistics </br>
+        </p>
+        <p>- Clutter </br>
+           - Steep learning curve </br>
+           - Easy to make mistakes </br>
+           - Takes longer to log individual events </br>
+        </p>
+    </li>
+
+ </ul>
+
