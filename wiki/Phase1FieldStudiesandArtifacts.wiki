@@ -117,6 +117,30 @@ These are the questions that were included in a survey that was distributed onli
  * Magazine or other print media
  * other
 
+* On a scale of 1-5, how closely do you follow basketball (1 is not at all and 5 is very closely)?
+ * 1
+ * 2
+ * 3
+ * 4
+ * 5
+
+*On a scale of 1-5, how irritated would you be by a mistake in the play by play information (1 is not very irritated, 5 is mad as hell)?
+ * 1
+ * 2
+ * 3
+ * 4
+ * 5
+
+
+
+
+
+
+
+
+
+
+
 <br><br>
 <h2>Survey Results:</h2>
 
