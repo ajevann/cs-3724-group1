@@ -1,51 +1,74 @@
 <h1>Claims</h1>
 
 <ul>
-    <li>Crez's CREZScorer has a great deal of options.
-        <p>
-            + An option for every play
-            + More detailed statistics
-        </p>
-        <p>
-            - Clutter
-            - Steep learning curve
-            - Easy to make mistakes 
-            - Takes longer to log individual events
-        </p>
-    </li>
-    <li>Crez's CREZScorer will provide an online game feed
-        <p>
-            + Users can see the game feed in real time from anywhere
-            + Users will get chronological updates and close to the full expeirence
-        </p>
-        <p>
-            - Doesn't support certain unpredictable events
-            - Lacks detail on the events
-            - Requires an active internet connection
-            - Transmission delay 
-        </p>
-    </li>
-    <li>Crez's CREZScorer requires training
-        <p>
-            + Whoever is using the software will be expeirenced
-            + The user will be able to take advantage of more advanced features
-            + Troubleshooting will be easier after training
-        </p>
-        <p>
-            - Replacements are hard to find
-            - Time and resources must be dedicated to training
-        </p>
-    </li>
-    <li>The system processes a great deal of information from the basketball game
-        <p>
-            + The system will be able to provide more detailed statistics
-            + More detail provides a more immersive online user expeirence
-        </p>
-        <p>
-            - More oppurtunities for error from the statistician
-            - Too much information may burden the user's experience, users may want a
+<li>Crez's CREZScorer has a great deal of options.
+<p>
++ An option for every play
++ More detailed statistics
+</p>
+<p>
+- Clutter
+- Steep learning curve
+- Easy to make mistakes 
+- Takes longer to log individual events
+</p>
+</li>
+<li>Crez's CREZScorer will provide an online game feed
+<p>
++ Users can see the game feed in real time from anywhere
++ Users will get chronological updates and close to the full expeirence
+</p>
+<p>
+- Doesn't support certain unpredictable events
+- Lacks detail on the events
+- Requires an active internet connection
+- Transmission delay 
+</p>
+</li>
+<li>Crez's CREZScorer requires training
+<p>
++ Whoever is using the software will be expeirenced
++ The user will be able to take advantage of more advanced features
++ Troubleshooting will be easier after training
+</p>
+<p>
+- Replacements are hard to find
+- Time and resources must be dedicated to training
+</p>
+</li>
+<li>The system processes a great deal of information from the basketball game
+<p>
++ The system will be able to provide more detailed statistics
++ More detail provides a more immersive online user expeirence
+</p>
+<p>
+- More oppurtunities for error from the reporter
+- Too much information may burden the user's experience, users may want a
               more streamlined version
-        </p>
-     </li>
- </ul>
+</p>
+</li>
+<li>The reporter types the game's events by hand in a text box.
+<p>
++ Infinite possibilities of events
++ No restrictions of input
++ Color commentary is possible, the reporter's personallity and expierence come into effect
+</p>
+<p>
+- Speed of reporting will be reduced
+- Typing errors can be made easily
+- Reporter must be an expeirenced typist
+- Finding, fixing and updating changes could be problematic 
+</p> 
+</li>
+<li>CREZScorer has an edit event
+<p>
++ Changes can be made after the fact if the reporter made a mistake
++ Changes made will remain in the proper order, it wont add the change to the end of the list
+</p>
+<p>
+- The edit interface is clumsy to find the event to edit
+- Editing takes time away from the reporter's duty to report the game
+</p>
+</li>
+</ul>
 
