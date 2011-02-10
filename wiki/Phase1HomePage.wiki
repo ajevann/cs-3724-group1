@@ -2,10 +2,7 @@
 
 <ul>
 <li>Phase1RootConcept</li>
-</ul>
-<ul>
 <li>Phase1FieldStudiesandArtifacts</li>
-</ul>
-<ul>
 <li>Phase1Summaries</li>
+<li>Phase1ProblemScenarios</li>
 </ul>
