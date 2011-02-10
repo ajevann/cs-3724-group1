@@ -1,8 +1,7 @@
 <h1>Claims</h1>
 
 <ul>
-    <li>
-        <h3>Crez's CREZScorer has a great deal of options</h3>
+    <li><h3>Crez's CREZScorer has a great deal of options</h3>
         <h4>Pros</h4>
         <ul>
             <li>An option for every play</li>
