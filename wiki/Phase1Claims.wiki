@@ -2,19 +2,23 @@
 
 <ul>
     <li>Crez's CREZScorer has a great deal of options.
-        <p>+ An option for every play <br/>
-           + More detailed statistics <br/>
+        <p>+ An option for every play
+           + More detailed statistics
         </p>
-        <p>- Clutter <br/>
-           - Steep learning curve <br/>
-           - Easy to make mistakes <br/>
-           - Takes longer to log individual events <br/>
+        <p>- Clutter
+           - Steep learning curve
+           - Easy to make mistakes 
+           - Takes longer to log individual events
         </p>
     </li>
     <li>Crez' CREZScorer will provide an online game feed
-        <p>+ Users can see the game feed in real time from anywhere <br />
-           + Users will get chronological updates and close to the full expeirence <br />
+        <p>+ Users can see the game feed in real time from anywhere
+           + Users will get chronological updates and close to the full expeirence
         </p>
+        <p>- Doesn't support certain unpredictable events
+           - Lacks detail on the events
+           - Requires an active internet connection
+           - Transmission delay 
     </li>
  </ul>
 
