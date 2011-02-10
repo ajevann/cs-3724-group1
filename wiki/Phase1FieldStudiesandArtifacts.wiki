@@ -1,6 +1,6 @@
 <h1>Field Studies and Artifacts</h1>
 <br>
-<h2>Interview Transcript</h2>
+<h2>Interview Transcript:</h2>
 
 This is an interview with our client. He currently keeps track of play by play events at basketball games for personal use. The full transcript of the interview follows:
 <br><br>
@@ -89,21 +89,21 @@ game.
 
 
 <br><br>
-<h2>Survey Questions</h2>
+<h2>Survey Questions:</h2>
 
 These are the questions that were included in a survey that was distributed online:
 
 
 
 <br><br>
-<h2>Survey Results</h2>
+<h2>Survey Results:</h2>
 
 This is the data that was collected from the survey:
 
 
 
 <br><br>
-<h2>Artifacts</h2>
+<h2>Artifacts:</h2>
 
 <h3>Paper Record Sheet</h3>
 
