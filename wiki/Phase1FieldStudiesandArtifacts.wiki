@@ -120,3 +120,8 @@ An example of a current digital interface.
 <a href = "http://cs-3724-group1.googlecode.com/files/digital_interface.GIF">Digital Interface</a>
 
 <img src="http://cs-3724-group1.googlecode.com/files/digital_interface.GIF"></img>
+
+More pictures of the same interface.
+
+<a href = "">Digital Interface </a>
+<img src="">
