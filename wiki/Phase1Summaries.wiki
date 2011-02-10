@@ -1,4 +1,3 @@
-
 <h1>Summaries Page</h1>
 
 
@@ -116,6 +115,40 @@ The system should be small and discrete, not taking up a lot of space in the are
 	<dd>2.4 Position in list if needed</dd>
 
 </dl>
+
+<br><br>
+<h2>Artifact Analysis</h2>
+
+<table border="1">
+<tr>
+<th>Stakeholder</th>
+<th>Characteristics</th>
+</tr>
+<tr>
+<td>Paper Record Sheet</td>
+<td>
+
+<u>Information:</u>
+<p>
+
+</p>
+
+</td>
+</tr>
+<tr>
+<td>Current Record Keeping Software</td>
+<td>
+
+<u>Procedures:</u>
+<p>
+
+</p>
+
+</td>
+</tr>
+</table> 
+
+
 
 
 
