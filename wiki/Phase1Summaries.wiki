@@ -132,28 +132,28 @@ The system should be small and discrete, not taking up a lot of space in the are
 
 <u>Information:</u>
 <p>
-
+Relevant statistics; statistic importance hierarchy; foul limit; 
 </p>
 
 <u>Procedures:</u>
 <p>
-
+Update rosters; record score; record points; compile totals; track timeouts; keep track of period and time.
 </p>
 
 </td>
 </tr>
 <tr>
-<td>Current Record Keeping Software</td>
+<td>Current Record Keeping Software Interface</td>
 <td>
 
 <u>Information:</u>
 <p>
-
+What players are in the game; game statistics; chronological game events; 
 </p>
 
 <u>Procedures:</u>
 <p>
-
+Create game event records; keep track of time, rosters, and players; update shot and miss locations;
 </p>
 
 </td>
