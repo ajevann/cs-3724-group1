@@ -1,0 +1,40 @@
+<h1>Problem Scenarios</h1>
+
+<h2>Kenneth</h2>
+<p>
+It is the Friday night basketball game at Portsmouth High School against rivals Middleton
+High School and the gymnasium is packed. The school has overbooked the gym and due to the
+incredible demand to view the game, the administrators have decided to present a live game cast
+of the important rivalry match up on the school’s website.
+Principal Jack Donaghy is in a frenzy to find a replacement for the usual score recorder,
+Pete Hornberger. Instead, he resorts to using Kenneth Parcell to act as his temporary recorder
+for the game cast. Alas! Kenneth has never before seen the software used by the school. The
+interface is not at all intuitive and Kenneth ends up mistaking scoring for fouls, assits for steals,
+and passing for rebounds.
+The auditorium, where most of the people without tickets are watching the game feed
+from a projector system, is becoming restless. Mayhem breaks out! Folding chairs are thrown at
+the projector screen, fires are being started in the rows of students, and students are rioting for
+Kenneth’s expulsion. Kenneth never realizes his mistakes and goes home after the game with
+never a bigger smile on his face.
+</p>
+
+<h2>Leo</h2>
+<p>
+Coach Frank Rossitano has started his season strong with the Maroney University
+Lemonheads taking the first seed in the regional basketball tournament. Since going to the
+regional championship is a big step in the small town’s history, Coach Frank has decided to
+change the usual recording software to a newer and supposedly more reliable version, which
+takes direct typing input from the user.
+Leo Spaceman, the team’s statistician, is readying himself up to use the software for the
+game cast, which will be shown live on the NCAA’s website. However, when game time arrives
+and stats start to pour in Leo is not ready for the massive amount of information he is needed to
+type in. He stresses and misses several key plays that make the difference online. As he has
+currently recorded, the Lemonheads are losing to the Tofferville College Grizzs by five points
+when in reality they are ahead by three.
+Meanwhile in the stands, spectator Tracy Jordan is going insane. He is both watching the
+game live in addition to viewing the stats online for the “ultimate gaming experience,” but he is
+confused as to whom to trust since both are displaying conflicting information. In a moment of
+pure craziness, Tracy throws off his shirt and rushes the field reciting Dr. Suess’s, “Green Eggs
+and Ham” while crab walking across the basketball court. The moment of confusion allows Leo
+to correct his mistakes.
+</p>
