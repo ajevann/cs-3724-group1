@@ -131,6 +131,13 @@ These are the questions that were included in a survey that was distributed onli
  * 4
  * 5
 
+* On a scale of 1-5, how closely do you follow basketball (1 is not at all and 5 is very closely)
+ * 1: 4 (13%)	
+ * 2: 7 (23%)	
+ * 3: 3 (10%)	
+ * 4: 9 (30%)	
+ * 5: 7 (23%)	
+
 <br><br>
 <h2>Survey Results:</h2>
 
