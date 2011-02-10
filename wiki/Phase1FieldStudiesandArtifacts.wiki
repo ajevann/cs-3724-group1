@@ -174,6 +174,7 @@ This is the data that was collected from the survey:
  * 4: 8 (27%)	
  * 5: 3 (10%)	
 
+Note: Tallies will be updated as more people take the survey.
 
 <br><br>
 <h2>Artifacts:</h2>
