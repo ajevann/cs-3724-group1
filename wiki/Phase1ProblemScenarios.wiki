@@ -68,3 +68,6 @@ and a game casting component.  Now Jon needs to lean CREZscorer to the level he 
 <p>
 This scenario came from the notion that none of the systems we found had similar interfaces or features.  Jon has had to move around between different systems a great deal. In order to perform his duties at a professional level Jon needs to know all the features of the systems he is using. The scenario is useful because it demonstrates two key things the professional demands of these software systems and the learning curves of the systems.
 </p> 
+
+<br><br>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1HomePage">Back to Phase 1 Home</a>
