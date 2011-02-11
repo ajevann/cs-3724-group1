@@ -1,6 +1,4 @@
 <h1>Field Studies and Artifacts</h1>
-<p>We chose a combination of end user surveys and client/primary user interviews to gather our data. We did not perform an observations as there was no opportunity to do so. Surveys were chosen to gather large data sets one what type of data was required to be recorded. Interviews were chosen to try and get a first hand account of the issues facing a recorder of basketball games.
-</p>
 <br>
 <h2>Interview Transcript:</h2>
 
@@ -199,8 +197,15 @@ An example of a current digital interface (CREZ Scorer).
 
 More pictures of the same interface.
 
-<a href = "http://cs-3724-group1.googlecode.com/files/digital_interface_2.gif">Digital Interface </a> <br>
+<a href = "http://cs-3724-group1.googlecode.com/files/digital_interface_2.gif">Digital Interface </a>
 <img src="http://cs-3724-group1.googlecode.com/files/digital_interface_2.gif">
 
-<br><br>
-<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1HomePage">Back to Phase 1 Home</a>
+<h3>Precurssor Basketball Stats Program, Stat Crew for Basketball</h3>
+
+An example of the older software program.
+
+<a href="http://cs-3724-group1.googlecode.com/files/digital_interface_3.png">Older Interface</a>
+<img src="http://cs-3724-group1.googlecode.com/files/digital_interface_3.png">
+
+<a href="http://cs-3274-group1.googlecode.com/files/digital_interface_4.png">Older Interface 2</a>
+<img src="http://cs-3724-group1.googlecode.com/files/digital_interface_4.png">
