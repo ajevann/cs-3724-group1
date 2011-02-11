@@ -59,3 +59,13 @@ Considering these three factors in addition to technological and staff limitatio
 that professional basketball recorders use needs to be simple, accurate, quick to use, and, most importantly, be able to record
 any significant event that happens in a game of basketball.
 </p>
+
+<h2>Stakeholders</h2>
+<ul>
+<li>End User: Needs to get game updates online for their favorite team.</li>
+<li>Recorder: Needs a system to record a fast paced game without making mistakes.</li>
+<li>Team: Needs a system that will provide their fans with an in-depth basketball experience to keep interest up.</li>
+</ul>
+
+<h2>Initial Assumptions</h2>
+<p>The end users have a broadband connection to get updates over. The recorder is positioned somewhere on the sidelines or in a box during the game.</p>
