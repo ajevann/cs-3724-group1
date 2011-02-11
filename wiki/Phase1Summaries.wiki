@@ -13,8 +13,8 @@ There are a lot of thing going on during a basketball game. Such events can rang
 One of the main goals during our requirements analysis was to see what type of events occur during a basketball game and their relevance to the end user. This is key to support the above mentioned expectation of the team. 
 Between our questionnaire and our interview with our client we developed a list of the events that are important to the user (See questionnaire). One of the simplest examples of such an event is scoring.
 
-Scoring, however, is not as simple as it sounds to record. There are various ways to score points in basketball, including two point shots, three point shorts, layups, slam dunks, free throws, etc (See Artifacts Paper Record).
-Talks with our client and examination of several artifacts showed recording all the possible ways to score points can be confusing, requiring many fields that need to be kept track of. Considering point scoring alone, a 
+Scoring, however, is not as simple as it sounds to record. There are various ways to score points in basketball. These include two point shots, three point shorts, layups, slam dunks, free throws, etc (See Artifacts Paper Record).
+Talks with our client and examination of several artifacts showed that recording all the possible ways to score points can be confusing. It requires many fields that need to be kept track of. Even if we only consider scoring, a 
 recording system must have a lot of options and configurations if it aims at providing detailed and engaging information. 
 </p>
 
