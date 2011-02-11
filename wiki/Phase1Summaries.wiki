@@ -241,6 +241,8 @@ Relevant game information, statistics, and rosters.
 <p>
 Input all game events via simple text menus and keyboard strokes. Edit events, rosters, and location information.
 </p>
+
+</td>
 </tr>
 </table> 
 
