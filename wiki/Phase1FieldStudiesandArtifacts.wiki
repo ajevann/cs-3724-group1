@@ -209,3 +209,7 @@ An example of the older software program.
 
 <a href="http://cs-3274-group1.googlecode.com/files/digital_interface_4.png">Older Interface 2</a>
 <img src="http://cs-3724-group1.googlecode.com/files/digital_interface_4.png">
+
+<hr>
+<br><br>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1HomePage">Back to Phase 1 Home</a>
