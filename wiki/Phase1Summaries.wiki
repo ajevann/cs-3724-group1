@@ -61,13 +61,24 @@ The last goal of the survey was to discern the gravity of mistakes make on the b
 
 <h2>Client Interview Summary:</h2>
 <p>
-Our interview with the client gave us a good deal of information about that major issues that effect basketball recordings. 
-Primarily of concern was the speed of the game and how that influences the recorder's ability to remedy any mistakes made. Our client talked about how it greatly irritated him to have to go back and fix any mistakes he might have 
-made during the game, and how he can only really do that during timeouts or penalty shots. The client stressed the need for a system that could not only create but also easily manipulate events quickly and without much 
-attention or thought as both are in high demand while trying to record the events of a game.
-</p>
-<p>
-Also of concern was the method of input, our client has extensive training and practice in keyboard use and that currently is what he feels most comfortable with, along with touch devices. 
+The interview with out client provided a lot of important imformation regarding the interface. The biggest concern was the speed of the game. In basketball, many events can happen within the
+time frame of just several seconds. This makes it difficult for someone to capture everything that is going on with 100 percent accuracy. Fortunatley, there are many commerical breaks, fouls,
+and time outs that pause the action. These spare seconds are usually enough for the reporter to catch up on whats going on or correct any mistakes he may have made. The interviewee also 
+said that he would be very interested fixing any mistakes he made while recording the game. This is one feature that should definitely be included in the interface. Both the reporter
+and the users have indicated that mistakes are unacceptable. 
+
+The interviewee said that the current interface he uses to log games is a simple keyboard and notepad program on his laptop. He mentioned that he is a very fast typer and generally has
+no problems keeping up with the action. However, he doesn't write in grammatically correct sentences. Upon observation of his reporting, it was immediately obvious that his sentences
+contained very sparse details and would not be fit for an online audience. When we asked him to type out a little more detail, he started to lag and could not keep up with the pace of
+the game. Even at breaks such as foul shots or time outs, he was too far behind to catch up properly. This illustrates the need for a new interface that doesn't just consist of typing. 
+
+Another important peice of information we found from the interview is the significance of distractions at basketball games. The coach, players, and audience are all yelling each other.
+If there is too much noise or if someone obstructs his view, it greatly hampers his ability to accurately record the game. The reporter needs to have a full view of the court at all 
+times. Considering this, it may be necessary to have additional video screens linked up to cameras all over the court. This way, the reporter can get the view from different perspectives
+so he knows that he won't miss a thing. 
+
+Besides this crucial information about reporting from the sidelines, there are a few other interesting bits of knowledge that should be extracted from the interview. The interviewee complained about the length of the game and how stressful it is to constantly pay attention for the full duration of the game. Further research should be done to see if we can design an interface that somehow reduces stress levels or increase concentration. It is certainly important that the screen is not too hard on the eyes, because that may make the reporter
+tired or dizzy.
 </p>
 <a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1FieldStudiesandArtifacts"> Link here </a>
 
