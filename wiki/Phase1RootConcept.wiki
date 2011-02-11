@@ -69,3 +69,6 @@ any significant event that happens in a game of basketball.
 
 <h2>Initial Assumptions</h2>
 <p>The end users have a broadband connection to get updates over. The recorder is positioned somewhere on the sidelines or in a box during the game.</p>
+
+<br><br>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1HomePage">Back to Phase 1 Home</a>
