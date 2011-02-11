@@ -20,9 +20,9 @@ recording system must have a lot of options and configurations if it aims to pro
 
 <h3>Event Recording and Tasks</h3>
 <p>
-Basketball can be an incredibly fast paced sport, there are few breaks longer than a minute and they typically very infrequent. Mistakes in particular can be an issue (See interview, questionnaire) due to the game speed. 
-Fans online often are irritated by recorder mistakes. Mistakes disconnect the end user from the action; especially if they are not immediately corrected. This poses unique challenges to the recorder and therefore requirements 
-for a recording system. Taking one's eyes off the game for a few seconds can leave you far behind in the action, which is bad news if your goal is to record the game accurately.
+Basketball can be an incredibly fast paced sport. There are very few breaks that last longer than a minute and they are typically very infrequent. Mistakes made while reporting can be an issue (See interview, questionnaire) due to the game speed. 
+Fans online are often irritated by recording mistakes. Mistakes disconnect the end user from the action. This is especially true if they are not immediately corrected. This poses unique challenges to the recorder and therefore the requirements 
+for a recording system. Taking one's eyes off the game for a few seconds can leave you far behind the action, which is bad news if your goal is to record the game accurately.
 
 Since basketball is such as fast sport with many types of plays, rules and events it is important that any system we create be able to generate tasks with simple interactions from the recorder.
 One thing our client stressed in our discussions with him was the ability to perform tasks with the system, without removing his focus from the game. Such important tasks include creating new events and editing old events. 
