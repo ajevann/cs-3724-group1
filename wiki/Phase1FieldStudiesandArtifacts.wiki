@@ -197,5 +197,8 @@ An example of a current digital interface (CREZ Scorer).
 
 More pictures of the same interface.
 
-<a href = "http://cs-3724-group1.googlecode.com/files/digital_interface_2.gif">Digital Interface </a>
+<a href = "http://cs-3724-group1.googlecode.com/files/digital_interface_2.gif">Digital Interface </a> <br>
 <img src="http://cs-3724-group1.googlecode.com/files/digital_interface_2.gif">
+
+<br><br>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1HomePage">Back to Phase 1 Home</a>
