@@ -4,87 +4,100 @@
     <li><h3>Crez's CREZScorer has a great deal of options</h3>
         <h4>Pros</h4>
         <ul>
-            <li>An option for every play</li>
-            <li>More detailed statistics</li>
+        <li>An option for every play</li>
+        <li>More detailed statistics</li>
         </ul>
         <h4>Cons</h4>
         <ul>
-            <li>Clutter</li>
-            <li>Steep learning curve</li>
-            <li>Easy to make mistakes </li>
-            <li>Takes longer to log individual events</li>
+        <li>Clutter</li>
+        <li>Steep learning curve</li>
+        <li>Easy to make mistakes </li>
+        <li>Takes longer to log individual events</li>
         </ul>
     </li>
     <hr>
     <li><h3>Crez's CREZScorer provides an online game feed</h3>
         <h4>Pros</h4>
         <ul>
-            <li>Users can see the game feed in real time from anywhere</li>
-            <li>Users will get chronological updates and close to the full expeirence</li>
+        <li>Users can see the game feed in real time from anywhere</li>
+        <li>Users will get chronological updates and close to the full expeirence</li>
         </ul>
         <h4>Cons</h4>
         <ul>
-            <li>Doesn't support certain unpredictable events</li>
-            <li>Lacks detail on the events</li>
-            <li>Requires an active internet connection</li>
-            <li>Transmission delay </li>
+        <li>Doesn't support certain unpredictable events</li>
+        <li>Lacks detail on the events</li>
+        <li>Requires an active internet connection</li>
+        <li>Transmission delay </li>
         </ul>
     </li>
     <hr>
     <li><h3>Crez's CREZScorer requires training</h3>
         <h4>Pros</h4>
         <ul>
-            <li>Whoever is using the software will be expeirenced</li>
-            <li>The user will be able to take advantage of more advanced features</li>
-            <li>Troubleshooting will be easier after training</li>
+        <li>Whoever is using the software will be expeirenced</li>
+        <li>The user will be able to take advantage of more advanced features</li>
+        <li>Troubleshooting will be easier after training</li>
         </ul>
         <h4>Cons</h4>
         <ul>
-            <li>Replacements are hard to find</li>
-            <li>Time and resources must be dedicated to training</li>
+        <li>Replacements are hard to find</li>
+        <li>Time and resources must be dedicated to training</li>
         </ul>
     </li>
     <hr>
     <li><h3>The system processes a great deal of information from the basketball game</h3>
         <h4>Pros</h4>
         <ul>
-            <li>The system will be able to provide more detailed statistics</li>
-            <li>More detail provides a more immersive online user expeirence</li>
+        <li>The system will be able to provide more detailed statistics</li>
+        <li>More detail provides a more immersive online user expeirence</li>
         </ul>
         <h4>Cons</h4>
         <ul>
-            <li>More oppurtunities for error from the reporter</li>
-            <li>Too much information may burden the user's experience, users may want a more streamlined version</li>
+        <li>More oppurtunities for error from the reporter</li>
+        <li>Too much information may burden the user's experience, users may want a more streamlined version</li>
         </ul>
     </li>
     <hr>
     <li><h3>The reporter types the game's events by hand in a text box.</h3>
         <h4>Pros</h4>
         <ul>
-            <li>Infinite possibilities of events</li>
-            <li>No restrictions of input</li>
-            <li>Color commentary is possible, the reporter's personallity and expierence come into effect</li>
+        <li>Infinite possibilities of events</li>
+        <li>No restrictions of input</li>
+        <li>Color commentary is possible, the reporter's personallity and expierence come into effect</li>
         </ul>
         <h4>Cons</h4>
         <ul>
-            <li>Speed of reporting will be reduced</li>
-            <li>Typing errors can be made easily</li>
-            <li>Reporter must be an expeirenced typist</li>
-            <li>Finding, fixing and updating changes could be problematic </li>
+        <li>Speed of reporting will be reduced</li>
+        <li>Typing errors can be made easily</li>
+        <li>Reporter must be an expeirenced typist</li>
+        <li>Finding, fixing and updating changes could be problematic </li>
         </ul> 
     </li>
     <hr>
     <li><h3>CREZScorer has an edit event</h3>
         <h4>Pros</h4>
         <ul>
-            <li>Changes can be made after the fact if the reporter made a mistake</li>
-            <li>Changes made will remain in the proper order, it wont add the change to the end of the list</li>
+        <li>Changes can be made after the fact if the reporter made a mistake</li>
+        <li>Changes made will remain in the proper order, it wont add the change to the end of the list</li>
         </ul>
         <h4>Cons</h4>
         <ul>
-            <li>The edit interface is clumsy to find the event to edit</li>
-            <li>Editing takes time away from the reporter's duty to report the game</li>
+        <li>The edit interface is clumsy to find the event to edit</li>
+        <li>Editing takes time away from the reporter's duty to report the game</li>
         </ul>
     </li>
+    <hr>
+    <li><h3>Stats Recording Programs have different levels of features for different levels of users</h3>
+        <h4>Pros</h4>
+        <ul>
+        <li>Reporters can access advanced features that will speed up their task completion</li>
+        <li>Reporters of less expeirence can use features to help speed up their learning of the software</li>
+        </ul>
+        <h4>Cons</h4>
+        <ul>
+        <li>Reporters must re-learn functionality that other systems implemented differently</li>
+        <li>Some advnaced features will be very unintuitive when users are learning them</li>
+        </ul>
+    </li>        
 </ul>
 
