@@ -106,6 +106,5 @@
             <li>Some advnaced features will be very unintuitive when users are learning them</li>       
         </ul>
     </li>
-</ul>
 <br><br>
 <a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1HomePage">Back to Phase 1 Home</a>
