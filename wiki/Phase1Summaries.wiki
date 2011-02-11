@@ -78,7 +78,7 @@ times. Considering this, it may be necessary to have additional video screens li
 so he knows that he won't miss a thing. 
 
 Besides this crucial information about reporting from the sidelines, there are a few other interesting bits of knowledge that should be extracted from the interview. The interviewee complained about the length of the game and how stressful it is to constantly pay attention for the full duration of the game. Further research should be done to see if we can design an interface that somehow reduces stress levels or increase concentration. It is certainly important that the screen is not too hard on the eyes, because that may make the reporter
-tired or dizzy.
+tired or dizzy. The interviewee also mentioned that his device of choice to report on is a laptop. This is because they are neither too small nor too big. They can run a lot of different software and are very powerful without losing portability.
 </p>
 <a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1FieldStudiesandArtifacts"> Link here </a>
 
