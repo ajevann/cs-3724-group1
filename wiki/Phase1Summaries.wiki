@@ -224,4 +224,4 @@ Also of concern was the method of input, our client has extensive training and p
 </p>
 <a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1FieldStudiesandArtifacts"> Link here </a>
 <br><br>
-<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1Home">Back to Phase 1 Home</a>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1HomePage">Back to Phase 1 Home</a>
