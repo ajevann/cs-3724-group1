@@ -18,10 +18,22 @@ Talks with our client and examination of several artifacts showed recording all 
 recording system must have a lot of options and configurations if it aims at providing detailed and engaging information. 
 </p>
 
-<h3>Event Recording</h3>
-<br>
+<h3>Event Recording and Tasks</h3>
 <p>
-We
+Basketball can be an incredibly fast paced sport, there are few breaks longer than a minute and they typically very infrequent. Mistakes in particular can be an issue (See interview, questionnaire) due to the game speed. 
+Fans online often are irriatated by recorder mistakes. Mistakes disconnect the end user from the action; especially if they are not immediatly corrected. This poses unique challenges to the recorder and therefore requirements 
+for a recording system. Taking one's eyes off the game for a few seconds can leave you far behind in the action, which is bad news if your goal is to record the game accurately.
+
+Since basketball is such as fast sport with many types of plays, rules and events it is important that any system we create be able to generate tasks with simple interactions from the recorder.
+One thing our client stressed in our discussions with him was the ability to perform tasks with the system, without removing his focus from the game. Such important tasks include creating new events and editing old events. 
+
+Editing old events ties into the issues that end users have with mistakes by the recorder. Since, according to the end users, it is important that mistakes are fixed quickly, it is also important that the recorder have the 
+capability to quickly edit events. Examinations of artifacts of current systems (See CrezScorer interface) show that support for editing of events is lacking. Usually requiring a recorder to replace the event, or simply delete
+it and move a new event into it's place, to the detriment of the chronological event features. Our client reiterated this point, saying that a recorder should have the ability to simply and quickly edit events. 
+
+New events are a focal point to any system, here a trade-off must occur between the ease and speed of event creation and event detail. For example, a recorder could type out a long paragraph about the play just executed by one
+team, but during that time the recorded would become several plays behind in his recording. This trade-off is of primary concern to the requirements of the system, and the recorder. A well trained recorder (our client) 
+can decrease the magnitude of the trade-off with expertise and experience with particular systems (in our case keyboard input and touch devices) but human training can only go so far. 
 </p>
 
 
@@ -198,7 +210,7 @@ The aim of the questionnaire was primarily to learn exactly what types of statis
 Our questionnaire resulted in a list of events or statistics that we could sort into high, medium, and low priority events. High priority events included two-point shots, three-point shots, layups, fouls, assists, possession changes ,and timeouts. 
 Medium priority events included steals, misses, blocks, dunks, and highlight events (i.e. windmill dunks). Low priority events included passes, and rebounds.
 </p>
-Questionnaire Link goes here
+<a href="Phase1FieldStudiesandArtifacts"> Link here </a>
 
 <h2>Client Interview Summary:</h2>
 <p>
@@ -210,4 +222,6 @@ attention or thought as both are in high demand while trying to record the event
 <p>
 Also of concern was the method of input, our client has extensive training and practice in keyboard use and that currently is what he feels most comfortable with, along with touch devices. 
 </p>
-Interview Link goes here
+<a href="Phase1FieldStudiesandArtifacts"> Link here </a>
+<br><br>
+<a href="Phase1Home">Back to Phase 1 Home</a>
