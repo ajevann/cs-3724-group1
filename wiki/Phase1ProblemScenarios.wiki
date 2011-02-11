@@ -50,16 +50,16 @@ The idea for this scenario came about after hearing the different types of input
 </p>
 
 <h3>Jon</h3>
-<p>Jon has been the statistician for the Dubai Shieks, a professional mens basketball team, for eight years now. 
+<p>Jon has been the statistician for the Dubai Sheiks, a professional mens basketball team, for eight years now. 
 In those eight years Jon has had to learn 3 different stats taking programs. He started out with Stat Crew System for
 Basketball, an MS-DOS stats program. This is a purely text input stats program that requires a minimumal amount of
 keystrokes to add game events. This program lacked a lot of the flashy features that were starting to emerge, as well
-as a standard format that the Shieks program approved.  From there, the Shieks program paid for a developer to create
-a custom solution that would provide the exact format the Shieks wanted. After the move, Jon had to spend a great 
+as a standard format that the Sheiks program approved.  From there, the Sheiks program paid for a developer to create
+a custom solution that would provide the exact format the Sheiks wanted. After the move, Jon had to spend a great 
 deal of time learning the ins and outs of the new system. He wanted to make sure that he was completely comfortable
-with the software so that during the stressful games he would be able to keep up with the fast paced game.  Just about
-when Jon was really comfortable with the new system, the Shieks wanted to offer an online play-by-play report of the
-games when the Shieks were playing out of town.  In order to accomplish this, they had to ditch their custom system
+with the software so that during the stressful games he would be able to keep up with the fast pace.  Just about
+when Jon was really comfortable with the new system, the Sheiks wanted to offer an online play-by-play report of the
+games when the Sheiks were playing out of town.  In order to accomplish this, they had to ditch their custom system
 and adopt a system developed by CREZ. CREZ has a complete system that offers stat taking, play making, coach utilities
 and a game casting component.  Now Jon needs to lean CREZscorer to the level he had known the other systems.
 </p>
