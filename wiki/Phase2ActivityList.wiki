@@ -1,0 +1,29 @@
+<h1>Phase 2 Activity List</h1>
+
+<h2>Supported Activities</h2>
+
+<ul>
+<li>Creating a 2 point shot event</li>
+<li>Creating a 3 point shot event</li>
+<li>Creating a 2 point missed shot event</li>
+<li>Creating a 3 point missed shot event</li>
+<li>Creating a dunk/layup event</li>
+<li>Creating an assist event</li>
+<li>Creating a pass event</li>
+<li>Creating a steal event</li>
+<li>Creating a substitute event</li>
+<li>Creating a timeout event</li>
+<li>Creating a team foul event</li>
+<li>Creating a personal foul event</li>
+<li>Creating a free throw event</li>
+<li>Creating a free throw missed event</li>
+<li>Creating a 2 point shot event</li>
+<li>Delete a game event record</li>
+<li>Edit a game event record</li>
+<li>Select initial players</li>
+</ul>
+
+
+<br><br>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2Home
+Page">Back to Phase 2 Home </a>
