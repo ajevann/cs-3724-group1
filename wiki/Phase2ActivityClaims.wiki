@@ -29,8 +29,8 @@
         </ul>
     </li>
     <hr>
-    <li><h3>Crez's CREZScorer requires training</h3>
-<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1ProblemScenarios"> Problem Scenario: Jon </a>
+    <li><h3>Less training is required</h3>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios"> Activity Scenario: Leo </a>
         <h4>Pros</h4>
         <ul>
             <li>Whoever is using the software will be expeirenced</li>
