@@ -29,18 +29,18 @@
         </ul>
     </li>
     <hr>
-    <li><h3>Less training is required</h3>
+    <li><h3>Interface is intuitive</h3>
 <a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios"> Activity Scenario: Leo </a>
         <h4>Pros</h4>
         <ul>
             <li>Replacements are easy to find</li>
-            <li>The user will be able to take advantage of more advanced features</li>
-            <li>Troubleshooting will be easier after training</li>
+            <li>Less training is required</li>
+            <li>Easier to use</li>
         </ul>
         <h4>Cons</h4>
         <ul>
-            <li>Replacements are hard to find</li>
-            <li>Time and resources must be dedicated to training</li>
+            <li>A very experienced user might prefer more advanced systems</li>
+            <li>Certain features of the program may have to be cut for sake of ease of use</li>
         </ul>
     </li>
     <hr>
