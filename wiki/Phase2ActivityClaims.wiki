@@ -29,7 +29,7 @@
         </ul>
     </li>
     <hr>
-    <li><h3>Interface is intuitive</h3>
+    <li><h3>Interface is easy to use</h3>
 <a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios"> Activity Scenario: Leo </a>
         <h4>Pros</h4>
         <ul>
