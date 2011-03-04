@@ -44,7 +44,11 @@
 <td><br/> Spatial representation of potential locations and current records. <br/><br/> </td>
 <td> GPS point</td>
 <td> Provides spatially aware information</td>
-<tr>
 
-</tr>
 </table> 
+
+<br/><br/>
+
+<h2>About the table</h2>
+<p>
+We came up with the actions on the table based on the root actions our system used. For example creating an event where a player passes the ball to another player is a combination of selecting players and also creating a new event. We chose to display our activities this way because listing each potential combination would be repetitive and not contribute to the design of activities for the system. After examining everything that out system needed to do we came up with this fundamental list of activities. We rejected several ideas such as including the activity of possession changes which would require particular team focus. Instead we tried to focus on making our events centered around the movement of the ball on the court.
