@@ -63,10 +63,27 @@ to be an experienced typist to use the software. This makes the interface availa
 
 <h3>Jon</h3>
 <p>
+Jon has been the statistician for the Dubai Sheiks, a professional mens basketball team, for eight years now. In those eight years Jon has 
+had to learn 3 different stats taking programs. He started out with Stat Crew System for Basketball, an MS-DOS stats program. This is a purely 
+text input stats program that requires a minimumal amount of keystrokes to add game events. This program lacked a lot of the flashy features 
+that were starting to emerge, as well as a standard format that the Sheiks program approved. From there, the Sheiks program paid for a developer 
+to create a custom solution that would provide the exact format the Sheiks wanted. After the move, Jon had to spend some time learning the ins 
+and outs of the new system. He wanted to make sure that he was completely comfortable with the software so that during the stressful games he 
+would be able to keep up with the fast pace. This new software automatically sends the update online so there is no additional effor on Jon's 
+part. Also, all of the events that are generated are saved as a standard text file so the game can be archived in case the data ever needs to
+be pulled up again.
 </p>
 
-<h3>Quick Summary of Jon's Issue</h3>
+<h3>From Problems To Activities</h3>
 <p>
+The transformation from to activities occured because of the new software. It is much more standardized than all of the previous interfaces
+and automatically sends updates to the world wide web so it requires no additional effort on the reporter's part. In additional, the new 
+software does not require much time to learn so it doesn't take Jon a very long time to adjust to it. 
+
+The claim that this scenario addresses is that stat recording programs have different levels of features for different levels of users. With
+the new interface, the reporters do not have to re-learn too much because most people are already familiar with the use of touch screens. In 
+addition, there won't be too many advanced features. Despite this, the interface will still be able to generate all of the events that are
+required for each game. 
 </p> 
 
 <br><br>
