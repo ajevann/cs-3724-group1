@@ -92,8 +92,6 @@ addition, there won't be too many advanced features. Despite this, the interface
 required for each game. 
 
 <a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1Claims">Problem Scenario Claims</a>
-
 </p> 
-
 <br><br>
 <a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1HomePage">Back to Phase 1 Home</a>
