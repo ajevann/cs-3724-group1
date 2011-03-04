@@ -44,12 +44,12 @@
         </ul>
     </li>
     <hr>
-    <li><h3>The system processes a great deal of information from the basketball game</h3>
+    <li><h3>The system can generate messages for almost every situation</h3>
 <a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1ProblemScenarios"> Problem Scenario: Leo </a>
         <h4>Pros</h4>
         <ul>
-            <li>Replacements are easy to find</li>
-            <li></li>
+            <li>Reporter not burdened by constantly having to make custom events</li>
+            <li>Online users get much more information about the game</li>
         </ul>
         <h4>Cons</h4>
         <ul>
