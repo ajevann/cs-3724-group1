@@ -68,10 +68,8 @@
         </ul>
         <h4>Cons</h4>
         <ul>
-            <li>Speed of reporting will be reduced</li>
-            <li>Typing errors can be made easily</li>
-            <li>Reporter must be an expeirenced typist</li>
-            <li>Finding, fixing and updating changes could be problematic </li>
+            <li>Reporter might accidentally touch buttons</li>
+            <li>Typing can be problematic</li>
         </ul> 
     </li>
     <hr>
