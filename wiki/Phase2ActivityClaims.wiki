@@ -45,7 +45,7 @@
     </li>
     <hr>
     <li><h3>The system can generate messages for almost every situation</h3>
-<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1ProblemScenarios"> Problem Scenario: Leo </a>
+<a href="<li>Reporter can report events not built into software</li>"> Activity Scenario: Leo </a>
         <h4>Pros</h4>
         <ul>
             <li>Reporter not burdened by constantly having to make custom events</li>
@@ -59,7 +59,7 @@
     </li>
     <hr>
     <li><h3>The reporter interfaces with the software using a touch screen</h3>
-<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios"> Problem Scenario: Leo </a>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios"> Activity Scenario: Leo </a>
         <h4>Pros</h4>
         <ul>
             <li>Reporter can easily customize button layouts to fit his or her needs</li>
@@ -76,7 +76,7 @@
     </li>
     <hr>
     <li><h3>Software allows the user to make custom events</h3>
-<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios"> Problem Scenario: Jon </a>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios"> Activity Scenario: Jon </a>
         <h4>Pros</h4>
         <ul>
             <li>Reporter can report events not built into software</li>
@@ -88,17 +88,17 @@
         </ul>
     </li>
     <hr>        
-    <li><h3>Stats Recording Programs have different levels of features for different levels of users</h3>       
-<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1ProblemScenarios"> Problem Scenario: Jon </a>
+    <li><h3>Interface saves games as a text file</h3>       
+<a href="<li>Reporter can report events not built into software</li>"> Activity Scenario: Jon </a>
         <h4>Pros</h4>       
         <ul>        
-            <li>Reporters can access advanced features that will speed up their task completion</li>        
-            <li>Reporters of less expeirence can use features to help speed up their learning of the software</li>      
+            <li>Games can be stored and viewed later</li>        
+            <li>Text files are universal and can be viewed anywhere</li>      
         </ul>       
         <h4>Cons</h4>       
         <ul>        
-            <li>Reporters must re-learn functionality that other systems implemented differently</li>       
-            <li>Some advnaced features will be very unintuitive when users are learning them</li>       
+            <li>If information is not formatted properly, may be difficult to read</li>       
+            <li>Display will always be raw text</li>       
         </ul>
     </li>
 <br><br>
