@@ -45,7 +45,7 @@
     </li>
     <hr>
     <li><h3>The system can generate messages for almost every situation</h3>
-<a href="<li>Reporter can report events not built into software</li>"> Activity Scenario: Leo </a>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios?ts=1299279497&updated=Phase2ActivityScenarios"> Activity Scenario: Leo </a>
         <h4>Pros</h4>
         <ul>
             <li>Reporter not burdened by constantly having to make custom events</li>
