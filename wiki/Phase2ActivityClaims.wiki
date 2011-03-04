@@ -62,9 +62,9 @@
 <a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios"> Problem Scenario: Leo </a>
         <h4>Pros</h4>
         <ul>
-            <li>Infinite possibilities of events</li>
-            <li>No restrictions of input</li>
-            <li>Color commentary is possible, the reporter's personallity and expierence come into effect</li>
+            <li>Reporter can easily customize button layouts to fit his or her needs</li>
+            <li>Makes the selection of location based events (such as where a shot took place) much easier</li>
+            <li>Interface is more intuitive and natural</li>
         </ul>
         <h4>Cons</h4>
         <ul>
