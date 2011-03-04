@@ -58,8 +58,8 @@
         </ul>
     </li>
     <hr>
-    <li><h3>The reporter types the game's events by hand in a text box.</h3>
-<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1ProblemScenarios"> Problem Scenario: Leo </a>
+    <li><h3>The reporter interfaces with the software using a touch screen</h3>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios"> Problem Scenario: Leo </a>
         <h4>Pros</h4>
         <ul>
             <li>Infinite possibilities of events</li>
