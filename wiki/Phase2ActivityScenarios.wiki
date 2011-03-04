@@ -77,7 +77,7 @@ to create a custom solution that would provide the exact format the Sheiks wante
 and outs of the new system. He wanted to make sure that he was completely comfortable with the software so that during the stressful games he 
 would be able to keep up with the fast pace. This new software automatically sends the update online so there is no additional effor on Jon's 
 part. Also, all of the events that are generated are saved as a standard text file so the game can be archived in case the data ever needs to
-be pulled up again.
+be pulled up again. Jon is also impressed that the software allows him to create custom events in case something occurs during the game that the software did not initially account for.
 </p>
 
 <h3>From Problems To Activities</h3>
