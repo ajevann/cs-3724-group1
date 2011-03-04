@@ -2,7 +2,7 @@
 
 <ul>
     <li><h3>Menu selections pop out like a tree</h3>
-<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios"> Problem Scenario: Kenneth </a>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios"> Activity Scenario: Kenneth </a>
         <h4>Pros</h4>
         <ul>
             <li>Selections are easy to make</li>
@@ -17,7 +17,7 @@
     </li>
     <hr>
     <li><h3>Buffer holds messages before they go live online</h3>
-<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios"> Problem Scenario: Kenneth </a>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios"> Activity Scenario: Kenneth </a>
         <h4>Pros</h4>
         <ul>
             <li>Mistakes can be fixed</li>
