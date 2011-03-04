@@ -2,10 +2,33 @@
 
 <h2>Kenneth</h2>
 <p>
+It is the Friday night basketball game at Portsmouth High School against rivals Middleton High School and the gymnasium is packed. 
+The school has overbooked the gym and due to the incredible demand to view the game, the administrators have decided to present a 
+live game cast of the important rivalry match up on the school’s website. Principal Jack Donaghy is in a frenzy to find a replacement 
+for the usual score recorder, Pete Hornberger. Instead, he resorts to using Kenneth Parcell to act as his temporary recorder for the
+game cast. Alas! Kenneth has never before seen the software used by the school. He stares into the screen and sees all of the player's
+names already listed. He presses on a player and a slew of options comes up. As Kenneth drags his fingers across the screen, more 
+menus pop up like an oak tree. He plays around with the interface for two minutes before the game starts and quickly gets used to it. 
+Before the game, he clears out all of the fake messages he generated. As the game starts, Kenneth is very determined to keep up with
+the fast pace of the game. Fortunately, the software is very easy to use. Kenneth quickly becomes familiar with the movements and
+generates a lot of very accurate events that describe how the game is going. He makes a mistake at one point and panics. Fortunately,
+there is a foul shot immediately after so Kenneth was able to go back and edit the event before it went live. By the end of the game,
+Kenneth is exhausted. Fortunately, he was able to accurately report each event in the game and no riots occured. Everyone went home
+and lived happily ever after. 
 </p>
 
-<h3>Quick Summary of Kenneth's Issue</h3>
+<h3>From Problems to Activities</h3>
 <p>
+The transformation from problems to activities occured because of the new interface that Kenneth, the main character, was using. The
+new software was much more intuitive so Kenneth was able to grasp the basics very quickly. In addition, the software allowed for Kenneth
+to easily and accurately record game data. This means he was able to keep up with the fast pace of the game and accurately report on 
+each event that occured. Kenneth successfully completed his task and no one was angry at him.
+</p>
+<p>
+Several of our claims in from the problem scenarios were addressed. The most important claim was that the current software requires a 
+lot of training. The main disadvantage of this claim is that replacements are very hard to find. This issue is fixed in the new software
+because it is much more intuitive. As Kenneth aptly demonstrated, the new software is easy to learn and anyone can pick it up. This makes
+replacements much easier to find.
 </p>
 
 <h2>Leo</h2>
