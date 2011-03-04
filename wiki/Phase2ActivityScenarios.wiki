@@ -38,11 +38,27 @@ a selection. This hides the clutter of the interface and doesn't overwhelm the u
 
 <h2>Leo</h2>
 <p>
+Coach Frank Rossitano has started his season strong with the Maroney University Lemonheads taking the first seed in the regional basketball 
+tournament. Since going to the regional championship is a big step in the small town’s history, Coach Frank has decided to change the usual 
+recording software to a newer and supposedly more reliable version, which consists of a touch screen and the lastest and greatest software
+from Zhang Industries, an international conglomerate. Leo Spaceman, the team’s statistician, is readying himself up to use the software for 
+the game cast, which will be shown live on the NCAA’s website. With the help of a representative from Zhang Industries, Leo learns how to 
+use the new software and is ready for game day. During the game, Leo swiftly drags his fingers across the screen and generates play-by-play
+events. The updates are automatically sent to the website for those who could not make it to the game. Leo makes a few mistakes throughout
+the game, but the software allows for him to quickly make changes and fix mistakes. 
+
 </p>
 
 <h3>Quick Summary of Leo's Issue</h3>
 <p>
-
+The transformation from problems to activities occured because of the new interface that Leo, the main character, was using. The new 
+software was much easier to use than text input so Leo was able to make the updates quickly and accurately. Leo was able to keep up with the
+fast pace of the game and accurately report the game's events. 
+</p>
+<p>
+This activity scenario addressed the disadvantages of using a keyboard as input. By using a touch screen interface, the speed of reporting 
+will be greatly increased. Also, the reporter does not need to worry about any typing errors he or she makes. The reporter does not need
+to be an experienced typist to use the software. This makes the interface available to almost everyone.
 </p>
 
 <h3>Jon</h3>
