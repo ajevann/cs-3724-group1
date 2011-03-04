@@ -40,7 +40,7 @@
         <h4>Cons</h4>
         <ul>
             <li>A very experienced user might prefer more advanced systems</li>
-            <li>Certain features of the program may have to be cut for sake of ease of use</li>
+            <li>Certain features of the program may have to be cut for simplicity's sake</li>
         </ul>
     </li>
     <hr>
