@@ -89,7 +89,7 @@
     </li>
     <hr>        
     <li><h3>Interface saves games as a text file</h3>       
-<a href="<li>Reporter can report events not built into software</li>"> Activity Scenario: Jon </a>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios?ts=1299279497&updated=Phase2ActivityScenarios"> Activity Scenario: Jon </a>
         <h4>Pros</h4>       
         <ul>        
             <li>Games can be stored and viewed later</li>        
