@@ -1,4 +1,4 @@
-<h1>Information Design Brainstorming </h1>
+<h1>Phase 2 Information Design Brainstorming </h1>
 
 <p>
 Our brainstorming session was perhaps one of the most productive aspects of our entire phase. After sitting down with the client to understand what the different kinds of problems that he encountered were, we set out to address those problems and perhaps provide better solutions that other software failed to solve.
