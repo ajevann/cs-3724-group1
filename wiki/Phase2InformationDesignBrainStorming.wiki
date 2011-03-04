@@ -1,16 +1,12 @@
-PUT STUFF HERE IN HTML
-
-
-#summary One-sentence summary of this page.
-
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+<p>
+Our brainstorming session was perhaps one of the most productive aspects of our entire phase. After sitting down with the client to understand what the different kinds of problems that he encountered were, we set out to address those problems and perhaps provide better solutions that other software failed to solve.
+</p>
+<p>
+After realizing that basketball is an extremely fast paced game, we came to the conclusion that our design would have to be quick to use which meant that simplicity would be key. Our layout is inspired by flow diagrams and tree hierarchy systems that process and provide information quickly and effectively. We observed what were the more frequent sorts of plays that a recorder would encounter when recording a basketball game and decided to give those events precedent. We also decided that since each team share the same kind of events, we could compact and simplify our model by making the same play selections available to each team. This proved to be a popular idea with our client who mentioned that since each team's play was in the same position, they would not have to switch back and forth between different parts of the screen that could hamper the data input time. We also decided to make the interface usable with touch screens in mind. This way the user could physically touch and drag their finger to record actions and not have to worry about correctly aligning a mouse or keypad to record.
+</p>
+<p>
+As a metaphor for our flow layout we tried to associate the motions used as that of a touch screen video game. With this simple idea, we observed the user play simple iPad and iPod Touch games to see how the user moved his finger and whether there were any problems that we could notice. We mentioned that the interface could be associated with a touch screen game and that many of the same motions would be similar. With these similarities, the client seemed rather eager to actually test out the interface and compare it ease and speed with other software they have encountered.
+</p>
+<p>
+Another idea that we incorporated was a shot location indicator. We were eager to come up with a solution for this since the more information that a recorder could provide the more enjoyable the experience for the end user. This meant that not only would the shot indicator have to be accurate but also quick enough that the recorder could input shots as they happen and still be quick enough to recorder if a rebound occurred without losing too much time. We brainstormed different ways we could do this but eventually decided on a court layout with a pop up menu wherever the user pressed his finger. The location of the pressing would automatically determine what type of shot was shot and all the user would have to do is record whether the shot was made or missed.
+</p>
