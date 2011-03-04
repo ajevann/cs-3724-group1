@@ -75,17 +75,16 @@
         </ul> 
     </li>
     <hr>
-    <li><h3>CREZScorer has an edit event</h3>
-<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1ProblemScenarios"> Problem Scenario: Jon </a>
+    <li><h3>Software allows the user to make custom events</h3>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios"> Problem Scenario: Jon </a>
         <h4>Pros</h4>
         <ul>
-            <li>Changes can be made after the fact if the reporter made a mistake</li>
-            <li>Changes made will remain in the proper order, it wont add the change to the end of the list</li>
+            <li>Reporter can report events not built into software</li>
+            <li>Special events such as fights can be easily recorded</li>
         </ul>
         <h4>Cons</h4>
-        <ul>
-            <li>The edit interface is clumsy to find the event to edit</li>
-            <li>Editing takes time away from the reporter's duty to report the game</li>
+        <ul>  
+            <li>Having to create custom events takes time away from the reporter's duty to report the game</li>
         </ul>
     </li>
     <hr>        
