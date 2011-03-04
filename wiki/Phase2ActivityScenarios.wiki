@@ -34,6 +34,9 @@ replacements much easier to find.
 Another claim that was made was the abundance of options in the current interface. The disadvantage of too many options is that the user
 might be overwhemled. This issue was also addressed with the new software. The menus and options do not appear until the user has made
 a selection. This hides the clutter of the interface and doesn't overwhelm the user with too many choices at once.
+
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1Claims">Problem Scenario Claims</a>
+
 </p>
 
 <h2>Leo</h2>
