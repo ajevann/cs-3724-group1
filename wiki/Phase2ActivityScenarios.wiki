@@ -30,6 +30,11 @@ lot of training. The main disadvantage of this claim is that replacements are ve
 because it is much more intuitive. As Kenneth aptly demonstrated, the new software is easy to learn and anyone can pick it up. This makes
 replacements much easier to find.
 </p>
+<p>
+Another claim that was made was the abundance of options in the current interface. The disadvantage of too many options is that the user
+might be overwhemled. This issue was also addressed with the new software. The menus and options do not appear until the user has made
+a selection. This hides the clutter of the interface and doesn't overwhelm the user with too many choices at once.
+</p>
 
 <h2>Leo</h2>
 <p>
