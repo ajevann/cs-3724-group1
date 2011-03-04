@@ -16,19 +16,16 @@
         </ul>
     </li>
     <hr>
-    <li><h3>Crez's CREZScorer provides an online game feed</h3>
-<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1ProblemScenarios"> Problem Scenario: Kenneth </a>
+    <li><h3>Buffer holds messages before they go live online</h3>
+<a href="<li>Can't see all options at once</li>"> Problem Scenario: Kenneth </a>
         <h4>Pros</h4>
         <ul>
-            <li>Users can see the game feed in real time from anywhere</li>
-            <li>Users will get chronological updates and close to the full expeirence</li>
+            <li>Mistakes can be fixed</li>
+            <li>Reporter is clear on what just happened in case he needs to go back</li>
         </ul>
         <h4>Cons</h4>
         <ul>
-            <li>Doesn't support certain unpredictable events</li>
-            <li>Lacks detail on the events</li>
-            <li>Requires an active internet connection</li>
-            <li>Transmission delay </li>
+            <li>Delay for users viewing on the website</li>
         </ul>
     </li>
     <hr>
