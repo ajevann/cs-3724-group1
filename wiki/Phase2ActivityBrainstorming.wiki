@@ -39,11 +39,11 @@
 <td> Swipe Deletion</td>
 <td> Fast, fluid removal.</td>
 </tr>
-<td>Deleting an Event is like removing...</td>
-<td> Pages of a Book </td>
-<td><br/> Permanent loss of data. <br/><br/> </td>
-<td> Swipe Deletion</td>
-<td> Fast, fluid removal.</td>
+<td>Picking a court location is like picking a...</td>
+<td> Place on a map </td>
+<td><br/> Spatial representation of potential locations and current records. <br/><br/> </td>
+<td> GPS point</td>
+<td> Provides spatially aware information</td>
 <tr>
 
 </tr>
