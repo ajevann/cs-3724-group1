@@ -62,6 +62,9 @@ fast pace of the game and accurately report the game's events.
 This activity scenario addressed the disadvantages of using a keyboard as input. By using a touch screen interface, the speed of reporting 
 will be greatly increased. Also, the reporter does not need to worry about any typing errors he or she makes. The reporter does not need
 to be an experienced typist to use the software. This makes the interface available to almost everyone.
+
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1Claims">Problem Scenario Claims</a>
+
 </p>
 
 <h3>Jon</h3>
@@ -87,6 +90,9 @@ The claim that this scenario addresses is that stat recording programs have diff
 the new interface, the reporters do not have to re-learn too much because most people are already familiar with the use of touch screens. In 
 addition, there won't be too many advanced features. Despite this, the interface will still be able to generate all of the events that are
 required for each game. 
+
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1Claims">Problem Scenario Claims</a>
+
 </p> 
 
 <br><br>
