@@ -33,7 +33,7 @@
 <a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios"> Activity Scenario: Leo </a>
         <h4>Pros</h4>
         <ul>
-            <li>Whoever is using the software will be expeirenced</li>
+            <li>Replacements are easy to find</li>
             <li>The user will be able to take advantage of more advanced features</li>
             <li>Troubleshooting will be easier after training</li>
         </ul>
@@ -48,8 +48,8 @@
 <a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1ProblemScenarios"> Problem Scenario: Leo </a>
         <h4>Pros</h4>
         <ul>
-            <li>The system will be able to provide more detailed statistics</li>
-            <li>More detail provides a more immersive online user expeirence</li>
+            <li>Replacements are easy to find</li>
+            <li></li>
         </ul>
         <h4>Cons</h4>
         <ul>
