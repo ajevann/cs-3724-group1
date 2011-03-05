@@ -115,7 +115,7 @@ having the full transcript of the game events.
 <ul>
 <li>All interface layout concerns are addressed by this pdf which contains the prototype
 layouts for the software.
-<p><a href="http://cs-3274-group1.googlecode.com/files/basketball_diagrams_final.pdf">Interface Diagrams</a>
+<p><a href="http://cs-3724-group1.googlecode.com/files/basketball_diagrams_final.PDF">Interface Diagrams</a>
 </p>
 </li>
 <li>The referenced acvitity scenarios can be found here:
