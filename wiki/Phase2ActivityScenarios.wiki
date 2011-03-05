@@ -82,7 +82,7 @@ be pulled up again. Jon is also impressed that the software allows him to create
 
 <h3>From Problems To Activities</h3>
 <p>
-The transformation from to activities occured because of the new software. It is much more standardized than all of the previous interfaces
+The transformation from problems to activities occured because of the new software. It is much more standardized than all of the previous interfaces
 and automatically sends updates to the world wide web so it requires no additional effort on the reporter's part. In additional, the new 
 software does not require much time to learn so it doesn't take Jon a very long time to adjust to it. 
 
