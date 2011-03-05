@@ -2,11 +2,11 @@
 
 <ul>
 <li>
-	<h2>Dragging through the menu items provides event details</h2>
+	<h2>Dragging through the menu items provides event details.</h2>
 	<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2InformationDesignScenarios">Desgin Scenario: Kenneth</a>
 	<h2>Pro</h2>
 	<ul>
-		<li>The dragging method focues the user on the task at to only relevant possible events.</li>
+		<li>The dragging method focues the user on the task so they can only select relevant possible events.</li>
 	</ul>
 	<h2>Con</h2>
 	<ul>
@@ -15,7 +15,7 @@
 </li>
 
 <li>
-	<h2>The interface reuses behaviors in a different system.</h2>
+	<h2>The interface reuses behaviors from a different system.</h2>
 	<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2InformationDesignScenarios">Desgin Scenario: Kenneth</a>
 	<h2>Pro</h2>
 	<ul>
@@ -42,20 +42,20 @@
 
 <li>
 	<h2>A buffer collects game events for a certain period of time before they are pushed into the live feed.</h2>
-	<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2InformationDesignScenarios">Desgin Scenario: Kenneth</a>
+	<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2InformationDesignScenarios">Desgin Scenario: Leo</a>
 	<h2>Pro</h2>
 	<ul>
 		<li>This gives the statistician a small window of time to notice the error and then fix it.</li>
 	</ul>
 	<h2>Con</h2>
 	<ul>
-		<li>The end users do not instant live updates, instead they will have a lag time from the buffer.</li>
+		<li>The end users do not get instant live updates, instead they will have a lag time from the buffer.</li>
 	</ul>
 </li>
 
 <li>
 	<h2>Tapping into the event log / buffer allows for a custom event creation</h2>
-	<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2InformationDesignScenarios">Desgin Scenario: Kenneth</a>
+	<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2InformationDesignScenarios">Desgin Scenario: Jon</a>
 	<h2>Pro</h2>
 	<ul>
 		<li>Color commentary can be added to the game feed further enhancing the online user's expierence.</li>
