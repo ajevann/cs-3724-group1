@@ -120,12 +120,12 @@ layouts for the software.
 </li>
 <li>The referenced acvitity scenarios can be found here:
 <p>
-<a href="http://code.google.com/p/cs-3742-group1/wiki/Phase2ActivityScenarios">Activity Scenarios</a>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios">Activity Scenarios</a>
 </p>
 </li>
 <li>These design scenarios reference the activity design claims which can be found here:
 <p>
-<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityClames">Activity Design Claims</a>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityClaims">Activity Design Claims</a>
 </p>
 </li>
 </ul>
