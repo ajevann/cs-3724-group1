@@ -27,4 +27,4 @@
 
 <br><br>
 
-<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2Home Page">Back to Phase 2 Home </a>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2HomePage">Back to Phase 2 Home </a>
