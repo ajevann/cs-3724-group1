@@ -100,4 +100,4 @@
         </ul>
     </li>
 <br><br>
-<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase1HomePage">Back to Phase 1 Home</a>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2HomePage">Back to Phase 2 Home</a>

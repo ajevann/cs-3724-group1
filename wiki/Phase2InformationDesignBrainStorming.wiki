@@ -12,3 +12,7 @@ As a metaphor for our flow layout we tried to associate the motions used as that
 <p>
 Another idea that we incorporated was a shot location indicator. We were eager to come up with a solution for this since the more information that a recorder could provide the more enjoyable the experience for the end user. This meant that not only would the shot indicator have to be accurate but also quick enough that the recorder could input shots as they happen and still be quick enough to recorder if a rebound occurred without losing too much time. We brainstormed different ways we could do this but eventually decided on a court layout with a pop up menu wherever the user pressed his finger. The location of the pressing would automatically determine what type of shot was shot and all the user would have to do is record whether the shot was made or missed.
 </p>
+
+<br />
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase2HomePage">Back to Phase 2 Home</a>
+
