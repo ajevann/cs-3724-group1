@@ -84,7 +84,7 @@ tool is because the procedure is quick for him and he can stay current with the 
 it also provides more detailed info for the users at home watching the game feed.
 </p>
 
-</h2>Jon</h2>
+<h2>Jon</h2>
 <p>
 Jon is the statistician for the Dubai Sheiks, a professional mens basketball team.  He
 has been using different game recording softwares and is very adept at learning new
@@ -115,7 +115,7 @@ having the full transcript of the game events.
 <ul>
 <li>All interface layout concerns are addressed by this pdf which contains the prototype
 layouts for the software.
-<p><a href="http://cs-3274-group1.googlecode.com/files/basketball_diagrams_final.PDF">Interface Diagrams</a>
+<p><a href="http://cs-3274-group1.googlecode.com/files/basketball_diagrams_final.pdf">Interface Diagrams</a>
 </p>
 </li>
 <li>The referenced acvitity scenarios can be found here:
