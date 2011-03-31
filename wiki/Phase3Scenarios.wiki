@@ -1,0 +1,7 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+This page contains our interaction design scenarios, as well as a short description of how the scenario addresses the problem, activity or information design claims' upsides and downsides. The scenarios contain links to specific claims on the claims page, as in the usability case studies library.
+
+= Stuff =
