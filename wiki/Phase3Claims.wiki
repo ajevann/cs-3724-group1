@@ -1,0 +1,7 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+This page contains our interaction design claims, with links to the interaction design scenarios they refer to.
+
+= Stuff =
