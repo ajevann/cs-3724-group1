@@ -1,6 +1,6 @@
 <h1>Home Page for Phase Three</h1>
 
 <ul>
-<li>Prototype</li>
+<li>Phase3Prototype</li>
 
 </ul>
