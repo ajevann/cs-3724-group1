@@ -49,9 +49,9 @@ was a limitation of the prototype. It was difficult to implement this feature fo
 prototype in the limited amount of time we had. We will, however, address this issue in the 
 final iteration and make sure that the interface is correctly implemented in the final product. 
 
-<p>Overall, the prototype has been a success. The client's reaction was generally positive. It 
+Overall, the prototype has been a success. The client's reaction was generally positive. It 
 reaffirmed our interaction design and gave us renewed faith in the project. The prototype had a
 few shortcomings, but they were all predicted and accounted for. With the full support of our 
 client, we are set to push head first into the next phase. We are ready to face any challenge 
-that might be foolish enough to face us. </p>
+that might be foolish enough to face us.
  
