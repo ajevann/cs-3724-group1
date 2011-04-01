@@ -1,5 +1,9 @@
 <h1>Phase 3 Interaction Brainstorming</h1>
 
+<h2> Introduction </h2>
+<p>
+This page contains a written description of the brainstorming we did about interaction design. Both ideas that we rejected and the final design that we decided upon are included. It contains explanations for all the key elements of our interaction design. It includes justification and design rationale. Finally, it includes information about the results of our client meeting with respect to interaction design. </p>
+
 <h2>Brainstorming </h2>
 <p>
 Our brainstorming session for interaction design proved to be very fruitful for our group's final design. Our group came up with several interesting ideas, all of which were incorporated into the final design of this phase.</p>
@@ -26,20 +30,26 @@ Additionally we decided to implement a "swipe" deletion interface for the recent
 
 <h2>Client Interaction Interview </h2>
 
+Before coming up with the prototype, we worked with our client on interaction design. Because he does 
+not have any prior knowledge of HCI or software engineering, we used the slides provided to us in 
+lecture to help explain the concept. After going over the basics of interaction design, we discussed
+interaction styles. Out of the three styles, we agreed that the primary interface was gong to be 
+based on direct manipulation. Menus and forms are also going to be used, but they will be applied to
+less common tasks. We quickly ruled out a command line interface because it does not make sense to 
+use in this software. Our client was interested in the direct manipulation tree diagram that we came
+up with during our activity and information design so we decided to implement the interface for the 
+prototype. 
 
+We also discussed our choice of hardware with our client. He agreed that the best choice to implement
+our prototype on is some sort of touch device. Fortunately, there are two members on our team with
+multi-touch tablets. Tablets are an ideal choice because they are portable and can rest comfortably
+on one's lap. Also, they are not too expensive and are easy to program.
 
-
-
-
-
-
-= Introduction =
-
-This page contains a written description of the brainstorming we did about interaction design. Both ideas that we rejected and the final design that we decided upon are included. It contains explanations for all the key elements of our interaction design. It includes justification and design rationale. Finally, it includes information about the results of our client meeting with respect to interaction design.
-
-= Stuff =
-
-
+After discussing these fundamentals of interaction design, we decided the best choice for the 
+prototype was an app on the iPad 2. We decided to omit certain features that do not pertain with the 
+overall use of the interface. Certain setup menus were ignored because they do not interfere with 
+the central task: recording the events of a basketball game. With these ideas in mind, we set out
+to implement a functional prototype.
 
 <br/><br/>
 
