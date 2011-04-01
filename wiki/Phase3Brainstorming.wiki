@@ -18,7 +18,7 @@ This idea of a court location quickly gave way to realization that a basketball 
 
 From here our interaction design shifted to a way that we could incorporate the menu system along with a full court location selection tool that would provide the user with the affordance of selecting a court location with a single click and incorporating the type of shot into the selection. To do this we came up with the idea of when a user selected a location on the court, a bubble menu would appear around the location and prompt the user with a menu that he could then click to select from to define the end result of a shot (miss, made, fouled, etc.)
 
-At this point our group was originally considering implementing this on a traditional computer with a point and click interface since keyboard shortcuts for such a complex system would carry a steep learning curve, vocal input would be impractical due to the volume of a basketball arena, and other input mediums would be difficult to reproduce court side. Then the idea of a touch interface on a mobile platform occurred to us since the idea of a laptop or desktop court side seemed cumbersome. A touch interface would also allow us to implement fast, natural interaction with the device.
+At this point our group was originally considering implementing this on a traditional computer with a point and click interface since keyboard shortcuts for such a complex system would carry a steep learning curve, vocal input would be impractical due to the volume of a basketball arena, and other input mediums would be difficult to reproduce court side. Then the idea of a touch interface on a mobile platform occurred to us since the idea of a laptop or desktop court side seemed cumbersome. A touch interface on a mobile platform, such as an iPad, would also allow us to implement fast, natural interaction with the device.
 
 The idea of using a touch menu interface coupled with a system that would be aware of the context of the event took us in the direction of creating a "drag menu" for selection, that would dynamically create levels a menu based on the current options available to the context of the system. For example, all events revolve around players, so initially the menu would only consist of a menu of players. When a user selects a player then a menu would "spawn" to the right of it where the next level of options relevant to that player would appear (i.e. pass, shot, etc.) The user could then drag their finger from the player to the desired action. This would then either "spawn" another menu or create the event depending on if more information was required (such as, in the event of a steal, the player that stole the ball). To incorporate the ideas of court location into this system, if the shot event was selected then the court map would spawn, allowing the user to select the event location and result with the previously describe bubble menu.
 
@@ -50,5 +50,7 @@ prototype was an app on the iPad 2. We decided to omit certain features that do 
 overall use of the interface. Certain setup menus were ignored because they do not interfere with 
 the central task: recording the events of a basketball game. With these ideas in mind, we set out
 to implement a functional prototype.
+
+<br/><br/>
 
 <a href="http://code.google.com/p/cs-3724-group1/wiki/Phase3HomePage">Back to Phase 3 Home</a>
