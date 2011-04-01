@@ -8,3 +8,9 @@
 </p>
 
 <h2>Kenneth</h2>
+
+<h3> Selections expand out like a tree as buttons are touched. </h3>
+<h4> Pros </h4>
+<ul>
+<li> The next choice is obvious for the user </li>
+</ul>
