@@ -56,4 +56,4 @@ swiping across the event and confiriming the delete. He also taps on the list to
 for editing the event. The editing interface allows him to completely redo the event to fix any errors 
 that have been made. After the fix, the new event is automatically put in the place of the old one. </p>
 
-<p>This scenario illustrates the use and effectiveness of the edit and correction function of the interface. With this ability, Tony was able to quickly correct a costly mistake before anyone could question him and the veracity of the mistake, saving him some fingers. </p>
+<p>This scenario illustrates the use and effectiveness of the edit and correction function of the interface. With this ability, Leo was able to quickly correct a costly mistake before anyone could question him and the veracity of the mistake, saving him a lot of trouble. One of the main concerns of the client was the ability to correct any mistakes that are made. </p>
