@@ -1,7 +1,8 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+<h1>Claims</h1>
 
-This page contains our interaction design claims, with links to the interaction design scenarios they refer to.
+<h2>Introduction</h2>
 
-= Stuff =
+<p>This page contains our interaction design claims, with links to the interaction design scenarios they refer to.
+</p>
