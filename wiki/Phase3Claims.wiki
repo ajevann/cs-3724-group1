@@ -52,3 +52,18 @@ engaged with the objects of interest </li>
 <li> May be slower for experts </li>
 <li> May be more difficult to implement </li>
 </ul>
+
+<h2>Mistake Editing</h2>
+
+<h3> Past events are stored in a buffer before going live </h3>
+<h4> Pros </h4>
+<ul>
+<li> Allows for the chance to correct mistakes </li>
+<li> Allows for the user to delete unwanted events </li>
+</ul>
+
+<h4> Cons </h4>
+<ul>
+<li> Updates are delayed </li>
+<li> More reading is required to use this feature</li>
+</ul>
