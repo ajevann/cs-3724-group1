@@ -55,7 +55,7 @@ few shortcomings, but they were all predicted and accounted for. With the full s
 client, we are set to push head first into the next phase. We are ready to face any challenge 
 that might be foolish enough to face us.
 
-Prototype Screen Shots:
+= Prototype Screen Shots =
 
 <img src="http://cs-3724-group1.googlecode.com/files/photo.PNG">
 <img src="http://cs-3724-group1.googlecode.com/files/photo-1.PNG">
