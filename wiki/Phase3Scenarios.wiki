@@ -32,7 +32,7 @@ to edit and correct the event. By the end of the game,
 Kenneth is exhausted. Fortunately, he was able to accurately report each event in the game and no 
 riots occured. Everyone went home and lived happily ever after.</p>
 
-<p>This scenario helps to illustrate the ease with which the interface can be manipulated. With relative simplicity, the interface can be controlled.</p>
+<p>This scenario helps to illustrate the ease with which the interface can be manipulated. With relative simplicity, the interface can be controlled. This addresses the problem of the high learning curve of traditional systems that have a complex interface any many buttons and menus. In addition, the new interface is fast to use and very easy to adjust to. After a short period of time, users should become familiar with the button placements. This will help speed up the generation of the events and help the user keep his eyes on the game so he or she doesn't miss anything important.</p>
 
 
 <h2>Mistake Editing</h2>
