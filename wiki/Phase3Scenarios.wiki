@@ -37,6 +37,23 @@ riots occured. Everyone went home and lived happily ever after.</p>
 
 <h2>Mistake Editing</h2>
 
-<p>With ten minutes left in the second half, Tony is in the heat of recording. He has done well up to this point but has become overwhelmed with the excitement and work that has gone into recording. Unfortunately for him, he lapses for a moment and doesn't pay attention to what he does. He makes a slight mistake which causes the referees to second guess themselves on a call after reviewing with the scorekeeper and Tony (One of the referees, Pierre-Luigi Colina, is a minute amnesiac). They end up ejecting the star player unfairly and Tony is in a bind to fix his mistake. He quickly uses the edit function on the right side of the window and corrects the mistake before the referee figures out what happened. Tony sighs in relief. He still has his two fingers.</p>
+<p>
+Coach Frank Rossitano has started his season strong with the Maroney University Lemonheads taking the 
+first seed in the regional basketball tournament. Since going to the regional championship is a big step 
+in the small town’s history, Coach Frank has decided to change the usual recording software to a newer 
+and supposedly more reliable version, which consists of a touch screen and the lastest and greatest 
+software from Zhang Industries, an international conglomerate. Leo Spaceman, the team’s statistician, 
+is readying himself up to use the software for the game cast, which will be shown live on the NCAA’s 
+website. With the help of a representative from Zhang Industries, Leo learns how to use the new software 
+and is ready for game day. During the game, Leo swiftly drags his fingers across the screen and generates 
+play-by-play events. As he places his finger down on one button, the next buttons that need to be pressed
+automatically pop up. He simply drags his fingers to one of those buttons to select it. The event is then
+generated and an update is automatically sent to the website for those who could not make it to 
+the game. Leo is amazed that the software is able to generate messages for every event that happens. He 
+makes a few mistakes throughout the game, but the software allows for him to quickly make changes and fix 
+mistakes. He fixes these events based on a list view on the right of the page. He can delete an event by
+swiping across the event and confiriming the delete. He also taps on the list to bring up the interface
+for editing the event. The editing interface allows him to completely redo the event to fix any errors 
+that have been made. After the fix, the new event is automatically put in the place of the old one. </p>
 
 <p>This scenario illustrates the use and effectiveness of the edit and correction function of the interface. With this ability, Tony was able to quickly correct a costly mistake before anyone could question him and the veracity of the mistake, saving him some fingers. </p>
