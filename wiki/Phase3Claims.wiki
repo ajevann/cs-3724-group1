@@ -8,6 +8,7 @@
 </p>
 
 <h2>Kenneth</h2>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase3Scenarios">Associated Scenario (Labeled with Kenneth)</a>
 
 <h3> Selections expand out like a tree as buttons are touched. </h3>
 <h4> Pros </h4>
@@ -23,6 +24,7 @@
 </ul>
 
 <h2>Kenneth</h2>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase3Scenarios">Associated Scenario (Labeled with Kenneth)</a>
 
 <h3> Buttons are always in the same place. </h3>
 <h4> Pros </h4>
@@ -38,6 +40,7 @@
 </ul>
 
 <h2>Kenneth</h2>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase3Scenarios">Associated Scenario (Labeled with Kenneth)</a>
 
 <h3> Interactions are done through direct manipulation. </h3>
 <h4> Pros </h4>
@@ -54,6 +57,7 @@ engaged with the objects of interest </li>
 </ul>
 
 <h2>Mistake Editing</h2>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase3Scenarios">Associated Scenario (Labeled with Mistake Editing)</a>
 
 <h3> Past events are stored in a buffer before going live </h3>
 <h4> Pros </h4>
@@ -69,6 +73,7 @@ engaged with the objects of interest </li>
 </ul>
 
 <h2>Mistake Editing</h2>
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase3Scenarios">Associated Scenario (Labeled with Mistake Editing)</a>
 
 <h3> Past events can be changed </h3>
 <h4> Pros </h4>
@@ -82,3 +87,8 @@ engaged with the objects of interest </li>
 <li> More work for the recorder </li>
 <li> May be difficult to implement </li>
 </ul>
+
+
+<br/><br/>
+
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase3HomePage">Back to Phase 3 Home</a>
