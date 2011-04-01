@@ -67,3 +67,18 @@ engaged with the objects of interest </li>
 <li> Updates are delayed </li>
 <li> More reading is required to use this feature</li>
 </ul>
+
+<h2>Mistake Editing</h2>
+
+<h3> Past events can be changed </h3>
+<h4> Pros </h4>
+<ul>
+<li> Any mistakes made can be fixed </li>
+<li> More accurate reporting for the audience </li>
+</ul>
+
+<h4> Cons </h4>
+<ul>
+<li> More work for the recorder </li>
+<li> May be difficult to implement </li>
+</ul>
