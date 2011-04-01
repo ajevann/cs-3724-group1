@@ -5,11 +5,34 @@
 <p>This page contains our interaction design scenarios, as well as a short description of how the scenario addresses the problem, activity or information design claims' upsides and downsides. The scenarios contain links to specific claims on the claims page, as in the usability case studies library.</p>
 
 
-<h2> Dragging Finger </h2>
+<h2> Kenneth </h2>
 
-<p>Tony "Two-Finger" DiMartino has been chosen as the basketball game recorder for the up coming game between the Jersey High Snitches and the Queens High Soldiers. Because he only has two fingers, Tony is afraid that he might not be able to take care of the intensity and speed that will be required to record the basketball game. Not being familiar with the software, he is also afraid that his physical limitations may keep him from correctly preforming his duties. However, when he sees the interface and plays with it right before the game begins he is excited to see that it is relatively easy to navigate and manage. He is able to drag his good fingers easily over the touchscreen. He succeeds in recording an almost accurate game and makes his boses happy.</p>
+<p>It is the Friday night basketball game at Portsmouth High School against rivals Middleton High 
+School and the gymnasium is packed. The school has overbooked the gym and due to the incredible 
+demand to view the game, the administrators have decided to present a live game cast of the 
+important rivalry match up on the school’s website. Principal Jack Donaghy is in a frenzy to 
+find a replacement for the usual score recorder, Pete Hornberger. Instead, he resorts to using 
+Kenneth Parcell to act as his temporary recorder for the game cast. Alas! Kenneth has never before 
+seen the software used by the school. Kenneth is afraid that he might
+not be able to take care of the intensity and speed that will be required to record the basketball game. 
+He stares into the screen and sees all of the player's names 
+already listed. He presses on a player and a slew of options comes up. As Kenneth drags his fingers 
+across the screen, more menus pop up like an oak tree. He plays around with the interface for two 
+minutes before the game starts and quickly gets used to it. Before the game, he clears out all of 
+the fake messages he generated. As the game starts, Kenneth is very determined to keep up with the 
+fast pace of the game. Fortunately, the software is very easy to use. Kenneth quickly becomes 
+familiar with the movements and generates a lot of very accurate events that describe how the game 
+is going. After a few minutes, Kenneth is more familiar with the interface and button placement. 
+He is able to generate most of the plays now without looking at the screen. He simply drags his fingers
+across the screen to generate the events. Unfortuantely, he makes a 
+mistake at one point and panics. Fortunately, there is a foul shot immediately 
+after so Kenneth was able to go back and edit the event before it went live. All the messages he
+generated were placed in a text list to the right of the screen. Simply by tapping it, he was able
+to edit and correct the event. By the end of the game, 
+Kenneth is exhausted. Fortunately, he was able to accurately report each event in the game and no 
+riots occured. Everyone went home and lived happily ever after.</p>
 
-<p>This scenario helps to illustrate the ease with which the interface can be manipulated. With relative simplicity, the interface can be controlled with principally one finger, eliminating the need to keep track of other digits and operations.</p>
+<p>This scenario helps to illustrate the ease with which the interface can be manipulated. With relative simplicity, the interface can be controlled.</p>
 
 
 <h2>Mistake Editing</h2>
