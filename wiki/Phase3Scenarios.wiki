@@ -1,7 +1,19 @@
-#summary One-sentence summary of this page.
+<h1>Scenarios<h1>
 
-= Introduction =
+<h2>Introduction</h2>
 
-This page contains our interaction design scenarios, as well as a short description of how the scenario addresses the problem, activity or information design claims' upsides and downsides. The scenarios contain links to specific claims on the claims page, as in the usability case studies library.
+<p>This page contains our interaction design scenarios, as well as a short description of how the scenario addresses the problem, activity or information design claims' upsides and downsides. The scenarios contain links to specific claims on the claims page, as in the usability case studies library.</p>
 
-= Stuff =
+
+<h2> Dragging Finger </h2>
+
+<p>Tony "Two-Finger" DiMartino has been chosen as the basketball game recorder for the up coming game between the Jersey High Snitches and the Queens High Soldiers. Because he only has two fingers, Tony is afraid that he might not be able to take care of the intensity and speed that will be required to record the basketball game. Not being familiar with the software, he is also afraid that his physical limitations may keep him from correctly preforming his duties. However, when he sees the interface and plays with it right before the game begins he is excited to see that it is relatively easy to navigate and manage. He is able to drag his good fingers easily over the touchscreen. He succeeds in recording an almost accurate game and makes his boses happy.</p>
+
+<p>This scenario helps to illustrate the ease with which the interface can be manipulated. With relative simplicity, the interface can be controlled with principally one finger, eliminating the need to keep track of other digits and operations.</p>
+
+
+<h2>Mistake Editing</h2>
+
+<p>With ten minutes left in the second half, Tony is in the heat of recording. He has done well up to this point but has become overwhelmed with the excitement and work that has gone into recording. Unfortunately for him, he lapses for a moment and doesn't pay attention to what he does. He makes a slight mistake which causes the referees to second guess themselves on a call after reviewing with the scorekeeper and Tony (One of the referees, Pierre-Luigi Colina, is a minute amnesiac). They end up ejecting the star player unfairly and Tony is in a bind to fix his mistake. He quickly uses the edit function on the right side of the window and corrects the mistake before the referee figures out what happened. Tony sighs in relief. He still has his two fingers.</p>
+
+<p>This scenario illustrates the use and effectiveness of the edit and correction function of the interface. With this ability, Tony was able to quickly correct a costly mistake before anyone could question him and the veracity of the mistake, saving him some fingers. </p>
