@@ -49,6 +49,6 @@ engaged with the objects of interest </li>
 
 <h4> Cons </h4>
 <ul>
-<li> User may not like the placement of the buttons </li>
-<li> Positioning may be awkward for users with different sized hands</li>
+<li> May be slower for experts </li>
+<li> May be more difficult to implement </li>
 </ul>
