@@ -1,5 +1,77 @@
 <h1>Evaluation Design</h1>
 
+<h2>Evaluation Type</h2>
+
+Our evaluation was based empirical methods. We conducted controlled experiments
+on test subjects to evaluate the effectiveness and ease of use of our software.
+We carefully selected a set of representative tasks for our users to perform. We
+collected multiple measures of usability impacts and interpreted the data with 
+respect to usability. We chose this method because we wanted to see how our 
+application would perform in the real world. In addition, we did not have access
+to a group of experts to consult for analytical evaluation. Based on these 
+limitations, we concluded that an empirical evaluation would be the best course 
+of action.
+
+<h2>Recruitment of Subjects</h2>
+
+It was difficult to recruit subjects due to the lack of compensation for the study.
+Most of our participants are Virginia Tech computer science students we found in the
+CS lounge in McBryde Hall. In order to diversify our subjects, we also recruited a few
+friends and roommates who are not studying computer science. We document our subjects'
+background by asking them to complete an user background survey. This way, we can take
+the subjects' background into account when analyzing the data. Lastly, we ensured that 
+none of the subjects are in the CS 3724 HCI class at Virginia Tech. 
+
+<h2>Procedures</h2>
+
+In order to ensure consistency, we strictly followed a script for each study. A full
+transcript of the script follows. It provides exact details on the procedures that 
+were followed during the study.
+
+<h3>Script:</h3>
+
+Basketball Event Tracking Interface Usability Study
+
+Section 1: Welcome and Introduction
+
+Hello, and welcome to our study. I would first like to thank you for volunteering to participate in our study. Today, we will be looking at the effectiveness of a basketball event tracking interface that we designed. We will do our best to keep everything short. For the study, you will be using our software to record the events that occur during basketball games. To keep things brief, you will only have to record the events for a 30 second period. You should try to record the events as quickly and accurately as possible. Events that should be recorded include passes, steals, shots, and fouls. There will be three trials. For the first trial, you will be using the interface without any assistance. After that, we will explain in detail how to use the software. This should prepare you for the second trial and let you get more familiar with our software. Finally, you will perform the same task for a third evaluation trial. Please note that we are evaluating the effectiveness of the software, not you.
+For each trial, one of the conductors will verbally state the events that occur. You are to use the software to record everything that he says. There are no consequences for mistakes, but please do your best to ensure accuracy in each recording. We guarantee that everything the conductor says can be recorded using the software. 
+Now that you know a little more about the study, please sign this Informed Consent form.
+
+[Have him sign the informed consent form] 
+
+Section 2: Questionnaires and Trials
+
+Do you have any questions at this point?
+
+[Answer any questions]
+
+Good. In order to get to know you a little bit better, please fill out this background questionnaire.
+
+[Give the subject the questionnaire]
+
+Thanks. Now, we are ready to begin the first trial. Here is an iPad 2 with our software on it. We will verbally read out events that occur during a basketball game. Try to record every event that occurs, including passing, stealing, shots, and fouls. Please note that your actions will be recorded.
+
+[Have subject record game]
+
+Great! Now we will run the second trial. First, we will explain to you exactly how to use the software. You will be watching the same clip as before. This time, however, you should be more prepared to use the software.
+
+[Give instructions on how to use the software and run the second trial]
+
+Nice work! We are now ready to move into the evaluation phase. This time, the events that we read out will be different from the events of the first two trials. We will be evaluating your performance. Please take a five minute break before we begin.
+
+[Give subject a 5 minute break]
+
+Okay, now we are ready to start the third and final trial. Are you ready?
+
+[Perform third and final trial]
+
+That’s it! Thank you for participating in this study. Before you leave, please fill out this questionnaire to help us evaluate the effectiveness of the software. 
+
+[Give him questionnaire]
+
+Thank you very much for your time. I hope you have a wonderful day!
+
 
 <br/><br/>
 
