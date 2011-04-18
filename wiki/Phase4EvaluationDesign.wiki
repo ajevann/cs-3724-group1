@@ -40,7 +40,9 @@ were followed during the study.
 <p>
 Basketball Event Tracking Interface Usability Study
 
+<h4>
 Section 1: Welcome and Introduction
+</h4>
 
 Hello, and welcome to our study. I would first like to thank you for volunteering to participate in our study. Today, we will be looking at the effectiveness of a basketball event tracking interface that we designed. We will do our best to keep everything short. For the study, you will be using our software to record the events that occur during basketball games. To keep things brief, you will only have to record the events for a 30 second period. You should try to record the events as quickly and accurately as possible. Events that should be recorded include passes, steals, shots, and fouls. There will be three trials. For the first trial, you will be using the interface without any assistance. After that, we will explain in detail how to use the software. This should prepare you for the second trial and let you get more familiar with our software. Finally, you will perform the same task for a third evaluation trial. Please note that we are evaluating the effectiveness of the software, not you.
 For each trial, one of the conductors will verbally state the events that occur. You are to use the software to record everything that he says. There are no consequences for mistakes, but please do your best to ensure accuracy in each recording. We guarantee that everything the conductor says can be recorded using the software. 
@@ -48,7 +50,9 @@ Now that you know a little more about the study, please sign this Informed Conse
 
 (Have him sign the informed consent form) 
 
+<h4>
 Section 2: Questionnaires and Trials
+</h4>
 
 Do you have any questions at this point?
 
