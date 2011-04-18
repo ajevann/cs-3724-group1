@@ -2,6 +2,7 @@
 
 <h2>Evaluation Type</h2>
 
+<p>
 Our evaluation was based empirical methods. We conducted controlled experiments
 on test subjects to evaluate the effectiveness and ease of use of our software.
 We carefully selected a set of representative tasks for our users to perform. We
@@ -11,8 +12,11 @@ application would perform in the real world. In addition, we did not have access
 to a group of experts to consult for analytical evaluation. Based on these 
 limitations, we concluded that an empirical evaluation would be the best course 
 of action.
+</p>
 
 <h2>Recruitment of Subjects</h2>
+
+<p>
 
 It was difficult to recruit subjects due to the lack of compensation for the study.
 Most of our participants are Virginia Tech computer science students we found in the
@@ -21,15 +25,19 @@ friends and roommates who are not studying computer science. We document our sub
 background by asking them to complete an user background survey. This way, we can take
 the subjects' background into account when analyzing the data. Lastly, we ensured that 
 none of the subjects are in the CS 3724 HCI class at Virginia Tech. 
+</p>
 
 <h2>Procedures</h2>
 
+<p>
 In order to ensure consistency, we strictly followed a script for each study. A full
 transcript of the script follows. It provides exact details on the procedures that 
 were followed during the study.
+</p>
 
 <h3>Script:</h3>
 
+<p>
 Basketball Event Tracking Interface Usability Study
 
 Section 1: Welcome and Introduction
@@ -71,7 +79,7 @@ That’s it! Thank you for participating in this study. Before you leave, please
 [Give him questionnaire]
 
 Thank you very much for your time. I hope you have a wonderful day!
-
+</p>
 
 <br/><br/>
 
