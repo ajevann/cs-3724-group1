@@ -46,37 +46,37 @@ Hello, and welcome to our study. I would first like to thank you for volunteerin
 For each trial, one of the conductors will verbally state the events that occur. You are to use the software to record everything that he says. There are no consequences for mistakes, but please do your best to ensure accuracy in each recording. We guarantee that everything the conductor says can be recorded using the software. 
 Now that you know a little more about the study, please sign this Informed Consent form.
 
-[Have him sign the informed consent form] 
+(Have him sign the informed consent form) 
 
 Section 2: Questionnaires and Trials
 
 Do you have any questions at this point?
 
-[Answer any questions]
+(Answer any questions)
 
 Good. In order to get to know you a little bit better, please fill out this background questionnaire.
 
-[Give the subject the questionnaire]
+(Give the subject the questionnaire)
 
 Thanks. Now, we are ready to begin the first trial. Here is an iPad 2 with our software on it. We will verbally read out events that occur during a basketball game. Try to record every event that occurs, including passing, stealing, shots, and fouls. Please note that your actions will be recorded.
 
-[Have subject record game]
+(Have subject record game)
 
 Great! Now we will run the second trial. First, we will explain to you exactly how to use the software. You will be watching the same clip as before. This time, however, you should be more prepared to use the software.
 
-[Give instructions on how to use the software and run the second trial]
+(Give instructions on how to use the software and run the second trial)
 
 Nice work! We are now ready to move into the evaluation phase. This time, the events that we read out will be different from the events of the first two trials. We will be evaluating your performance. Please take a five minute break before we begin.
 
-[Give subject a 5 minute break]
+(Give subject a 5 minute break)
 
 Okay, now we are ready to start the third and final trial. Are you ready?
 
-[Perform third and final trial]
+(Perform third and final trial)
 
 That’s it! Thank you for participating in this study. Before you leave, please fill out this questionnaire to help us evaluate the effectiveness of the software. 
 
-[Give him questionnaire]
+(Give him final questionnaire)
 
 Thank you very much for your time. I hope you have a wonderful day!
 </p>
