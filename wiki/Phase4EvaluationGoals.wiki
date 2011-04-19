@@ -1,6 +1,9 @@
 <h1>Evaluation Goals</h1>
 
+<h3>Overall Goals</h3>
+<p>The next step of our project was the evaluation phase. To begin this we first had a discussion with our client to get his input on our evaluation parameters. After speaking with him we came to the conclusion that the primary goals of our evaluation was to determine the following: First on our list was to evaluate the "swiping" input interface. This interaction is key to our system as it acts as the input to the main feature of the application. In particular we wanted to evaluate the speed of input and how error prone this feature is to use. Secondly we wanted to closely evaluate how quickly, reliably, and intuitive the edit and delete features of the system are. We decided on these features in particular after our discussion with the client. He emphasized the speed of basketball games and how our interface needed to support that. From these talks we decided to focus on the aspects that influenced event creation and modification, notably the "swiping" input and editing interface.
 
+<h3>Critical Aspects </h3>
 
 
 <br/><br/>
