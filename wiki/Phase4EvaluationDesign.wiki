@@ -85,6 +85,11 @@ That’s it! Thank you for participating in this study. Before you leave, please
 Thank you very much for your time. I hope you have a wonderful day!
 </p>
 
+<h1>Metrics</h1>
+
+<p>
+We measured the performance of our software based on four criteria: intuitiveness, ease of use, accuracy, and speed.
+</p>
 <br/><br/>
 
 <a href="http://code.google.com/p/cs-3724-group1/wiki/Phase4HomePage">Back to Phase 4 Home</a>
