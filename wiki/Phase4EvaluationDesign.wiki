@@ -85,7 +85,7 @@ That’s it! Thank you for participating in this study. Before you leave, please
 Thank you very much for your time. I hope you have a wonderful day!
 </p>
 
-<h1>Metrics</h1>
+<h2>Metrics</h2>
 
 <p>
 We determined the performance of our software based on four criteria: intuitiveness, learning curve, accuracy, and speed.
@@ -105,8 +105,11 @@ The accuracy of the software system will be determined in the third evaluation p
 
 The last property that we determine is speed. In order to determine speed, we will record the amount of time it takes for the user to complete the task during the third trial.  
 
-
 </p>
+
+<h2>Data Analysis</h2>
+
+We will analyze the data using Microsoft Excel. We will graph the data using the software and use the visual data to draw conclusions. We will calculate the mean and median of every metric. These statistics will then be compared with the control. The control study will be performed on someone within the team. The results of this study will be used as a baseline to compare with the rest of the study. 
 <br/><br/>
 
 <a href="http://code.google.com/p/cs-3724-group1/wiki/Phase4HomePage">Back to Phase 4 Home</a>
