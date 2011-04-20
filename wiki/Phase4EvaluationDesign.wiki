@@ -88,7 +88,19 @@ Thank you very much for your time. I hope you have a wonderful day!
 <h1>Metrics</h1>
 
 <p>
-We measured the performance of our software based on four criteria: intuitiveness, ease of use, accuracy, and speed.
+We determined the performance of our software based on four criteria: intuitiveness, learning curve, accuracy, and speed.
+
+We measured these criteria based on the following metrics:
+<ul>
+<li> Number of mistakes made </li>
+<li> User ratings based on surveys </li>
+<li> Time to complete </li>
+</ul>
+
+The intuitiveness of the system will be based on the number of mistakes the user made on the first trial. Because the user has no previous experience with the software, this is a good indicator of how easy it is to pick up the software. This data will be collected based on the list of events that the user generates. We will create a list beforehand of all the correct events that are supposed to be recorded. We will compare this to the list that the user came up with. To determine the user's score, we will divide the number of correctly generated events by the the total number of correct events. This will give us a percentage from 0 to 100. A higher number means that less mistakes were made and the system is more intuitive.
+
+
+
 </p>
 <br/><br/>
 
