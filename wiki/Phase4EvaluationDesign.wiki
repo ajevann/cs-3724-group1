@@ -109,7 +109,7 @@ The last property that we determine is speed. In order to determine speed, we wi
 
 <h2>Data Analysis</h2>
 
-We will analyze the data using Microsoft Excel. We will graph the data using the software and use the visual data to draw conclusions. We will calculate the mean and median of every metric. These statistics will then be compared with the control. The control study will be performed on someone within the team. The results of the control study will be used as a baseline that will be compared to the rest of the study. 
+We will analyze the data using Microsoft Excel. We will graph the data using the software and use the visual data to draw conclusions. We will calculate the mean and median of every metric. In addition, we will make line graphs to see how much the user improved over the three trials. 
 <br/><br/>
 
 <a href="http://code.google.com/p/cs-3724-group1/wiki/Phase4HomePage">Back to Phase 4 Home</a>
