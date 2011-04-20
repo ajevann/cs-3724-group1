@@ -1,7 +1,10 @@
 <h1>Evaluation Goals</h1>
 
 <h3>Overall Goals</h3>
-<p>The next step of our project was the evaluation phase. To begin this we first had a discussion with our client to get his input on our evaluation parameters. After speaking with him we resolved a set of final goals for our project evaluation. The most important of these goals was to evaluate the speed, ease of use, and intuitiveness of our system in terms creating and editing events. We decided upon these goals due to the fact that these aspects of the system are central to the purpose of the system and represent the driving concepts behind our system. Additionally these goals were supported by our client's desire for a fast and accurate system.
+<p>The next step of our project was the evaluation phase. To begin this we first had a discussion with our client to get his input on our evaluation parameters. After speaking with him we resolved a set of final goals for our project evaluation. The most important of these goals was to evaluate the speed, ease of use, and intuitiveness of our system in terms creating events. Additionally we wanted to know how well our system supported the users ability accurately record events; examining how well users could edit and remove events already created is important to us. We decided upon these goals due to the fact that these aspects of the system are central to the purpose of the system and represents the driving concepts behind our system. These goals were supported by our client's desire for a fast and accurate system.
+</p>
+<p>
+In addition to our primary focus on speed, ease of use, and accuracy we also wanted to evaluate our users over feel for the layout of the system and how comfortable they were using it.
 </p>
 
 <h3>Critical Aspects </h3>
