@@ -99,6 +99,11 @@ We measured these criteria based on the following metrics:
 
 The intuitiveness of the system will be based on the number of mistakes the user made on the first trial. Because the user has no previous experience with the software, this is a good indicator of how easy it is to pick up the software. This data will be collected based on the list of events that the user generates. We will create a list beforehand of all the correct events that are supposed to be recorded. We will compare this to the list that the user came up with. To determine the user's score, we will divide the number of correctly generated events by the the total number of correct events. This will give us a percentage from 0 to 100. A higher number means that less mistakes were made and the system is more intuitive.
 
+The learning curve of the software will be determined by a rating from a user survey. After the first two trials, we will ask the user to rate the learning curve on a scale from one to five. This number will be our metric for determining how difficult our software is to use. Another metric that will be used to measure the learning curve is the speed of the user. Throughout each trial, we will record the amount of time it takes for the subject to complete the task. If the amount of time to complete the tasks drop sharply between each trial, we will know that the learning curve is fairly shallow.
+
+The accuracy of the software system will be determined in the third evaluation phase. Like the first phase, we will grade the subject based on the number of mistakes made. This percentage will represent how accurate the software is.
+
+The last property that we determine is speed. In order to determine speed, we will record the amount of time it takes for the user to complete the task during the third trial.  
 
 
 </p>
