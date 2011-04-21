@@ -6,6 +6,9 @@
 <br/>
 <a href="http://cs-3724-group1.googlecode.com/files/Informed%20Consent%20Form.pdf">Informed Consent Form</a>
 <br/>
+<a href="http://cs-3724-group1.googlecode.com/files/basketball%20script.docx">Evaluation Script</a>
+<br/>
+
 
 
 
