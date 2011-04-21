@@ -1,5 +1,12 @@
 <h1>Evaluation Results</h1>
 
+<h2>Subjects</h2>
+
+Our subjects were mostly students in the undergraduate computer science program at Virginia Tech. We had a total of eight subjects and they all fall in this category. Most of the subjects were male, but we did have one female participant. All of our subjects had full participation in the study. None of them dropped out and we did not have to omit or ignore any data that was gathered. 
+
+For the most part, the subject's responses to the demographic questions were very consistent. Almost no one had any previous experience recording sporting events or keeping track of score. Also, every subject had a fair to high amount of experience using touch screens and multi-touch devices. Additionally, none of our subjects had any disabilities that would hamper their use of touch screen devices. On the other hand, the subject's had very different levels of interest in basketball. Some were very interested while others were mostly indifferent. On average, most people watch basketball occasionally but don't get too involved with the sport.
+
+ 
 <br/><br/>
 
 <a href="http://code.google.com/p/cs-3724-group1/wiki/Phase4HomePage">Back to Phase 4 Home</a>
