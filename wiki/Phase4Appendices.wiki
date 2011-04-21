@@ -7,7 +7,7 @@
 <img src="http://cs-3724-group1.googlecode.com/files/User_Background_Survey.docx">
 <br/>
 <a href="http://cs-3724-group1.googlecode.com/files/Informed Consent Form">Informed Consent Form</a>
-<img src="http://cs-3724-group1.googlecode.com/files/Informed Consent Form">
+<img src="http://cs-3724-group1.googlecode.com/files/Informed%20Consent%20Form.pdf">
 <br/>
 
 
