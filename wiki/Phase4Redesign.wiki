@@ -13,6 +13,7 @@ One of the common complaints in the comments was that the distance between the t
 
 <h2>Edit Features</h2>
 
+We found that our study did not properly evaluate the use of edit features in the software. 
 <br/><br/>
 
 <a href="http://code.google.com/p/cs-3724-group1/wiki/Phase4HomePage">Back to Phase 4 Home</a>
