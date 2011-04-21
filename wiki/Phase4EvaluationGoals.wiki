@@ -9,10 +9,10 @@ In addition to our primary focus on speed, ease of use, and accuracy we also wan
 
 <h3>Critical Aspects </h3>
 <p>
-From our list of general goals we generated a few critical tasks which we wanted to evaluate. First on our list was to evaluate the "swiping" input interface. This interaction is key to our system as it acts as the input to the main feature of the application. In particular we wanted to evaluate the speed of input and how error prone this feature is to use. To measure this we chose to record the ratio of mistakes made vs completion time.
+From our list of general goals we generated a few critical tasks which we wanted to evaluate. First on our list was to evaluate the "swiping" input interface. This interaction is key to our system as it acts as the input to the main feature of the application. In particular we wanted to evaluate the speed of input and how error prone this feature is to use. To measure this we chose to record the number of mistakes made and completion time.
 </p>
 
-<p> Secondly we wanted to closely evaluate how quick, reliable, and intuitive the edit and delete features of the system are. These features are an extremely important part of our system and are highlighted in our Mistake Editing scenario in phase 3. These features will be measured by total time to complete tasks while factoring mistakes and ease of user. 
+<p> Secondly we wanted to closely evaluate how quick, reliable, and intuitive the edit and delete features of the system are. These features are an extremely important part of our system and are highlighted in our Mistake Editing scenario in phase 3. These features will be measured by total time to complete tasks while factoring mistakes and ease of use. 
 </p>
 
 <p>In previous phases we made a claim that our editing system would result in more accurate recording for the audience. Because providing correct game updates to the audience is the end goal of this system we decided it would be important to evaluate this aspect. To examine this particular part of our system we recorded the total number of uncorrected mistake made by the user during each trial period.
