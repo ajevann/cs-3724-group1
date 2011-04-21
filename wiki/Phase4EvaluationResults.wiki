@@ -9,10 +9,11 @@ For the most part, the subject's responses to the demographic questions were ver
 <h2>Study Results</h2>
 <img src="http://cs-3724-group1.googlecode.com/files/Screen%20shot%202011-04-20%20at%208.46.42%20PM.png" />
 
+<img src="http://cs-3724-group1.googlecode.com/files/Screen%20shot%202011-04-20%20at%208.40.55%20PM.png" />
+
 Based on these results, it is very obvious that our software is not intuitive at all. Almost everyone recorded no correct events in the first trial.
 
-
-<img src="http://cs-3724-group1.googlecode.com/files/Screen%20shot%202011-04-20%20at%208.40.55%20PM.png" />
+Fortunately, we see a drastic increase in the scores after the first trial. This shows that there might be a shallow learning curve for this software. It shows that people were able to quickly learn and pick up the application after trying it out and receiving basic instructions on how to use it.In addition, we can see that the time the user took to record each event drops. This information helps support the previous conclusion.
 
 <h2>Post Study Survey Results</h2>
 <img src="http://cs-3724-group1.googlecode.com/files/Screen%20shot%202011-04-20%20at%209.37.31%20PM.png" />
