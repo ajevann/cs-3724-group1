@@ -14,6 +14,7 @@ For the most part, the subject's responses to the demographic questions were ver
 <img src="http://cs-3724-group1.googlecode.com/files/Screen%20shot%202011-04-20%20at%208.46.50%20PM.png" />
 <img src="http://cs-3724-group1.googlecode.com/files/Screen%20shot%202011-04-20%20at%208.36.34%20PM.png" />
 
+
 <h2>Usability Problems</h2>
 
 Our tests revealed several major usability problems that were not immediately obvious to us. First, we found that our software is not as intuitive as it should be. Almost every user got zero correct events in the first trial. Our original design failed the intuitiveness test because the subjects thought that they were supposed to be clicking on the buttons instead of dragging. Without any previous help or knowledge, it is very difficult to conclude that the interactions are done through dragging and not clicks. The reason for this failure is due to the fact that we did not provide enough visual cues to let the user know that we track dragging and not clicks or touch events. 
