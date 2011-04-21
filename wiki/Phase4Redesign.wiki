@@ -11,9 +11,6 @@ We discussed these changes with our client, who also participated in the study. 
 
 One of the common complaints in the comments was that the distance between the two menus were too far. Several subjects claimed that this slowed down their ability to record events. We will redesign the menu system so that the second pop up menu is closer to the first. However, we will make sure that the menus don't appear too close together. This will make it difficult to accurately drag fingers around. The cost of making this change is minimal. We can easily alter the distance between menus and do more testing to find the ideal number. Our client was very indifferent about this change because he didn't have any complaints about the distance. He says that he does not mind if we move the menus closer.  
 
-<h2>Edit Features</h2>
-
-We found that our study did not properly evaluate the use of edit features in the software. 
 <br/><br/>
 
 <a href="http://code.google.com/p/cs-3724-group1/wiki/Phase4HomePage">Back to Phase 4 Home</a>
