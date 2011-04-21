@@ -6,7 +6,13 @@ Our subjects were mostly students in the undergraduate computer science program 
 
 For the most part, the subject's responses to the demographic questions were very consistent. Almost no one had any previous experience recording sporting events or keeping track of score. Also, every subject had a fair to high amount of experience using touch screens and multi-touch devices. Additionally, none of our subjects had any disabilities that would hamper their use of touch screen devices. On the other hand, the subject's had very different levels of interest in basketball. Some were very interested while others were mostly indifferent. On average, most people watch basketball occasionally but don't get too involved with the sport.
 
-<h2>Results</h2>
+<h2>Study Results</h2>
+<img src="http://cs-3724-group1.googlecode.com/files/Screen%20shot%202011-04-20%20at%208.46.42%20PM.png" />
+<img src="http://cs-3724-group1.googlecode.com/files/Screen%20shot%202011-04-20%20at%208.40.55%20PM.png" />
+
+<h2>Post Study Survey Results</h2>
+<img src="http://cs-3724-group1.googlecode.com/files/Screen%20shot%202011-04-20%20at%208.46.50%20PM.png" />
+<img src="http://cs-3724-group1.googlecode.com/files/Screen%20shot%202011-04-20%20at%208.36.34%20PM.png" />
 
 <h2>Usability Problems</h2>
 
