@@ -21,6 +21,10 @@ Our tests revealed several major usability problems that were not immediately ob
 The evidence that our software is not intuitive is very obvious just by looking at the performance scores for the first trial. This was the trial where the subject had to use the software without any previous knowledge of how it works. We had hoped that our software was intuitive enough that they could pick up it and quickly do something with it. As the results demonstrate, this was definitely not the case. The scores that the subjects received are significantly lower than their scores for the other two trials. Most of the subjects recorded no correct events for the first trial. They were puzzled by what was happening and had no idea what to do. Only one subject figured out enough about the software on the first trial to correctly record a decent amount of events. In addition to the quantitative data, most of the users commented that the software was not intuitive. 
 
 Another issue that our tests revealed was that the distance from the two menus was too far. Although we have no quantitative data to support this claim, it was present in many of the comments. Many subjects claimed that the distance they had to drag from the player menu to the events menu was too far. The reason we put this in our original design was so that users can be more accurate when dragging. If the menus are too close together, it may be difficult to accurately drag between the menus. This is reason that our original design did not address this issue. Unfortunately, the fix for this issue is tricky. We need to find the right distance so that the user can accurately generate events and not have to drag his or her fingers too far.  
+
+<h2>Additional Notes</h2>
+
+The study did not properly test some of the features of our software. Very few people used and commented on the editing feature of our application. Our tests did not objectively evaluate the effectiveness of our editing system since it was not commonly used. 
  
 <br/><br/>
 
