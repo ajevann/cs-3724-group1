@@ -1,13 +1,10 @@
 <h1>Appendices</h1>
 
 <a href="http://cs-3724-group1.googlecode.com/files/User_Reactions_Survey.docx">User Reactions Survey</a>
-<img src="http://cs-3724-group1.googlecode.com/files/User_Reactions_Survey.docx">
 <br/>
 <a href="http://cs-3724-group1.googlecode.com/files/User_Background_Survey.docx">User Background Survey</a>
-<img src="http://cs-3724-group1.googlecode.com/files/User_Background_Survey.docx">
 <br/>
-<a href="http://cs-3724-group1.googlecode.com/files/Informed Consent Form">Informed Consent Form</a>
-<img src="http://cs-3724-group1.googlecode.com/files/Informed%20Consent%20Form.pdf">
+<a href="http://cs-3724-group1.googlecode.com/files/Informed%20Consent%20Form.pdf">Informed Consent Form</a>
 <br/>
 
 
