@@ -16,13 +16,19 @@ After reviewing this information, our group decided on a prototype redesign whic
 	
 <p>
 Finally here are the redesign screen shots:
-
+</p>
+<p>
 <img src="http://cs-3724-group1.googlecode.com/files/new_prototype-1.PNG.png" />
-<span>Here is the initial screen, not much has changed here.</span>
+Here is the initial screen, not much has changed here.
+</p>
+<p>
 <img src="http://cs-3724-group1.googlecode.com/files/new_prototype-2.png" />
-<span>Here the user has tapped a player. Notice how the other player's disappear from view and the game event options are shown.</span>
+Here the user has tapped a player. Notice how the other player's disappear from view and the game event options are shown.
+</p>
+<p>
 <img src="http://cs-3724-group1.googlecode.com/files/new_prototype-3.png" />
-<span>Here the user has selected a game event, and now they are presented with a menu of only relevant and applicable choices.</span>
+Here the user has selected a game event, and now they are presented with a menu of only relevant and applicable choices.
+</p>
 	
 </p>
 <p>
