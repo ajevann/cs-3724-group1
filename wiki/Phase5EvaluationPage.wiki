@@ -1,1 +1,9 @@
-asdf
+<h1>Re-Evaluation</h1>
+
+<p>After re-designing our prototype to take into account our findings from our initial evaluation, we decided to conduct a smaller study to find out the effectiveness of our changes.</p>
+
+
+
+<br/><br/>
+
+<a href="http://code.google.com/p/cs-3724-group1/wiki/Phase5HomePage">Back to Phase 5 Home</a>
