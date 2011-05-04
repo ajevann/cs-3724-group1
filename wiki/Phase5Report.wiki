@@ -1,26 +1,6 @@
 <h1>Final Report</h1>
 
-<br /> <br /> 
 
-The next phase of our project consisted of performing an evaluation of our system via our prototype. For this we chose to run an empirical study. In our study our participants were tasked with recording the events of a recorded basketball game using our system. In order to try and mitigate the effects poor quality video recording of games we chose to make an audio recording of a game and have our participants record events based off our recording. This allowed us to closely monitor the participants accuracy and speed, however it somewhat reduced the practicality of the study.  
-
-The study we designed consisted of 3 stages: The first was what we dubbed the “exploratory” stage, in this stage the user was presented with a game recording and was simply told to record the events. The next stage was the “tutorial” stage, where we first gave the participant instruction and example on the use of the system. The third and final stage the we provided the user with a faster and more realistic recording. Each of these stages was designed to evaluate a particular aspect of the system. The first was intended to inform us of the intuitiveness of the system, observing the users ability to quickly learn the system on the fly. The second was to give the user experience with the system and evaluate how quickly the system could be learned. The final stage was designed to evaluate several other critical aspects of the system including the overall usability, the speed, reliability and ability to edit.
-
-During each of the stages we recorded several metrics, including total completion time, successful event creations, uncorrected and corrected mistakes, and uses of edit. We chose these metrics because they allowed us to make inferences about and empirically evaluate our main goals . For example, if a user recorded a high completion time (still creating events event after the game recording was over) and also recorded no mistakes then this could (in combination with our post-surveys mentioned below) indicate things about the speed of our system. In addition to our metrics we also asked users to complete a pre and post survey. These surveys collected subjective data on the users experience with the system as well as gave us relevant background on users to consider, particularly in the case of outliers.
-
-Our study was done with the help of 8 participants and proved to be very helpful and somewhat conflicting with our expectations. Most surprising to us was the lack of intuitiveness of our system. Only two of our 8 participants managed to create an event in the first stage (as can be seen in the graph below). Every participant first tried to use our system by tapping buttons. This fact is especially interesting when considering that most of our users had a moderate to high level of experience with touch screen interfaces and indicates that our “drag” selection mechanism clearly broke with many current and popular touch screen interaction patterns.
-
-Many of our participants also noted in the free response section of our post-survey that they would often get lost midway through creating an event. For example, they sometimes thought they had selected player 1 when they had really selected player 2. Confusion as to what a participant had already selected was common amongst users and often lead to errors. The occurrence of this particular type of error exhibits a clear lack of feedback being provided to the user by the system.
-
-
-<img src="http://cs-3724-group1.googlecode.com/files/Screen%20shot%202011-04-20%20at%208.40.55%20PM.png" />
-
-
-After conducting our evaluation it became clear that we had several usability issues that we needed to ammend. The first and foremost of these was changing the input guesture to a "tap" selection in input instead of a "drag" input. This change was our highest priorety for our new prototype as it was greatly disliked by our study participants. The other changes we made to our prototype included information hiding where options that did not make sense contextually were hidden from the user (i.e. if the steal button is pressed then only players from the same team as the first player are visible) and also the creation of a tree-like menu structure where when one option is selected the next avaible options are displayed out to the right of the selected option, as seen below.
-
-If more time had been available to us we would have liked to implement visual feedback features in our system. Such an example would be the highlighting of selected options as a user creates an event. We feel that adding this feature would produce a great addition in usability of our prototype. Finally we would have liked to conduct an evaluation on this third iteration of the prototype using the metrics of our first evaluation. We feel that the third prototype version would be a great increase in usability and it would be interesting to see how it compares to our first.
-
-<br /> <br /> 
 
 
 <br/><br/>
