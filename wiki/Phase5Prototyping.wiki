@@ -32,6 +32,7 @@ After completing both stages we asked our users to fill out a very short survey 
 <li>From the first stage, please rate your perceived accuracy (how accurate do you think you were). 1 is the worst accuracy, and 7 is the best accuracy.</li>
 <li>From the second stage, please rate your perceived accuracy (how accurate do you think you were). 1 is the worst accuracy, and 7 is the best accuracy.</li>
 <li>Please provide any additional comments here.</li>
+</ul>
 </p>
 
 <p>
