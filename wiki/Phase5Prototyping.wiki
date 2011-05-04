@@ -33,7 +33,6 @@ Here the user has tapped a player. Notice how the other player's disappear from 
 Here the user has selected a game event, and now they are presented with a menu of only relevant and applicable choices.
 </p>
 	
-</p>
 <p>
 Once the redesign was complete we decided to do a small study based on the changes we made. We found three new participants who had not used the previous prototype. The study had two stages, and it focused on the intuitiveness of the interface. 
 </p>
