@@ -12,6 +12,11 @@ During each of the stages we recorded several metrics, including total completio
 
 Our study was done with the help of 8 participants and proved to be very helpful and somewhat conflicting with our expectations. Most surprising to us was the lack of intuitiveness of our system. Only two of our 8 participants managed to create an event in the first stage (as can be seen in the graph below). Every participant first tried to use our system by tapping buttons. This fact is especially interesting when considering that most of our users had a moderate to high level of experience with touch screen interfaces and indicates that our “drag” selection mechanism clearly broke with many current and popular touch screen interaction patterns.
 
+Many of our participants also noted in the free response section of our post-survey that they would often get lost midway through creating an event. For example, they sometimes thought they had selected player 1 when they had really selected player 2. Confusion as to what a participant had already selected was common amongst users and often lead to errors. The occurrence of this particular type of error exhibits a clear lack of feedback being provided to the user by the system.
+
+
+PARAGRAPH ON OUR REDESIGN.
+
 <img src="http://cs-3724-group1.googlecode.com/files/Screen%20shot%202011-04-20%20at%208.40.55%20PM.png" />
 
 
