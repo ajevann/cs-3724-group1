@@ -2,8 +2,6 @@
 
 <br /> <br /> 
 
-ANDREW's EVALUATION/REDESIGN SECTION STARTS HERE
-
 The next phase of our project consisted of performing an evaluation of our system via our prototype. For this we chose to run an empirical study. In our study our participants were tasked with recording the events of a recorded basketball game using our system. In order to try and mitigate the effects poor quality video recording of games we chose to make an audio recording of a game and have our participants record events based off our recording. This allowed us to closely monitor the participants accuracy and speed, however it somewhat reduced the practicality of the study.  
 
 The study we designed consisted of 3 stages: The first was what we dubbed the “exploratory” stage, in this stage the user was presented with a game recording and was simply told to record the events. The next stage was the “tutorial” stage, where we first gave the participant instruction and example on the use of the system. The third and final stage the we provided the user with a faster and more realistic recording. Each of these stages was designed to evaluate a particular aspect of the system. The first was intended to inform us of the intuitiveness of the system, observing the users ability to quickly learn the system on the fly. The second was to give the user experience with the system and evaluate how quickly the system could be learned. The final stage was designed to evaluate several other critical aspects of the system including the overall usability, the speed, reliability and ability to edit.
@@ -22,9 +20,6 @@ After conducting our evaluation it became clear that we had several usability is
 
 If more time had been available to us we would have liked to implement visual feedback features in our system. Such an example would be the highlighting of selected options as a user creates an event. We feel that adding this feature would produce a great addition in usability of our prototype. Finally we would have liked to conduct an evaluation on this third iteration of the prototype using the metrics of our first evaluation. We feel that the third prototype version would be a great increase in usability and it would be interesting to see how it compares to our first.
 
-
-
-ANDREW's EVALUATION/REDESIGN SECTION ENDS HERE
 <br /> <br /> 
 
 
