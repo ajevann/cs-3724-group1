@@ -2,7 +2,7 @@
 
 <ul>
 <li>Phase5Prototyping</li>
-<li>Phase5EvaluationPage?</li>
+<li>Phase5EvaluationPage</li>
 <li>Phase5ClientMeeting</li>
 <li>Phase5Report</li>
 
