@@ -15,9 +15,13 @@ Our study was done with the help of 8 participants and proved to be very helpful
 Many of our participants also noted in the free response section of our post-survey that they would often get lost midway through creating an event. For example, they sometimes thought they had selected player 1 when they had really selected player 2. Confusion as to what a participant had already selected was common amongst users and often lead to errors. The occurrence of this particular type of error exhibits a clear lack of feedback being provided to the user by the system.
 
 
-PARAGRAPH ON OUR REDESIGN.
-
 <img src="http://cs-3724-group1.googlecode.com/files/Screen%20shot%202011-04-20%20at%208.40.55%20PM.png" />
+
+
+After conducting our evaluation it became clear that we had several usability issues that we needed to ammend. The first and foremost of these was changing the input guesture to a "tap" selection in input instead of a "drag" input. This change was our highest priorety for our new prototype as it was greatly disliked by our study participants. The other changes we made to our prototype included information hiding where options that did not make sense contextually were hidden from the user (i.e. if the steal button is pressed then only players from the same team as the first player are visible) and also the creation of a tree-like menu structure where when one option is selected the next avaible options are displayed out to the right of the selected option, as seen below.
+
+If more time had been available to us we would have liked to implement visual feedback features in our system. Such an example would be the highlighting of selected options as a user creates an event. We feel that adding this feature would produce a great addition in usability of our prototype. Finally we would have liked to conduct an evaluation on this third iteration of the prototype using the metrics of our first evaluation. We feel that the third prototype version would be a great increase in usability and it would be interesting to see how it compares to our first.
+
 
 
 ANDREW's EVALUATION/REDESIGN SECTION ENDS HERE
