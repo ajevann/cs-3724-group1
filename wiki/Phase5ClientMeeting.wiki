@@ -1,5 +1,9 @@
 <h1>Client Meeting</h1>
 
+After doing an evaluation of the software, we improved on our prototype and presented it to our client one last time. We gave him a tutorial on how the interface worked and let him play around with it. Fortunately, there was a basketball game on television as we met so he got to do an impromptu test of the software. He was thoroughly impressed with what he saw. 
+
+Our client provided us with some important final feedback on the software. He noted how it was a drastic improvement from our first prototype. He liked how he could click on the screen to generate the events. He also liked how the information that was unnecessary was hidden from him. Our client claimed that this made the application a lot cleaner and easier to use. He also liked the visual feedback that he received after successfully generating an event. Overall, he gave us very positive feedback. 
+
 
 <br/><br/>
 
