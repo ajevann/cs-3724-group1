@@ -1,0 +1,115 @@
+<h1>Evaluation Design</h1>
+
+<h2>Evaluation Type</h2>
+
+<p>
+Our evaluation was based empirical methods. We conducted controlled experiments<br>
+on test subjects to evaluate the effectiveness and ease of use of our software.<br>
+We carefully selected a set of representative tasks for our users to perform. We<br>
+collected multiple measures of usability impacts and interpreted the data with<br>
+respect to usability. We chose this method because we wanted to see how our<br>
+application would perform in the real world. In addition, we did not have access<br>
+to a group of experts to consult for analytical evaluation. Based on these<br>
+limitations, we concluded that an empirical evaluation would be the best course<br>
+of action.<br>
+</p>
+
+<h2>Recruitment of Subjects</h2>
+
+<p>
+
+It was difficult to recruit subjects due to the lack of compensation for the study.<br>
+Most of our participants are Virginia Tech computer science students we found in the<br>
+CS lounge in McBryde Hall. In order to diversify our subjects, we also recruited a few<br>
+friends and roommates who are not studying computer science. We document our subjects'<br>
+background by asking them to complete an user background survey. This way, we can take<br>
+the subjects' background into account when analyzing the data. Lastly, we ensured that<br>
+none of the subjects are in the CS 3724 HCI class at Virginia Tech.<br>
+</p>
+
+<h2>Procedures</h2>
+
+<p>
+In order to ensure consistency, we strictly followed a script for each study. A full<br>
+transcript of the script follows. It provides exact details on the procedures that<br>
+were followed during the study.<br>
+</p>
+
+<h3>Script:</h3>
+
+<p>
+Basketball Event Tracking Interface Usability Study<br>
+<br>
+<h4>
+Section 1: Welcome and Introduction<br>
+</h4>
+
+Hello, and welcome to our study. I would first like to thank you for volunteering to participate in our study. Today, we will be looking at the effectiveness of a basketball event tracking interface that we designed. We will do our best to keep everything short. For the study, you will be using our software to record the events that occur during basketball games. To keep things brief, you will only have to record the events for a 30 second period. You should try to record the events as quickly and accurately as possible. Events that should be recorded include passes, steals, shots, and fouls. There will be three trials. For the first trial, you will be using the interface without any assistance. After that, we will explain in detail how to use the software. This should prepare you for the second trial and let you get more familiar with our software. Finally, you will perform the same task for a third evaluation trial. Please note that we are evaluating the effectiveness of the software, not you.<br>
+For each trial, one of the conductors will verbally state the events that occur. You are to use the software to record everything that he says. There are no consequences for mistakes, but please do your best to ensure accuracy in each recording. We guarantee that everything the conductor says can be recorded using the software.<br>
+Now that you know a little more about the study, please sign this Informed Consent form.<br>
+<br>
+(Have him sign the informed consent form)<br>
+<br>
+<h4>
+Section 2: Questionnaires and Trials<br>
+</h4>
+
+Do you have any questions at this point?<br>
+<br>
+(Answer any questions)<br>
+<br>
+Good. In order to get to know you a little bit better, please fill out this background questionnaire.<br>
+<br>
+(Give the subject the questionnaire)<br>
+<br>
+Thanks. Now, we are ready to begin the first trial. Here is an iPad 2 with our software on it. We will verbally read out events that occur during a basketball game. Try to record every event that occurs, including passing, stealing, shots, and fouls. Please note that your actions will be recorded.<br>
+<br>
+(Have subject record game)<br>
+<br>
+Great! Now we will run the second trial. First, we will explain to you exactly how to use the software. You will be watching the same clip as before. This time, however, you should be more prepared to use the software.<br>
+<br>
+(Give instructions on how to use the software and run the second trial)<br>
+<br>
+Nice work! We are now ready to move into the evaluation phase. This time, the events that we read out will be different from the events of the first two trials. We will be evaluating your performance. Please take a five minute break before we begin.<br>
+<br>
+(Give subject a 5 minute break)<br>
+<br>
+Okay, now we are ready to start the third and final trial. Are you ready?<br>
+<br>
+(Perform third and final trial)<br>
+<br>
+That’s it! Thank you for participating in this study. Before you leave, please fill out this questionnaire to help us evaluate the effectiveness of the software.<br>
+<br>
+(Give him final questionnaire)<br>
+<br>
+Thank you very much for your time. I hope you have a wonderful day!<br>
+</p>
+
+<h2>Metrics</h2>
+
+<p>
+We determined the performance of our software based on four criteria: intuitiveness, learning curve, accuracy, and speed.<br>
+<br>
+We measured these criteria based on the following metrics:<br>
+<ul>
+<li> Number of mistakes made </li>
+<li> User ratings based on surveys </li>
+<li> Time to complete </li>
+</ul>
+
+The intuitiveness of the system will be based on the number of mistakes the user made on the first trial. Because the user has no previous experience with the software, this is a good indicator of how easy it is to pick up the software. This data will be collected based on the list of events that the user generates. We will create a list beforehand of all the correct events that are supposed to be recorded. We will compare this to the list that the user came up with. To determine the user's score, we will divide the number of correctly generated events by the the total number of correct events. This will give us a percentage from 0 to 100. A higher number means that less mistakes were made and the system is more intuitive.<br>
+<br>
+The learning curve of the software will be determined by a rating from a user survey. After the first two trials, we will ask the user to rate the learning curve on a scale from one to five. This number will be our metric for determining how difficult our software is to use. Another metric that will be used to measure the learning curve is the speed of the user. Throughout each trial, we will record the amount of time it takes for the subject to complete the task. If the amount of time to complete the tasks drop sharply between each trial, we will know that the learning curve is fairly shallow.<br>
+<br>
+The accuracy of the software system will be determined in the third evaluation phase. Like the first phase, we will grade the subject based on the number of mistakes made. This percentage will represent how accurate the software is.<br>
+<br>
+The last property that we determine is speed. In order to determine speed, we will record the amount of time it takes for the user to complete the task during the third trial.<br>
+<br>
+</p>
+
+<h2>Data Analysis</h2>
+
+We will analyze the data using Microsoft Excel. We will graph the data using the software and use the visual data to draw conclusions. We will calculate the mean and median of every metric. In addition, we will make line graphs to see how much the user improved over the three trials.
+<br /><br />
+
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase4HomePage'>Back to Phase 4 Home</a>

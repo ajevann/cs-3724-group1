@@ -1,0 +1,71 @@
+<h1>Scenarios<h1>
+
+<h2>Introduction</h2>
+
+<p>This page contains our interaction design scenarios, as well as a short description of how the scenario addresses the problem, activity or information design claims' upsides and downsides. The scenarios contain links to specific claims on the claims page, as in the usability case studies library.</p>
+
+
+<h2> Kenneth </h2>
+
+<p>It is the Friday night basketball game at Portsmouth High School against rivals Middleton High<br>
+School and the gymnasium is packed. The school has overbooked the gym and due to the incredible<br>
+demand to view the game, the administrators have decided to present a live game cast of the<br>
+important rivalry match up on the school’s website. Principal Jack Donaghy is in a frenzy to<br>
+find a replacement for the usual score recorder, Pete Hornberger. Instead, he resorts to using<br>
+Kenneth Parcell to act as his temporary recorder for the game cast. Alas! Kenneth has never before<br>
+seen the software used by the school. Kenneth is afraid that he might<br>
+not be able to take care of the intensity and speed that will be required to record the basketball game.<br>
+He stares into the screen and sees all of the player's names<br>
+already listed. He presses on a player and a slew of options comes up. As Kenneth drags his fingers<br>
+across the screen, more menus pop up like an oak tree. He plays around with the interface for two<br>
+minutes before the game starts and quickly gets used to it. Before the game, he clears out all of<br>
+the fake messages he generated. As the game starts, Kenneth is very determined to keep up with the<br>
+fast pace of the game. Fortunately, the software is very easy to use. Kenneth quickly becomes<br>
+familiar with the movements and generates a lot of very accurate events that describe how the game<br>
+is going. After a few minutes, Kenneth is more familiar with the interface and button placement.<br>
+He is able to generate most of the plays now without looking at the screen. He simply drags his fingers<br>
+across the screen to generate the events. Unfortuantely, he makes a<br>
+mistake at one point and panics. Fortunately, there is a foul shot immediately<br>
+after so Kenneth was able to go back and edit the event before it went live. All the messages he<br>
+generated were placed in a text list to the right of the screen. Simply by tapping it, he was able<br>
+to edit and correct the event. By the end of the game,<br>
+Kenneth is exhausted. Fortunately, he was able to accurately report each event in the game and no<br>
+riots occured. Everyone went home and lived happily ever after.</p>
+
+<p>This scenario helps to illustrate the ease with which the interface can be manipulated. With relative simplicity, the interface can be controlled. This addresses the problem of the high learning curve of traditional systems that have a complex interface any many buttons and menus. In addition, the new interface is fast to use and very easy to adjust to. After a short period of time, users should become familiar with the button placements. This will help speed up the generation of the events and help the user keep his eyes on the game so he or she doesn't miss anything important.</p>
+
+
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase3Claims'>
+Link to associated claims (Labeled with Kenneth)</a>
+
+
+<h2>Mistake Editing</h2>
+
+<p>
+Coach Frank Rossitano has started his season strong with the Maroney University Lemonheads taking the<br>
+first seed in the regional basketball tournament. Since going to the regional championship is a big step<br>
+in the small town’s history, Coach Frank has decided to change the usual recording software to a newer<br>
+and supposedly more reliable version, which consists of a touch screen and the lastest and greatest<br>
+software from Zhang Industries, an international conglomerate. Leo Spaceman, the team’s statistician,<br>
+is readying himself up to use the software for the game cast, which will be shown live on the NCAA’s<br>
+website. With the help of a representative from Zhang Industries, Leo learns how to use the new software<br>
+and is ready for game day. During the game, Leo swiftly drags his fingers across the screen and generates<br>
+play-by-play events. As he places his finger down on one button, the next buttons that need to be pressed<br>
+automatically pop up. He simply drags his fingers to one of those buttons to select it. The event is then<br>
+generated and an update is automatically sent to the website for those who could not make it to<br>
+the game. Leo is amazed that the software is able to generate messages for every event that happens. He<br>
+makes a few mistakes throughout the game, but the software allows for him to quickly make changes and fix<br>
+mistakes. He fixes these events based on a list view on the right of the page. He can delete an event by<br>
+swiping across the event and confiriming the delete. He also taps on the list to bring up the interface<br>
+for editing the event. The editing interface allows him to completely redo the event to fix any errors<br>
+that have been made. After the fix, the new event is automatically put in the place of the old one. </p>
+
+<p>This scenario illustrates the use and effectiveness of the edit and correction function of the interface. With this ability, Leo was able to quickly correct a costly mistake before anyone could question him and the veracity of the mistake, saving him a lot of trouble. One of the main concerns of the client was the ability to correct any mistakes that are made. Another important factor is speed. Most breaks in a basketball game don't last very long so the editing interface must be just as fast and easy to use as the primary interface.</p>
+<br />
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase3Claims'>
+Link to associated claims (Labeled with Mistake Editing)</a>
+
+
+<br /><br />
+
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase3HomePage'>Back to Phase 3 Home</a>

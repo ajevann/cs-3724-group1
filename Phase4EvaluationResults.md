@@ -1,0 +1,37 @@
+<h1>Evaluation Results</h1>
+
+<h2>Subjects</h2>
+
+Our subjects were mostly students in the undergraduate computer science program at Virginia Tech. We had a total of eight subjects and they all fall in this category. Most of the subjects were male, but we did have two female participant. All of our subjects had full participation in the study. None of them dropped out and we did not have to omit or ignore any data that was gathered.
+
+For the most part, the subject's responses to the demographic questions were very consistent. Almost no one had any previous experience recording sporting events or keeping track of score. Also, every subject had a fair to high amount of experience using touch screens and multi-touch devices. Additionally, none of our subjects had any disabilities that would hamper their use of touch screen devices. On the other hand, the subject's had very different levels of interest in basketball. Some were very interested while others were mostly indifferent. On average, most people watch basketball occasionally but don't get too involved with the sport.
+
+<h2>Study Results</h2>
+<img src='http://cs-3724-group1.googlecode.com/files/Screen%20shot%202011-04-20%20at%208.46.42%20PM.png' />
+
+<img src='http://cs-3724-group1.googlecode.com/files/Screen%20shot%202011-04-20%20at%208.40.55%20PM.png' />
+
+Based on these results, it is very obvious that our software is not intuitive at all. Almost everyone recorded no correct events in the first trial.
+
+Fortunately, we see a drastic increase in the scores after the first trial. This shows that there might be a shallow learning curve for this software. It shows that people were able to quickly learn and pick up the application after trying it out and receiving basic instructions on how to use it.In addition, we can see that the time the user took to record each event drops. This information helps support the previous conclusion.
+
+<h2>Post Study Survey Results</h2>
+<img src='http://cs-3724-group1.googlecode.com/files/Screen%20shot%202011-04-20%20at%209.37.31%20PM.png' />
+<img src='http://cs-3724-group1.googlecode.com/files/Screen%20shot%202011-04-20%20at%208.36.34%20PM.png' />
+
+
+<h2>Usability Problems</h2>
+
+Our tests revealed several major usability problems that were not immediately obvious to us. First, we found that our software is not as intuitive as it should be. Almost every user got zero correct events in the first trial. Our original design failed the intuitiveness test because the subjects thought that they were supposed to be clicking on the buttons instead of dragging. Without any previous help or knowledge, it is very difficult to conclude that the interactions are done through dragging and not clicks. The reason for this failure is due to the fact that we did not provide enough visual cues to let the user know that we track dragging and not clicks or touch events.
+
+The evidence that our software is not intuitive is very obvious just by looking at the performance scores for the first trial. This was the trial where the subject had to use the software without any previous knowledge of how it works. We had hoped that our software was intuitive enough that they could pick up it and quickly do something with it. As the results demonstrate, this was definitely not the case. The scores that the subjects received are significantly lower than their scores for the other two trials. Most of the subjects recorded no correct events for the first trial. They were puzzled by what was happening and had no idea what to do. Only one subject figured out enough about the software on the first trial to correctly record a decent amount of events. In addition to the quantitative data, most of the users commented that the software was not intuitive.
+
+Another issue that our tests revealed was that the distance from the two menus was too far. Although we have no quantitative data to support this claim, it was present in many of the comments. Many subjects claimed that the distance they had to drag from the player menu to the events menu was too far. The reason we put this in our original design was so that users can be more accurate when dragging. If the menus are too close together, it may be difficult to accurately drag between the menus. This is reason that our original design did not address this issue. Unfortunately, the fix for this issue is tricky. We need to find the right distance so that the user can accurately generate events and not have to drag his or her fingers too far.
+
+<h2>Additional Notes</h2>
+
+The study did not properly test some of the features of our software. Very few people used and commented on the editing feature of our application. Our tests did not objectively evaluate the effectiveness of our editing system since it was not commonly used.
+
+<br /><br />
+
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase4HomePage'>Back to Phase 4 Home</a>

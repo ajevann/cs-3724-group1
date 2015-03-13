@@ -1,0 +1,92 @@
+<h1>Claims</h1>
+
+<h2>Introduction</h2>
+
+<p>This page contains our interaction design claims, with links to the interaction design scenarios they refer to.<br>
+</p>
+
+<h2>Kenneth</h2>
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase3Scenarios'>Associated Scenario (Labeled with Kenneth)</a>
+
+<h3> Selections expand out like a tree as buttons are touched. </h3>
+<h4> Pros </h4>
+<ul>
+<li> The next choice is obvious for the user </li>
+<li> User doesn't have to worry about too many options at once</li>
+</ul>
+
+<h4> Cons </h4>
+<ul>
+<li> Full extent of possible options not visible at any time </li>
+<li> Too much finger movement may get tiring after a while</li>
+</ul>
+
+<h2>Kenneth</h2>
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase3Scenarios'>Associated Scenario (Labeled with Kenneth)</a>
+
+<h3> Buttons are always in the same place. </h3>
+<h4> Pros </h4>
+<ul>
+<li> Interface can be memorized so user doesn't have to look at it while recording </li>
+<li> User can use swipe gestures for quicker input </li>
+</ul>
+
+<h4> Cons </h4>
+<ul>
+<li> User may not like the placement of the buttons </li>
+<li> Positioning may be awkward for users with different sized hands</li>
+</ul>
+
+<h2>Kenneth</h2>
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase3Scenarios'>Associated Scenario (Labeled with Kenneth)</a>
+
+<h3> Interactions are done through direct manipulation. </h3>
+<h4> Pros </h4>
+<ul>
+<li> The feeling of being directly<br>
+engaged with the objects of interest </li>
+<li> Shorter learning curve because of natural interactions </li>
+</ul>
+
+<h4> Cons </h4>
+<ul>
+<li> May be slower for experts </li>
+<li> May be more difficult to implement </li>
+</ul>
+
+<h2>Mistake Editing</h2>
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase3Scenarios'>Associated Scenario (Labeled with Mistake Editing)</a>
+
+<h3> Past events are stored in a buffer before going live </h3>
+<h4> Pros </h4>
+<ul>
+<li> Allows for the chance to correct mistakes </li>
+<li> Allows for the user to delete unwanted events </li>
+</ul>
+
+<h4> Cons </h4>
+<ul>
+<li> Updates are delayed </li>
+<li> More reading is required to use this feature</li>
+</ul>
+
+<h2>Mistake Editing</h2>
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase3Scenarios'>Associated Scenario (Labeled with Mistake Editing)</a>
+
+<h3> Past events can be changed </h3>
+<h4> Pros </h4>
+<ul>
+<li> Any mistakes made can be fixed </li>
+<li> More accurate reporting for the audience </li>
+</ul>
+
+<h4> Cons </h4>
+<ul>
+<li> More work for the recorder </li>
+<li> May be difficult to implement </li>
+</ul>
+
+
+<br /><br />
+
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase3HomePage'>Back to Phase 3 Home</a>

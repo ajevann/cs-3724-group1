@@ -1,0 +1,10 @@
+# Introduction #
+
+This page describes the prototype that we created, justifies the choices that we made for our prototype's scope, fidelity, approach, etc. Finally, it include information about the results of our client meeting with respect to the prototype.
+
+# Details #
+
+Add your content here.  Format your content with:
+  * Text in **bold** or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages

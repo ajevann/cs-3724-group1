@@ -1,0 +1,66 @@
+# Introduction #
+
+This page describes the prototype that we created, justifies the choices that we made for our prototype's scope, fidelity, approach, etc. Finally, it include information about the results of our client meeting with respect to the prototype.
+
+# Client Meeting #
+
+After implementing a somewhat functional prototype on the iPad 2, we approached our client
+with the system and performed several tests. Because he is not familiar with the concepts
+of HCI and software engineering, we had to explain to him the basics of interaction design
+and prototyping. Once he understood the concept of a prototype, we showed him our iPad app.
+We demonstrated the basics of the interface and asked him to record a brief clip of several
+basketball games. The video can be found here: http://www.youtube.com/watch?v=1UCWVbGOv8o.
+While recording, we muted the sound to make sure that he was not distracted by the
+commentary. To make up for the fact that the players aren't labeled, we allowed our client
+to disregard individual player names. As long as the player was on the right team, it was
+treated as a correctly generated event. With this system in place, we started the
+experiment.
+
+The video that we used contains ten separate plays from different basketball games. During
+the first four plays, the client was not able to successfully record the correct events. He
+kept looking back and forth between the video and the iPad because he was not familiar with
+the button placement. This cost him valuable time and he started to lag behind. By the fifth
+play, however, he had a much better idea of the button placement. He was much more used to
+the interface than before. Our client was able to correctly record the last six plays. He
+spent less time looking at the iPad and more time watching what was happening in the game.
+After this experiment took place, we asked him several questions about the prototype. Based
+on the data and the responses, we can draw several important conclusions about the prototype.
+
+First, we can see that the interactions are very fast and intuitive. Despite the learning
+curve(which was very small), our client was able to quickly master the protype. Because our
+original goal was to design a fast and intuitive system, this is a very good sign. There are,
+however, additional aspects that need to be considered. For the prototype, we did not
+differentiate individual players on a team. The event was counted as correct as long as the
+player's team was selected. This is unacceptable in a real scenario. If we were to add this
+to the prototype, the learning curve may be increased. The usability of the overall system,
+however, would remain the same. For this reason, we do not have to worry about the fact that
+our prototype overlooks player selection. Most of the data collected through testing was
+positive, but we cannot neglect the importance of the user's response.
+
+The user's reaction to the protype was mostly positive. He liked the intuitiveness of the
+design and the hardware that it was running on. The one feature that our client criticized
+was positioning of the buttons. He did not like having to drag back and forth to make a
+selection and choose a player. This is in accordance with our original design. In our original
+design, the menu would pop out like a tree. Each event generated is the result of a long drag
+across the screen. The user would never have to drag his finger back and forth. This however,
+was a limitation of the prototype. It was difficult to implement this feature for the
+prototype in the limited amount of time we had. We will, however, address this issue in the
+final iteration and make sure that the interface is correctly implemented in the final product.
+
+Overall, the prototype has been a success. The client's reaction was generally positive. It
+reaffirmed our interaction design and gave us renewed faith in the project. The prototype had a
+few shortcomings, but they were all predicted and accounted for. With the full support of our
+client, we are set to push head first into the next phase. We are ready to face any challenge
+that might be foolish enough to face us.
+
+# Prototype Screen Shots #
+
+<img src='http://cs-3724-group1.googlecode.com/files/photo.PNG'>
+<img src='http://cs-3724-group1.googlecode.com/files/photo-1.PNG'>
+<img src='http://cs-3724-group1.googlecode.com/files/photo-2.PNG'>
+
+
+
+<br /><br />
+
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase3HomePage'>Back to Phase 3 Home</a>

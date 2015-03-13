@@ -1,0 +1,30 @@
+<h1>Phase 2 Activity List</h1>
+
+<h2>Supported Activities</h2>
+
+<ul>
+<li>Select a player - The user can select a player </li>
+<li>Creating a 2 point shot event - The user generates a 2 point shot after selecting a given player.</li>
+<li>Creating a 3 point shot event - The user generates a 3 point shot after selecting a given player.</li>
+<li>Creating a 2 point missed shot event - The user generates a 2 point shot miss after selecting a given player.</li>
+<li>Creating a 3 point missed shot even - The user generates a 3 point shot miss after selecting a given player.</li>
+<li>Select a court location - The user selects a court location for a given event.</li>
+<li>Creating a dunk/layup event - The user generates a layout/dunk after selecting a given player.</li>
+<li>Creating an assist event - The user creates an assist event after selecting a starting and receiving player</li>
+<li>Creating a pass event - The user creates a pass event by selecting two players on the same team.</li>
+<li>Creating a turnover event - The user creates a turnover event by selecting two players on opposing teams.</li>
+<li>Creating a substitute event - The user creates a substitute event, selecting a player currently in play with one on the roster.</li>
+<li>Creating a timeout event - The user creates a timeout event for one team, stopping the play clock.</li>
+<li>Creating a team foul event - The user creates a team foul event, adding to the foul count for one team.</li>
+<li>Creating a personal foul event - The user creates a personal foul event, adding to a players foul total.</li>
+<li>Creating a free throw event - The user creates a free throw event after selecting a player.</li>
+<li>Creating a free throw missed event - The user creates a free throw missed event after selecting a player.</li>
+<li>Delete a game event record - The user deletes a event record from the list o previously created events.</li>
+<li>Edit a game event record - The user edits a given event record.</li>
+<li>Select initial players - The user selects the starting players from the roster</li>
+</ul>
+
+
+<br><br>
+
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase2HomePage'>Back to Phase 2 Home </a>

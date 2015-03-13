@@ -1,0 +1,26 @@
+<h1>Evaluation Goals</h1>
+
+<h3>Overall Goals</h3>
+<p>The next step of our project was the evaluation phase. To begin this we first had a discussion with our client to get his input on our evaluation parameters. After speaking with him we resolved a set of final goals for our project evaluation. The most important of these goals was to evaluate the speed, ease of use, and intuitiveness of our system in terms creating events. Additionally we wanted to know how well our system supported the users ability accurately record events; examining how well users could edit and remove events already created is important to us. We decided upon these goals due to the fact that these aspects of the system are central to the purpose of the system and represents the driving concepts behind our system. These goals were supported by our client's desire for a fast and accurate system.<br>
+</p>
+<p>
+In addition to our primary focus on speed, ease of use, and accuracy we also wanted to evaluate our users over feel for the layout of the system and how comfortable they were using it.<br>
+</p>
+
+<h3>Critical Aspects </h3>
+<p>
+From our list of general goals we generated a few critical tasks which we wanted to evaluate. First on our list was to evaluate the "swiping" input interface. This interaction is key to our system as it acts as the input to the main feature of the application. In particular we wanted to evaluate the speed of input and how error prone this feature is to use. To measure this we chose to record the number of mistakes made and completion time.<br>
+</p>
+
+<p> Secondly we wanted to closely evaluate how quick, reliable, and intuitive the edit and delete features of the system are. These features are an extremely important part of our system and are highlighted in our Mistake Editing scenario in phase 3. These features will be measured by total time to complete tasks while factoring mistakes and ease of use.<br>
+</p>
+
+<p>In previous phases we made a claim that our editing system would result in more accurate recording for the audience. Because providing correct game updates to the audience is the end goal of this system we decided it would be important to evaluate this aspect. To examine this particular part of our system we recorded the total number of uncorrected mistake made by the user during each trial period.<br>
+</p>
+
+
+<p> We decided on these features in particular after our discussion with the client. He emphasized the speed of basketball games and how our interface needed to support that. From these talks we decided to focus on the aspects that influenced event creation and modification, notably the "swiping" input and editing interface.<br>
+</p>
+<br /><br />
+
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase4HomePage'>Back to Phase 4 Home</a>

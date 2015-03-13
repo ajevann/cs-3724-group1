@@ -1,0 +1,72 @@
+<h1>Information Design Claims</h1>
+
+<ul>
+<li>
+<blockquote><h2>Dragging through the menu items provides event details.</h2>
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase2InformationDesignScenarios'>Desgin Scenario: Kenneth</a>
+<h2>Pros</h2>
+<ul>
+<blockquote><li>The dragging method focues the user on the task so they can only select relevant possible events.</li>
+</blockquote></ul>
+<h2>Cons</h2>
+<ul>
+<blockquote><li>Dragging through the menu system is not immediately evident as the method of input.</li>
+</blockquote></ul>
+</li></blockquote>
+
+<li>
+<blockquote><h2>The interface reuses behaviors from a different system.</h2>
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase2InformationDesignScenarios'>Desgin Scenario: Kenneth</a>
+<h2>Pros</h2>
+<ul>
+<blockquote><li>Users can apply knowledge and techniques gained elsewhere and can correctly anticipate results.</li>
+</blockquote></ul>
+<h2>Cons</h2>
+<ul>
+<blockquote><li>Selecting only certain behaviors of a different system may frusterate users who may try to use other behaviors from the different system.</li>
+</blockquote></ul>
+</li></blockquote>
+
+<li>
+<blockquote><h2>Marking a shot requires additional input through another menu system which wraps around the user's finger.</h2>
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase2InformationDesignScenarios'>Desgin Scenario: Leo</a>
+<h2>Pros</h2>
+<ul>
+<blockquote><li>This menu allows for more indepth information gathering that pertains to the shot such as if the player was fouled and if they made it.</li>
+</blockquote></ul>
+<h2>Cons</h2>
+<ul>
+<blockquote><li>This menu system is not similar in function or operation to the main menu system.</li>
+</blockquote></ul>
+</li></blockquote>
+
+<li>
+<blockquote><h2>A buffer collects game events for a certain period of time before they are pushed into the live feed.</h2>
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase2InformationDesignScenarios'>Desgin Scenario: Leo</a>
+<h2>Pros</h2>
+<ul>
+<blockquote><li>This gives the statistician a small window of time to notice the error and then fix it.</li>
+</blockquote></ul>
+<h2>Cons</h2>
+<ul>
+<blockquote><li>The end users do not get instant live updates, instead they will have a lag time from the buffer.</li>
+</blockquote></ul>
+</li></blockquote>
+
+<li>
+<blockquote><h2>Tapping into the event log / buffer allows for a custom event creation</h2>
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase2InformationDesignScenarios'>Desgin Scenario: Jon</a>
+<h2>Pros</h2>
+<ul>
+<blockquote><li>Color commentary can be added to the game feed further enhancing the online user's expierence.</li>
+</blockquote></ul>
+<h2>Cons</h2>
+<ul>
+<blockquote><li>Having to type on the touch screen could be troublesome for the recorder who will be attempting to complete the custom event as quickly as possible.</li>
+</blockquote></ul>
+</li></blockquote>
+
+</ul>
+
+
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase2HomePage'>Back to Phase 2 Home</a>

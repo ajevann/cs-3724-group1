@@ -1,0 +1,262 @@
+<h1>Summaries Page</h1>
+
+<h2>Field Data Summary</h2>
+<br>
+<h3>Game Events and Expectations</h3>
+<p>
+The data we collected during our field studies gave us a good picture of the requirements for this project.<br>
+It quickly became obvious during our field studies that the system must be as engaging to end users as possible.<br>
+The end goal of several stakeholders (recorder, team), entertaining the end user, was one of the driving issues in our analysis (See Stakeholder Profiles).<br>
+Since for that to happen the system must be able to generate and transmit events in such a way as to appeal to the end user.<br>
+<br>
+There are a lot of things happening at once during a basketball game. These events can range from the game itself to the players talking trash and side line events drawing our attention.<br>
+One of the main goals during our requirements analysis was to see what type of events occur during a basketball game and their relevance to the end user. This is key to support the previously mentioned expectation of the team.<br>
+Between our questionnaire and our interview with our client we developed a list of the events that are important to the user (See questionnaire). One of the simplest examples of such an event is scoring.<br>
+<br>
+Scoring, however, is not as simple as it sounds to record. There are various ways to score points in basketball. These include two point shots, three point shorts, layups, slam dunks, free throws, etc (See Artifacts Paper Record).<br>
+Talks with our client and examination of several artifacts showed that recording all the possible ways to score points can be confusing. It requires many fields that need to be kept track of. Even if we only consider scoring, a<br>
+recording system must have a lot of options and configurations if it aims to providing detailed and engaging information.<br>
+</p>
+
+<h3>Event Recording and Tasks</h3>
+<p>
+Basketball can be an incredibly fast paced sport. There are very few breaks that last longer than a minute and they are typically very infrequent. Mistakes made while reporting can be an issue (See interview, questionnaire) due to the game speed.<br>
+Fans online are often irritated by recording mistakes. Mistakes disconnect the end user from the action. This is especially true if they are not immediately corrected. This poses unique challenges to the recorder and therefore the requirements<br>
+for a recording system. Taking one's eyes off the game for a few seconds can leave you far behind the action, which is bad news if your goal is to record the game accurately.<br>
+<br>
+Since basketball is such as fast sport with many types of plays, rules and events it is important that any system we create be able to generate tasks with simple interactions from the recorder.<br>
+One thing our client stressed in our discussions with him was the ability to perform tasks with the system, without removing his focus from the game. Such important tasks include creating new events and editing old events.<br>
+<br>
+Editing old events ties into the issues that end users have with mistakes by the recorder. Since, according to the end users, it is important that mistakes are fixed quickly, it is also important that the recorder have the<br>
+capability to quickly edit events. Examinations of artifacts of current systems (See CrezScorer interface) show that support for editing of events is lacking. Usually requiring a recorder to replace the event, or simply delete<br>
+it and move a new event into it's place, to the detriment of the chronological event features. Our client reiterated this point, saying that a recorder should have the ability to simply and quickly edit events.<br>
+<br>
+New events are a focal point to any system, here a trade-off must occur between the ease and speed of event creation and event detail. For example, a recorder could type out a long paragraph about the play just executed by one<br>
+team, but during that time the recorded would become several plays behind in his recording. This trade-off is of primary concern to the requirements of the system, and the recorder. A well trained recorder (our client)<br>
+can decrease the magnitude of the trade-off with expertise and experience with particular systems (in our case keyboard input and touch devices) but human training can only go so far.<br>
+</p>
+
+
+
+<br>
+<h2>Questionnaire Summary:</h2>
+<p>
+The primary goal of the survey was to find out what kind of statistics and events are most important to the user. This information is critical because we don't want to leave the user unsatisfied with an inadequet amount of data. At the same time, we can't throw too much information at the user because he may not be able to process it all and may get overwhelmed. Our results show a fairly even distribution of the importance of each basketball event (such as steals, blocks, rebounds, etc.). The only event that seemed to be insignifcant was passing. This is important to know since passing between players is probably the most common event in basketball. Because of the fast pace of the sport, it may be difficult to<br>
+accurately keep track of every pass. The sample population thought that scoring was the most important event to track. This is also good news because there is usually a brief pause after each score; this event can be easily and accurately logged in almost all circumstances.<br>
+<br>
+In addition, most people indicated that they would be willing to view the game on line if they cannot attend the actual game. This is very important because it shows that there is definitely a fan base that would benefit from the interface. Because stadiums can only fit so many people, a vast majority of fans will have to either view the scores on line or watch the game TV. Since most people don't have access to the television at all times, there will probably be a large online audience for each basketball game.<br>
+<br>
+Another goal of the survey was to determine what kind of device the user plans to view the information on. A vast majority said they would be using a laptop. A smaller minority<br>
+told us that they would be using mobile phones. This information will be useful later when we design the actual user interface. It will let us know how to properly format the<br>
+data so that it is easily readable on the user's screen. Also, this helps us figure out how much information should be displayed. Because the vast majority of the viewers will<br>
+be using a laptop, it will be acceptable to provide more detailed information. This is because a laptop screen is capable of displaying more information and because navigating<br>
+with a mouse is much easier.<br>
+<br>
+The survey also indicated how closely people follow basketball. The respondants were asked to rate how closely they follow the sport on a scale from 1 to 5. There was a very even distribution of scores. This means that the information about the game that the reporter reports needs to satisfy a very wide audience. Any reporting must be detailed enough for a hardcore basketball fan, but not too verbose that a casual follower would be turned off. The balance of the amount and detail of information will be an important consideration when we start designing the interface.<br>
+<br>
+The last goal of the survey was to discern the gravity of mistakes make on the basketball report. We asked the respondents to describe how frustrated they would be by any mistakes on the record. On a scale of 1 to 5, most replied with a 3. This demonstrates that even though mistakes are not the end of the world, most users do mind that they are made. We should make every effort possible to eliminate every mistake so that online users are not misinformed when they discuss the game with their friends. As we will see later in the interview, mistakes should be avoided at all times. Also, the interface should contain a feature that can correct mistakes. This way, even if there was an error on the live update, it can be easily corrected so that the record is 100 percent accurate.<br>
+<br>
+</p>
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase1FieldStudiesandArtifacts'> Link here </a>
+
+<h2>Client Interview Summary:</h2>
+<p>
+The interview with out client provided a lot of important imformation regarding the interface. The biggest concern was the speed of the game. In basketball, many events can happen within the<br>
+time frame of just several seconds. This makes it difficult for someone to capture everything that is going on with 100 percent accuracy. Fortunatley, there are many commerical breaks, fouls,<br>
+and time outs that pause the action. These spare seconds are usually enough for the reporter to catch up on whats going on or correct any mistakes he may have made. The interviewee also<br>
+said that he would be very interested fixing any mistakes he made while recording the game. This is one feature that should definitely be included in the interface. Both the reporter<br>
+and the users have indicated that mistakes are unacceptable.<br>
+<br>
+The interviewee said that the current interface he uses to log games is a simple keyboard and notepad program on his laptop. He mentioned that he is a very fast typer and generally has<br>
+no problems keeping up with the action. However, he doesn't write in grammatically correct sentences. Upon observation of his reporting, it was immediately obvious that his sentences<br>
+contained very sparse details and would not be fit for an online audience. When we asked him to type out a little more detail, he started to lag and could not keep up with the pace of<br>
+the game. Even at breaks such as foul shots or time outs, he was too far behind to catch up properly. This illustrates the need for a new interface that doesn't just consist of typing.<br>
+<br>
+Another important peice of information we found from the interview is the significance of distractions at basketball games. The coach, players, and audience are all yelling each other.<br>
+If there is too much noise or if someone obstructs his view, it greatly hampers his ability to accurately record the game. The reporter needs to have a full view of the court at all<br>
+times. Considering this, it may be necessary to have additional video screens linked up to cameras all over the court. This way, the reporter can get the view from different perspectives<br>
+so he knows that he won't miss a thing.<br>
+<br>
+Besides this crucial information about reporting from the sidelines, there are a few other interesting bits of knowledge that should be extracted from the interview. The interviewee complained about the length of the game and how stressful it is to constantly pay attention for the full duration of the game. Further research should be done to see if we can design an interface that somehow reduces stress levels or increase concentration. It is certainly important that the screen is not too hard on the eyes, because that may make the reporter<br>
+tired or dizzy. The interviewee also mentioned that his device of choice to report on is a laptop. This is because they are neither too small nor too big. They can run a lot of different software and are very powerful without losing portability.<br>
+</p>
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase1FieldStudiesandArtifacts'> Link here </a>
+
+<br>
+
+<h2>
+Stakeholder Profiles:<br>
+</h2>
+
+<table border='1'>
+<tr>
+<th>Stakeholder</th>
+<th>Characteristics</th>
+</tr>
+<tr>
+<td>End User</td>
+<td>
+
+<u>Background:</u>
+<p>
+Typically basketball fans, with a particular interest in the team they support. Medium to low computer knowledge.<br>
+</p>
+
+<u>Expectations:</u>
+<p>The system should accurately update them on the game in a timely fashion. Including updates of all the events they are interested in.<br>
+Also expect to feel immersed in the action of the game.<br>
+</p>
+
+<u>Preferences:</u>
+<p>
+Preference for browser driven applications, comfortable on Windows and Mac platforms, as well as Android and iOS mobile platforms.<br>
+</p>
+
+</td>
+</tr>
+<tr>
+<td>Recorder</td>
+<td>
+
+<u>Background:</u>
+<p>
+Experienced Basketball statistician with a high level of basketball knowledge. Focused on getting the event recorded correctly, especially the first time.<br>
+Familiar with Windows, Android, and iOS device platforms. Has a background using keyboard, mouse, and touch screen input methods with extensive training in keyboard use.<br>
+</p>
+
+<u>Expectations:</u>
+<p> The interface should be primarily reliable and responsive. The interface should also be simple and clean, not distracting from the game.<br>
+Should provide the ability to quickly and easily modify previous entries. Additionally it should be portable, allowing the user to move freely. Ability to pass control to another user.<br>
+</p>
+
+<u>Preferences:</u>
+<p>
+Prefer mobile platforms such as a tablet or laptop. Wants the ability to support passing control to another user. Most comfortable with keyboard input device and touch screens.<br>
+</p>
+
+</td>
+</tr>
+<tr>
+<td>Team</td>
+<td>
+
+<u>Background:</u>
+<p>
+<blockquote>Familiar with various record keeping systems, employer of recorder.<br>
+</p></blockquote>
+
+<u>Expectations:</u>
+<p>
+The system should reliably update their fans in such a manner that is entertaining enough to make them feel involved with the game and the team. Additionally the system should automate as much as possible.<br>
+Should require as few operators as possible. The system should not be over taxing for their employees to use.<br>
+</p>
+
+<u>Preferences:</u>
+<p>
+The system should be small and discrete, not taking up a lot of space in the arena or be distracting for fans, staff, or players in the arena.<br>
+</p>
+
+</td>
+</tr>
+</table>
+
+
+
+
+<br><br>
+<h2>Task analysis:</h2>
+
+<h3>Create a new record</h3>
+<dl>
+<blockquote><dt>1.0 Identify</dt>
+<dd>1.1 Decide event type</dd>
+<dd>1.2 Identify players involved</dd>
+<dd>1.3 Decided location on court</dd></blockquote>
+
+<blockquote><dt>2.0 Input</dt>
+<dd>2.1 Indicate event type</dd>
+<dd>2.2 Select any involved player(s)</dd>
+<dd>2.3 Indicate court location</dd>
+<dd>2.4 Confirm entry</dd></blockquote>
+
+<blockquote><dt>3.0 Review</dt>
+<dd>3.1 Review record created</dd>
+<dd>3.2 Modify record if needed</dd>
+</dl></blockquote>
+
+<h3>Modify a record</h3>
+<dl>
+<blockquote><dt>1.0 Review</dt>
+<dd>1.1 Look through record list</dd>
+<dd>1.2 Find incorrect record.</dd></blockquote>
+
+<blockquote><dt>2.0 Modify</dt>
+<dd>2.1 Select record</dd>
+<dd>2.2 Replace/Remove record</dd>
+<dd>2.3 Create new record</dd>
+<dd>2.4 Position in list if needed</dd></blockquote>
+
+</dl>
+
+
+
+<br><br>
+<h2>Artifact Analysis</h2>
+
+<table border='1'>
+<tr>
+<th>Artifact</th>
+<th>Implied Information</th>
+</tr>
+<tr>
+<td>Paper Record Sheet</td>
+<td>
+
+<u>Information:</u>
+<p>
+Relevant statistics; statistic importance hierarchy; foul limit;<br>
+</p>
+
+<u>Procedures:</u>
+<p>
+Update rosters; record score; record points; compile totals; track timeouts; keep track of period and time.<br>
+</p>
+
+</td>
+</tr>
+<tr>
+<td>Digital Record Keeping Software Interface</td>
+<td>
+
+<u>Information:</u>
+<p>
+What players are in the game; game statistics; chronological game events;<br>
+</p>
+
+<u>Procedures:</u>
+<p>
+Create game event records; keep track of time, rosters, and players; update shot and miss locations;<br>
+</p>
+
+</td>
+</tr>
+<tr>
+<td>Older Stats Recording System</td>
+<td>
+
+<u>Information:</u>
+<p>
+Relevant game information, statistics, and rosters.<br>
+</p>
+
+<u>Procedures:</u>
+<p>
+Input all game events via simple text menus and keyboard strokes. Edit events, rosters, and location information.<br>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br><br>
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase1HomePage'>Back to Phase 1 Home</a>

@@ -1,0 +1,39 @@
+<h1>Prototyping</h1>
+<p>
+After thoroughly examining our study results, it became very obvious that a serious design flaw was present. This flaw really became apparent during our initial study stage. In this stage the user was not instructed in how to use the software. This stage measured the intuitiveness of the software, and our results were dismal. In every case, except one, the user could not figure out how to generate game events. The problem was the input gesture. We designed our system to accept a prolonged swipe between input targets, and almost every user tried to tap the target inputs. Aside from this major issue we only had some other minor issues with our prototype.<br>
+</p>
+<p>
+These other minor issues mainly focused with the way information was presented to the user. In our initial design we decided that careful use of information hiding would focus the user into different workflows.  The design called for menus to “flow” out of each other while simultaneously hiding previous non-selected menus and irrelevant menu options.  This effect would literally look like a tree limb branching apart until a leaf was reached. Because the nature of this effect would involve a larger effort than what was available we scaled back the effect into a simpler series of views that pop open when the initial target calls them.  We violated our initial design by not hiding irrelevant menu options and also reused the initial menu location. By reusing the initial menu location we did not successfully re-create the smooth workflow that we initially imagined.<br>
+</p>
+<p>
+After reviewing this information, our group decided on a prototype redesign which includes:<br>
+<ul>
+<li>Switch input gestures from swiping to tapping.</li>
+<li>Implement the proper information hiding, hide irrelevant menu options.</li>
+<li>Implement all menu locations as per the original design specification</li>
+</ul>
+</p>
+
+<p>
+Finally here are the redesign screen shots:<br>
+</p>
+
+<img src='http://cs-3724-group1.googlecode.com/files/new_prototype-1.PNG.png' />
+<p>
+Here is the initial screen, not much has changed here.<br>
+</p>
+
+<img src='http://cs-3724-group1.googlecode.com/files/new_prototype-2.png' />
+<p>
+Here the user has tapped a player. Notice how the other player's disappear from view and the game event options are shown.<br>
+</p>
+
+<img src='http://cs-3724-group1.googlecode.com/files/new_prototype-3.png' />
+<p>
+Here the user has selected a game event, and now they are presented with a menu of only relevant and applicable choices.<br>
+</p>
+
+<p>
+Once the redesign was complete we decided to do a small study based on the changes we made. Look on our redesign evaluation page for more information about the study and its results.</p>
+
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase5HomePage'>Back to Phase 5 Home</a>

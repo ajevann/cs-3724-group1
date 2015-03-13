@@ -1,0 +1,127 @@
+<h1>Activity Claims</h1>
+
+<ul>
+<blockquote><li><h3>Menu selections pop out like a tree</h3>
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios'> Activity Scenario: Kenneth </a>
+<blockquote><h4>Pros</h4>
+<ul>
+<blockquote><li>Selections are easy to make</li>
+<li>Intuitive</li>
+<li>Minimizes clutter</li>
+</blockquote></ul>
+<h4>Cons</h4>
+<ul>
+<blockquote><li>Can't see all options at once</li>
+<li>Requires time to learn which menus lead to which options</li>
+</blockquote></ul>
+</blockquote></li>
+<br>
+<br>
+<hr><br>
+<br>
+<br>
+<li><h3>Buffer holds messages before they go live online</h3>
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios'> Activity Scenario: Kenneth </a>
+<blockquote><h4>Pros</h4>
+<ul>
+<blockquote><li>Mistakes can be fixed</li>
+<li>Reporter is clear on what just happened in case he needs to go back</li>
+</blockquote></ul>
+<h4>Cons</h4>
+<ul>
+<blockquote><li>Delay for users viewing on the website</li>
+</blockquote></ul>
+</blockquote></li>
+<br>
+<br>
+<hr><br>
+<br>
+<br>
+<li><h3>Interface is easy to use</h3>
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios'> Activity Scenario: Leo </a>
+<blockquote><h4>Pros</h4>
+<ul>
+<blockquote><li>Replacements are easy to find</li>
+<li>Less training is required</li>
+<li>Easier to use</li>
+</blockquote></ul>
+<h4>Cons</h4>
+<ul>
+<blockquote><li>A very experienced user might prefer more advanced systems</li>
+<li>Certain features of the program may have to be cut for simplicity's sake</li>
+</blockquote></ul>
+</blockquote></li>
+<br>
+<br>
+<hr><br>
+<br>
+<br>
+<li><h3>The system can generate messages for almost every situation</h3>
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios?ts=1299279497&updated=Phase2ActivityScenarios'> Activity Scenario: Leo </a>
+<blockquote><h4>Pros</h4>
+<ul>
+<blockquote><li>Reporter not burdened by constantly having to make custom events</li>
+<li>Online users get much more information about the game</li>
+</blockquote></ul>
+<h4>Cons</h4>
+<ul>
+<blockquote><li>More oppurtunities for error from the reporter</li>
+<li>Too much information may burden the user's experience, users may want a more streamlined version</li>
+</blockquote></ul>
+</blockquote></li>
+<br>
+<br>
+<hr><br>
+<br>
+<br>
+<li><h3>The reporter interfaces with the software using a touch screen</h3>
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios'> Activity Scenario: Leo </a>
+<blockquote><h4>Pros</h4>
+<ul>
+<blockquote><li>Reporter can easily customize button layouts to fit his or her needs</li>
+<li>Makes the selection of location based events (such as where a shot took place) much easier</li>
+<li>Interface is more intuitive and natural</li>
+</blockquote></ul>
+<h4>Cons</h4>
+<ul>
+<blockquote><li>Reporter might accidentally touch buttons</li>
+<li>Typing can be problematic</li>
+</blockquote></ul>
+</blockquote></li>
+<br>
+<br>
+<hr><br>
+<br>
+<br>
+<li><h3>Software allows the user to make custom events</h3>
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios'> Activity Scenario: Jon </a>
+<blockquote><h4>Pros</h4>
+<ul>
+<blockquote><li>Reporter can report events not built into software</li>
+<li>Special events such as fights can be easily recorded</li>
+</blockquote></ul>
+<h4>Cons</h4>
+<ul>
+<blockquote><li>Having to create custom events takes time away from the reporter's duty to report the game</li>
+</blockquote></ul>
+</blockquote></li>
+<br>
+<br>
+<hr><br>
+<br>
+<br>
+<li><h3>Interface saves games as a text file</h3>
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase2ActivityScenarios?ts=1299279497&updated=Phase2ActivityScenarios'> Activity Scenario: Jon </a>
+<blockquote><h4>Pros</h4>
+<ul>
+<blockquote><li>Games can be stored and viewed later</li>
+<li>Text files are universal and can be viewed anywhere</li>
+</blockquote></ul>
+<h4>Cons</h4>
+<ul>
+<blockquote><li>If information is not formatted properly, may be difficult to read</li>
+<li>Display will always be raw text</li>
+</blockquote></ul>
+</blockquote></li>
+<br><br>
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase2HomePage'>Back to Phase 2 Home</a>

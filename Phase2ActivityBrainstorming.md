@@ -1,0 +1,57 @@
+<h1>Phase 2 Activity Brainstorming</h1>
+
+<h2>Brainstorming </h2>
+
+
+<table border='1'>
+<tr>
+<th>Activity</th>
+<th>Metaphor</th>
+<th>Implications</th>
+<th>Technologies</th>
+<th>Implications</th>
+</tr>
+<tr>
+<td>Selecting a player is like picking a...</td>
+<td> Picking a teammate. </td>
+<td> <br />Browse from all potential players of given events. <br /><br /></td>
+<td> Clickable Icon</td>
+<td> Visual representation of selection.</td>
+</tr>
+<tr>
+<td>Creating a Game Action Event is like writing a...</td>
+<td><br /> Court transcript <br /><br /> Contact record <br /><br /> History<br /><br /> </td>
+<td> <br />Record all the events in a log. <br /><br /> Save detailed information about individuals.  <br /><br /> Chronological order  involving person(s) or event(s).<br /><br /></td>
+<td> Database <br /><br /> Spreadsheet </td>
+<td> Data stored in a uniform way. <br /><br /> Easily view of all events at once.</td>
+</tr>
+<tr>
+<td>Editing an Event is like using...</td>
+<td> Whiteout</td>
+<td> Remove old record first, write over it.</td>
+<td> Text Editor <br /><br /> Spreadsheet</td>
+<td> Quickly erase and re-enter data <br /><br /> One modular entry for each piece of data.</td>
+</tr>
+<tr>
+<td>Deleting an Event is like removing...</td>
+<td> Pages of a Book </td>
+<td><br /> Permanent loss of data. <br /><br /> </td>
+<td> Swipe Deletion</td>
+<td> Fast, fluid removal.</td>
+</tr>
+<td>Picking a court location is like picking a...</td>
+<td> Place on a map </td>
+<td><br /> Spatial representation of potential locations and current records. <br /><br /> </td>
+<td> GPS point</td>
+<td> Provides spatially aware information</td>
+
+</table>
+
+<br /><br />
+
+<h2>About the table</h2>
+<p>
+We came up with the actions on the table based on the root actions our system used. For example, creating an event where a player passes the ball to another player is a combination of selecting players and creating a new event. We chose to display our activities this way because listing each potential combination would be repetitive and not contribute to the design of activities for the system. After examining everything that out system needed to do, we came up with this fundamental list of activities. We rejected several ideas such as including the activity of possession changes which would require particular team focus. Instead, we tried to focus on making our events centered around the movement of the ball on the court. This approach bested encompassed all of the similar and repetitive activities required for a basketball recording system while utilizing the smallest set of activities possible.<br>
+</p>
+
+<a href='http://code.google.com/p/cs-3724-group1/wiki/Phase2HomePage'>Back to Phase 2 Home</a>
